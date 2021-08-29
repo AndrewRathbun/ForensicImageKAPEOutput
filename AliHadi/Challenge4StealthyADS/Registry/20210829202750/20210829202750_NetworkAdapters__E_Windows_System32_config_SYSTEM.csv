@@ -1,0 +1,3 @@
+﻿Timestamp,BatchKeyPath,DriverDesc,BatchValueName,DriverDate,DriverVersion,ProviderName,DeviceInstanceid
+2019-03-19 20:55:24.3032928,ROOT\ControlSet001\Control\Class\{4d36e972-e325-11ce-bfc1-08002be10318}\0000,Microsoft Kernel Debug Network Adapter,Multiple,6-21-2006,10.0.17763.1,Microsoft,ROOT\KDNIC\0000
+2019-03-19 20:55:34.2406408,ROOT\ControlSet001\Control\Class\{4d36e972-e325-11ce-bfc1-08002be10318}\0001,Intel(R) PRO/1000 MT Network Connection,Multiple,3-23-2010,8.4.13.0,Microsoft,PCI\VEN_8086&DEV_100F&SUBSYS_075015AD&REV_01\4&bbf9765&0&0888

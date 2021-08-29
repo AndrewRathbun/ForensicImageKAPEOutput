@@ -1,0 +1,72 @@
+SBECmd version 1.4.0.0
+
+Author: Eric Zimmerman (saericzimmerman@gmail.com)
+https://github.com/EricZimmerman
+
+Command line: -d M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout --csv M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\mout\FileFolderAccess -q
+
+Directory to process: M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout
+Deduplication: False
+All messages will be saved to 'M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\mout\FileFolderAccess\!SBECmd_Messages.txt'
+Time zone: UTC
+
+Processing 'M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Users\Default\NTUSER.DAT'
+	There was an error processing 'M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Users\Default\NTUSER.DAT'. Error message: 'Software\Microsoft\Windows\Shell\BagMRU' not found in 'C:\Users\Default\NTUSER.DAT'
+
+Processing 'M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Users\IEUser\NTUSER.DAT'
+Two transaction logs found. Determining primary log...
+Primary log: M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Users\IEUser\ntuser.dat.LOG1, secondary log: M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Users\IEUser\ntuser.dat.LOG2
+Replaying log file: M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Users\IEUser\ntuser.dat.LOG1
+Replaying log file: M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Users\IEUser\ntuser.dat.LOG2
+At least one transaction log was applied. Sequence numbers have been updated to 0x0076. New Checksum: 0x6DEC373F
+
+Parse time: 0.08 seconds
+
+	Total ShellBags found: 0
+
+	Totals by bag type
+
+
+Finished processing 'M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Users\IEUser\NTUSER.DAT'
+
+Exported to: 'M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\mout\FileFolderAccess\M__Forensics_TrainingImages_AliHadi_Challenge4StealthyADS_tout_E_Users_IEUser_NTUSER.DAT.csv'
+
+---------------------------------------------------------------------
+Processing 'M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\ServiceProfiles\LocalService\NTUSER.DAT'
+Single log file available: M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\ServiceProfiles\LocalService\NTUSER.DAT.LOG1
+Replaying log file: M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\ServiceProfiles\LocalService\NTUSER.DAT.LOG1
+At least one transaction log was applied. Sequence numbers have been updated to 0x002C. New Checksum: 0x83A7C143
+	There was an error processing 'M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\ServiceProfiles\LocalService\NTUSER.DAT'. Error message: 'Software\Microsoft\Windows\Shell\BagMRU' not found in 'rofiles\LocalService\NTUSER.DAT'
+
+Processing 'M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\ServiceProfiles\NetworkService\NTUSER.DAT'
+Single log file available: M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\ServiceProfiles\NetworkService\NTUSER.DAT.LOG1
+Replaying log file: M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\ServiceProfiles\NetworkService\NTUSER.DAT.LOG1
+At least one transaction log was applied. Sequence numbers have been updated to 0x002E. New Checksum: 0x806DD18C
+	There was an error processing 'M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\ServiceProfiles\NetworkService\NTUSER.DAT'. Error message: 'Software\Microsoft\Windows\Shell\BagMRU' not found in 'files\NetworkService\NTUSER.DAT'
+
+Processing 'M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Users\IEUser\AppData\Local\Microsoft\Windows\UsrClass.dat'
+Single log file available: M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Users\IEUser\AppData\Local\Microsoft\Windows\UsrClass.dat.LOG1
+Replaying log file: M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Users\IEUser\AppData\Local\Microsoft\Windows\UsrClass.dat.LOG1
+At least one transaction log was applied. Sequence numbers have been updated to 0x002C. New Checksum: 0xAD17A393
+
+Parse time: 0.26 seconds
+
+	Total ShellBags found: 9
+
+	Totals by bag type
+
+	Root folder: GUID: 4
+	Directory: 4
+	Drive letter: 1
+
+Finished processing 'M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Users\IEUser\AppData\Local\Microsoft\Windows\UsrClass.dat'
+
+Exported to: 'M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\mout\FileFolderAccess\M__Forensics_TrainingImages_AliHadi_Challenge4StealthyADS_tout_E_Users_IEUser_AppData_Local_Microsoft_Windows_UsrClass.dat.csv'
+
+---------------------------------------------------------------------
+
+Processing complete!
+Processed 5 file(s) in 0.34 seconds!
+Total ShellBags found: 9
+
+

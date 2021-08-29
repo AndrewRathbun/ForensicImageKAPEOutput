@@ -1,0 +1,2 @@
+﻿EntryPoint,Signature,BytesPerSector,SectorsPerCluster,ClusterSize,ReservedSectors,TotalSectors,MftClusterBlockNumber,MftMirrClusterBlockNumber,MftEntrySize,IndexEntrySize,VolumeSerialNumberRaw,VolumeSerialNumber,VolumeSerialNumber32,VolumeSerialNumber32Reverse,SectorSignature,SourceFile
+0xEB 0x52 0x90,"NTFS    ",512,8,4096,0,83881983,786432,2,1024,4096,0xBAB00A24B009E7A9,A9 E7 09 B0 24 0A B0 BA,A9 E7 09 B0,B0 09 E7 A9,55 AA,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\$Boot

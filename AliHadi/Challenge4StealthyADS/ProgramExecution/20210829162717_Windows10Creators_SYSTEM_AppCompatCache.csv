@@ -1,0 +1,320 @@
+ControlSet,CacheEntryPosition,Path,LastModifiedTimeUTC,Executed,Duplicate,SourceFile
+1,0,C:\Windows\System32\PickerHost.exe,2018-09-15 07:28:30,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,1,C:\Windows\system32\NETSTAT.EXE,2018-09-15 07:29:14,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,2,\\?\C:\Users\IEUser\Desktop\creepy\welcome2.txt:revshell.exe,2019-05-26 08:33:33,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,3,\\?\C:\Users\IEUser\Desktop\creepy\welcome.txt:putty.exe,2019-05-26 08:33:19,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,4,C:\Windows\SysWOW64\notepad.exe,2018-09-15 07:29:13,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,5,\\?\C:\Users\IEUser\Desktop\creepy\COM1.txt:revshell.exe,2019-05-26 08:37:34,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,6,\\?\C:\Users\IEUser\Desktop\creepy\LPT1.txt:putty.exe,2019-05-26 08:37:19,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,7,C:\Windows\system32\ipconfig.exe,2018-09-15 07:29:14,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,8,C:\Users\IEUser\Desktop\creepy\putty.exe,2019-05-24 04:39:58,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,9,C:\Users\IEUser\Desktop\creepy\rev.exe,2019-05-24 04:49:16,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,10,C:\Windows\SystemApps\InputApp_cw5n1h2txyewy\Application,2019-03-19 13:19:08,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,11,SIGN.MEDIA=19984A Tools\putty.exe,2019-05-24 04:39:58,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,12,SIGN.MEDIA=19984A Tools\rev.exe,2019-05-24 04:49:16,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,13,C:\Windows\SystemApps\Microsoft.Windows.SecHealthUI_cw5n1h2txyewy\Application,2019-03-19 20:55:46,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,14,C:\Windows\System32\sihclient.exe,2018-09-15 07:29:24,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,15,C:\Windows\TEMP\901395B8-708E-427E-A0AB-F6D24408F826\dismhost.exe,2018-09-15 06:09:27,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,16,C:\Windows\system32\consent.exe,2018-09-15 07:28:52,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,17,C:\Users\IEUser\AppData\Local\Microsoft\OneDrive\OneDriveStandaloneUpdater.exe,2019-03-19 13:01:52,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,18,C:\Windows\System32\wsqmcons.exe,2018-09-15 07:28:45,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,19,C:\Windows\system32\sc.exe,2018-09-15 07:29:14,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,20,C:\Windows\system32\SgrmBroker.exe,2018-09-15 07:29:13,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,21,C:\Windows\TEMP\5728FFBA-92DC-47A1-8262-55B68BB198CC\dismhost.exe,2018-09-15 06:09:27,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,22,C:\Windows\Microsoft.NET\Framework64\v4.0.30319\NGenTask.exe,2018-09-15 07:29:50,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,23,C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe,2018-09-15 07:29:57,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,24,C:\ProgramData\Microsoft\Windows Defender\platform\4.18.1902.2-0\MpCmdRun.exe,2019-03-19 13:08:13,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,25,C:\Program Files\VMware\VMware Tools\VMwareResolutionSet.exe,2018-03-22 10:00:26,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,26,C:\Windows\system32\sppsvc.exe,2019-03-19 13:15:46,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,27,C:\Windows\system32\Sysprep\sysprep.exe,2018-09-15 07:28:44,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,28,C:\Windows\system32\wlrmdr.exe,2018-09-15 07:28:45,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,29,C:\Windows\Temp\sdelete.exe,2018-11-15 15:33:40,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,30,C:\Windows\Temp\ultradefrag-portable-6.1.0.i386\udefrag.exe,2015-04-19 12:57:54,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,31,C:\Windows\System32\msdtc.exe,2018-09-15 07:29:16,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,32,C:\Program Files\Common Files\VMware\Drivers\vss\comreg.exe,2018-03-22 10:03:58,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,33,C:\Program Files\VMware\VMware Tools\vmtoolsd.exe,2018-03-22 10:00:28,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,34,C:\Program Files\VMware\VMware Tools\guestproxycerttool.exe,2018-03-22 10:00:36,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,35,C:\Windows\syswow64\WOWReg32.exe,2018-09-15 07:29:12,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,36,C:\Program Files\VMware\VMware Tools\VMware VGAuth\VGAuthService.exe,2018-03-22 09:39:28,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,37,C:\Program Files\VMware\VMware Tools\vmacthlp.exe,2018-03-22 09:56:30,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,38,C:\Program Files\VMware\VMware Tools\TPVCGateway.exe,2018-03-22 09:04:38,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,39,C:\Program Files\VMware\VMware Tools\TPAutoConnSvc.exe,2018-03-22 09:04:42,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,40,C:\Windows\System32\printui.exe,2018-09-15 07:28:57,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,41,c:\0d44ffe1b31dc1b68652a027f5c7\install.exe,2011-04-19 11:09:16,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,42,C:\Users\IEUser\AppData\Local\Temp\{43D9111A-EA02-4682-BF3C-EFDCB62A89B0}~setup\vcredist_x64.exe,2019-03-19 13:24:30,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,43,c:\b1b4a6487d9ed7b94c6e\install.exe,2011-04-19 07:30:10,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,44,C:\Program Files (x86)\7-Zip\7zFM.exe,2010-11-19 04:09:02,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,45,C:\Users\IEUser\AppData\Local\Temp\{43D9111A-EA02-4682-BF3C-EFDCB62A89B0}~setup\vcredist_x86.exe,2019-03-19 13:24:30,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,46,C:\Windows\Temp\VMWare\setup64.exe,2018-03-22 10:11:19,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,47,C:\Windows\Temp\VMWare\setup.exe,2018-03-22 10:11:19,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,48,C:\Program Files (x86)\7-Zip\7z.exe,2010-11-19 04:08:04,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,49,C:\Windows\System32\OpenSSH\scp.exe,2018-09-15 09:08:37,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,50,C:\Windows\System32\OpenSSH\ssh-keygen.exe,2018-09-15 09:08:37,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,51,C:\Windows\System32\OpenSSH\sshd.exe,2019-03-19 13:23:48,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,52,C:\Windows\system32\hostname.EXE,2018-09-15 07:29:14,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,53,C:\Users\IEUser\AppData\Local\Temp\852DE2B4-535E-4A18-A709-0EEB2A6FE810\dismhost.exe,2018-09-15 06:09:27,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,54,C:\Windows\System32\shutdown.exe,2018-09-15 07:28:50,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,55,C:\Program Files\Puppet Labs\Puppet\bin\run_puppet_interactive.bat,2016-04-25 20:19:04,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,56,C:\Program Files\Puppet Labs\Puppet\bin\run_facter_interactive.bat,2016-04-25 20:19:04,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,57,C:\Program Files\Puppet Labs\Puppet\sys\ruby\bin\ruby.exe,2016-04-25 20:43:58,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,58,C:\ProgramData\chocolatey\bin\choco.exe,2019-03-15 19:57:04,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,59,C:\ProgramData\chocolatey\choco.exe,2019-03-15 19:57:04,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,60,C:\Windows\System32\setx.exe,2018-09-15 07:29:14,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,61,C:\Windows\Microsoft.NET\Framework64\v4.0.30319\cvtres.exe,2018-09-15 07:29:51,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,62,C:\Windows\Microsoft.NET\Framework64\v4.0.30319\csc.exe,2018-09-15 07:29:49,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,63,C:\Users\IEUser\AppData\Local\Temp\chocolatey\chocInstall\7za.exe,2019-03-19 13:21:29,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,64,C:\Windows\system32\dashost.exe,2018-09-15 07:28:36,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,65,0000000b	03e84563015c0000	000c000000000000	8664	Microsoft.MicrosoftEdgeDevToolsClient	8wekyb3d8bbwe	neutral,,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,66,C:\Windows\system32\MusNotificationUx.exe,2019-03-19 13:15:34,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,67,C:\Windows\system32\MusNotification.exe,2019-03-19 13:15:34,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,68,C:\Windows\system32\MusNotifyIcon.exe,2019-03-19 13:15:34,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,69,C:\Windows\system32\usoclient.exe,2018-09-15 07:28:39,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,70,C:\Windows\System32\FodHelper.exe,2018-09-15 07:29:21,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,71,C:\Windows\System32\Speech_OneCore\Common\SpeechRuntime.exe,2018-09-15 07:28:39,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,72,C:\Windows\ImmersiveControlPanel\SystemSettings.exe,2018-09-15 07:29:46,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,73,C:\ProgramData\Microsoft\Windows Defender\platform\4.18.1902.2-0\NisSrv.exe,2019-03-19 13:08:13,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,74,C:\ProgramData\Microsoft\Windows Defender\platform\4.18.1902.2-0\MsMpEng.exe,2019-03-19 13:08:13,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,75,C:\Users\IEUser\AppData\Local\Temp\6792C904-1DF6-4AA9-AE27-AA4769FC0F51\MpSigStub.exe,2019-03-19 13:08:11,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,76,C:\Windows\SoftwareDistribution\Download\Install\UpdatePlatform.exe,2019-03-19 13:07:50,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,77,C:\Windows\winsxs\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.17763.164_none_7e114a3d4d0589d4\TiWorker.exe,2018-09-15 06:09:30,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,78,C:\Users\IEUser\AppData\Local\Microsoft\OneDrive\18.143.0717.0002\FileCoAuth.exe,2019-03-19 13:01:45,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,79,C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorsvw.exe,2018-09-15 07:29:49,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,80,C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe,2018-09-15 07:29:57,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,81,C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Ngen.exe,2018-09-15 07:29:51,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,82,C:\Windows\Microsoft.NET\Framework\v4.0.30319\Ngen.exe,2018-09-15 07:29:58,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,83,C:\Windows\SoftwareDistribution\Download\Install\AM_Delta.exe,2019-03-19 13:02:55,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,84,C:\Windows\SoftwareDistribution\Download\Install\AM_Base.exe,2019-03-19 13:02:56,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,85,C:\Windows\system32\MpSigStub.exe,2019-03-19 13:02:52,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,86,C:\Windows\SoftwareDistribution\Download\Install\AM_Engine.exe,2019-03-19 13:02:53,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,87,C:\Windows\SoftwareDistribution\Download\Install\MpSigStub.exe,2019-03-19 13:02:52,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,88,C:\Windows\system32\AppHostRegistrationVerifier.exe,2018-09-15 07:28:30,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,89,C:\Windows\system32\wbem\WmiApSrv.exe,2018-09-15 07:28:25,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,90,C:\Windows\System32\LocationNotificationWindows.exe,2018-09-15 07:29:19,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,91,C:\Program Files\WindowsApps\Microsoft.BingWeather_4.25.12127.0_x64__8wekyb3d8bbwe\Application,2019-03-19 20:55:53,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,92,C:\Program Files\Microsoft Silverlight\5.1.50918.0\Silverlight.Configuration.exe,2018-10-24 03:26:28,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,93,C:\Program Files\WindowsApps\Microsoft.Messaging_3.43.27001.0_x64__8wekyb3d8bbwe\Application,2019-03-19 20:55:57,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,94,\\?\C:\Windows\system32\wbem\WMIADAP.EXE,2018-09-15 07:28:25,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,95,C:\Users\IEUser\AppData\Local\Microsoft\OneDrive\Update\OneDriveSetup.exe,2019-03-19 13:04:58,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,96,C:\Program Files\WindowsApps\Microsoft.OneConnect_5.1807.1991.0_x64__8wekyb3d8bbwe\Application,2019-03-19 20:56:10,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,97,C:\Program Files\WindowsApps\Microsoft.Wallet_2.2.18179.0_x64__8wekyb3d8bbwe\Application,2019-03-19 20:56:18,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,98,C:\Users\IEUser\AppData\Local\Microsoft\OneDrive\OneDrive.exe,2019-03-19 13:01:51,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,99,C:\Users\IEUser\AppData\Local\Microsoft\OneDrive\18.143.0717.0002\FileSyncConfig.exe,2019-03-19 13:01:45,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,100,C:\Program Files\WindowsApps\Microsoft.XboxApp_41.41.18001.0_x64__8wekyb3d8bbwe\Application,2019-03-19 20:56:42,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,101,C:\Program Files\WindowsApps\Microsoft.XboxGameOverlay_1.32.17005.0_x64__8wekyb3d8bbwe\Application,2019-03-19 20:56:43,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,102,C:\Windows\system32\MRT.exe,2019-03-19 13:04:43,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,103,C:\Windows\SoftwareDistribution\Download\Install\Windows-KB890830-x64-V5.70.exe,2019-03-19 13:02:46,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,104,C:\Program Files\WindowsApps\Microsoft.SkypeApp_14.26.95.0_x64__kzf8qxf38zg5c\Application,2019-03-19 20:56:16,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,105,C:\Program Files\WindowsApps\Microsoft.WindowsAlarms_10.1805.1361.0_x64__8wekyb3d8bbwe\Application,2019-03-19 20:56:23,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,106,C:\Windows\SysWOW64\rundll32.exe,2018-09-15 07:29:12,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,107,c:\Windows\syswow64\MsiExec.exe,2018-09-15 07:29:28,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,108,C:\Program Files\Microsoft Silverlight\5.1.50918.0\coregen.exe,2018-10-24 03:26:28,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,109,C:\Windows\Installer\MSI1134.tmp,2019-03-19 13:03:22,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,110,0000000b	000a000045630001	000a000000000000	8664	Microsoft.CredDialogHost	cw5n1h2txyewy	,,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,111,0000000b	000a000045630001	000a000038390000	8664	Microsoft.ECApp	8wekyb3d8bbwe	,,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,112,C:\Program Files (x86)\Microsoft Silverlight\5.1.50918.0\coregen.exe,2018-10-24 03:06:38,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,113,C:\Windows\Installer\MSIDD42.tmp,2019-03-19 13:03:09,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,114,0000000b	03e8456300010000	000a000000000000	8664	Microsoft.Windows.AssignedAccessLockApp	cw5n1h2txyewy	neutral,,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,115,C:\Windows\Installer\MSID12B.tmp,2019-03-19 13:03:06,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,116,C:\Windows\Installer\MSID0FB.tmp,2019-03-19 13:03:06,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,117,C:\Windows\system32\msiexec.exe,2018-09-15 07:29:20,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,118,c:\5752171d4ebdbaa67c84aad7b2dd2b84\install.exe,2018-10-24 04:41:30,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,119,0000000b	03e8456300010000	03e8456300010000	8664	InputApp	cw5n1h2txyewy	neutral,,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,120,C:\Windows\SoftwareDistribution\Download\Install\Silverlight_x64.exe,2019-03-19 13:02:31,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,121,C:\Windows\system32\vssvc.exe,2018-09-15 07:28:39,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,122,C:\Windows\system32\wuauclt.exe,2018-09-15 07:28:34,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,123,0000000b	000a000045630001	000a000045630001	8664	F46D4000-FD22-4DB4-AC8E-4E1DDDE828FE	cw5n1h2txyewy	neutral,,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,124,0000000b	000a000045630001	000a000045630001	8664	E2A4F912-2574-4A75-9BB0-0D023378592B	cw5n1h2txyewy	neutral,,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,125,0000000b	000a000045630001	000a000042ee0000	8664	c5e2524a-ea46-4f67-841f-6a9465d9d515	cw5n1h2txyewy	neutral,,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,126,0000000b	000a000045630001	000a000038390000	8664	Microsoft.AsyncTextService	8wekyb3d8bbwe	,,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,127,0000000b	000a000045630001	000a000000000000	8664	Microsoft.LockApp	cw5n1h2txyewy	,,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,128,0000000b	03e8456300010000	000c000000000000	8664	Microsoft.MicrosoftEdgeDevToolsClient	8wekyb3d8bbwe	neutral,,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,129,0000000b	000a000045630001	000b000000000000	8664	Microsoft.Win32WebViewHost	cw5n1h2txyewy	neutral,,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,130,0000000b	000a000045630001	000a000045630001	8664	1527c705-839a-4832-9118-54d4Bd6a0c89	cw5n1h2txyewy	neutral,,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,131,0000000b	000a000045630001	000a0000452b0000	8664	Microsoft.Windows.NarratorQuickStart	8wekyb3d8bbwe	neutral,,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,132,0000000b	000a000045630001	000a000045630001	8664	Microsoft.Windows.CapturePicker	cw5n1h2txyewy	,,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,133,0000000b	03e8456300010000	000a000000000000	8664	Microsoft.Windows.Apprep.ChxApp	cw5n1h2txyewy	neutral,,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,134,0000000b	000a000045630001	000a000000000000	8664	Microsoft.Windows.OOBENetworkCaptivePortal	cw5n1h2txyewy	,,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,135,0000000b	000a000045630001	000a000000000000	8664	Microsoft.Windows.OOBENetworkConnectionFlow	cw5n1h2txyewy	,,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,136,0000000b	03e8456300010000	000a000000000000	8664	Microsoft.Windows.ParentalControls	cw5n1h2txyewy	neutral,,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,137,0000000b	03e8456300010000	000a000000000000	8664	Microsoft.Windows.PinningConfirmationDialog	cw5n1h2txyewy	,,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,138,0000000b	000a000045630001	000a000045630001	8664	Microsoft.Windows.XGpuEjectDialog	cw5n1h2txyewy	neutral,,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,139,0000000b	000a000045630001	000a000042990000	8664	Windows.CBSPreview	cw5n1h2txyewy	neutral,,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,140,0000000b	0006000200010000	03e8456300010000	8664	Windows.PrintDialog	cw5n1h2txyewy	neutral,,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,141,C:\Windows\SysWOW64\OneDriveSetup.exe,2018-09-15 09:09:52,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,142,C:\Windows\system32\SecurityHealthService.exe,2019-03-19 13:15:38,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,143,C:\Windows\System32\SecurityHealthSystray.exe,2018-09-15 07:28:39,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,144,C:\Windows\system32\verclsid.exe,2018-09-15 07:28:58,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,145,C:\Windows\regedit.exe,2018-09-15 07:29:21,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,146,C:\Windows\syswow64\odbcad32.exe,2018-09-15 07:29:30,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,147,C:\Program Files\Windows NT\Accessories\wordpad.exe,2018-09-15 07:29:24,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,148,C:\Windows\system32\WindowsPowerShell\v1.0\PowerShell_ISE.exe,2018-09-15 07:29:46,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,149,C:\Windows\system32\SnippingTool.exe,2018-09-15 07:29:22,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,150,C:\Windows\system32\quickassist.exe,2018-09-15 09:08:23,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,151,C:\Windows\system32\psr.exe,2018-09-15 07:28:42,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,152,C:\Windows\system32\osk.exe,2018-09-15 07:28:43,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,153,C:\Windows\system32\odbcad32.exe,2018-09-15 07:29:19,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,154,C:\Windows\system32\notepad.exe,2018-09-15 07:29:13,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,155,C:\Windows\system32\narrator.exe,2018-09-15 07:28:44,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,156,C:\Windows\system32\msinfo32.exe,2018-09-15 07:29:24,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,157,C:\Windows\system32\MdSched.exe,2018-09-15 07:29:24,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,158,C:\Windows\system32\magnify.exe,2018-09-15 07:28:44,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,159,C:\Windows\system32\iscsicpl.exe,2018-09-15 07:29:18,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,160,C:\Windows\system32\dfrgui.exe,2018-09-15 07:29:16,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,161,C:\Windows\system32\cleanmgr.exe,2018-09-15 07:29:14,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,162,C:\Windows\system32\charmap.exe,2018-09-15 07:29:22,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,163,C:\Windows\system32\mstsc.exe,2018-09-15 07:29:23,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,164,C:\Program Files (x86)\Windows Media Player\wmplayer.exe,2018-09-15 09:08:33,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,165,C:\Windows\system32\RecoveryDrive.exe,2018-09-15 07:29:22,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,166,C:\Windows\system32\control.exe,2018-09-15 07:28:24,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,167,C:\Program Files\internet explorer\iexplore.exe,2018-09-15 09:08:27,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,168,C:\Windows\Speech\Common\sapisvr.exe,2018-09-15 07:28:57,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,169,C:\Program Files\Common Files\Microsoft Shared\Ink\mip.exe,2018-09-15 09:08:19,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,170,C:\Windows\system32\taskmgr.exe,2019-03-19 13:15:48,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,171,C:\Windows\System32\mobsync.exe,2018-09-15 07:29:22,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,172,C:\Windows\system32\WFS.exe,2018-09-15 07:29:47,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,173,C:\Windows\system32\msconfig.exe,2018-09-15 07:29:20,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,174,C:\Windows\system32\mspaint.exe,2018-09-15 07:28:53,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,175,C:\Windows\System32\fsquirt.exe,2018-09-15 07:28:42,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,176,C:\Windows\system32\RDSPnf.exe,2018-09-15 07:29:23,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,177,C:\Windows\system32\Windows.WARP.JITService.exe,2018-09-15 07:28:32,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,178,C:\Program Files\WindowsApps\Microsoft.WindowsStore_11805.1001.49.0_x64__8wekyb3d8bbwe\Application,2019-03-19 20:56:40,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,179,C:\Windows\system32\browser_broker.exe,2019-03-19 13:15:36,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,180,C:\Program Files\WindowsApps\microsoft.windowscommunicationsapps_17.9330.21365.0_x64__8wekyb3d8bbwe\Application,2019-03-19 20:56:32,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,181,C:\Program Files\WindowsApps\Microsoft.Windows.Photos_2018.18051.21218.0_x64__8wekyb3d8bbwe\Application,2019-03-19 20:56:22,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,182,C:\Windows\system32\ApplicationFrameHost.exe,2018-09-15 07:28:39,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,183,0000000b	002c456300010000	000a000045630000	8664	Microsoft.MicrosoftEdge	8wekyb3d8bbwe	,,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,184,C:\Windows\SystemApps\Microsoft.MicrosoftEdge_8wekyb3d8bbwe\Application,2019-03-19 13:19:08,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,185,C:\Windows\system32\SettingSyncHost.exe,2018-09-15 07:28:58,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,186,C:\Windows\system32\dmclient.exe,2018-09-15 07:28:25,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,187,C:\Windows\system32\find.exe,2018-09-15 07:29:16,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,188,C:\Windows\system32\cscript.exe,2018-09-15 07:28:57,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,189,C:\Windows\System32\SLUI.exe,2018-09-15 07:28:45,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,190,C:\Windows\system32\SppExtComObj.exe,2019-03-19 13:15:46,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,191,C:\Windows\system32\net1.exe,2018-09-15 07:29:14,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,192,C:\Windows\system32\net.exe,2018-09-15 07:29:16,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,193,C:\bginfo\Bginfo.exe,2019-03-19 20:51:36,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,194,C:\Windows\System32\wscript.exe,2018-09-15 07:28:57,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,195,C:\Windows\System32\Wbem\WMIC.exe,2018-09-15 07:28:26,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,196,C:\Windows\System32\reg.exe,2018-09-15 07:29:14,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,197,C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\Application,2019-03-19 13:19:08,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,198,C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\Application,2019-03-19 20:55:47,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,199,00000009	0001000661470000	000a000027410000	8664	Microsoft.NET.Native.Framework.1.6	8wekyb3d8bbwe	,,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,200,00000000	0001000661470000	000a000027410000	8664	Microsoft.NET.Native.Framework.1.6	8wekyb3d8bbwe	,,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,201,00000009	0001000661470000	000a000027410000	8664	Microsoft.NET.Native.Runtime.1.6	8wekyb3d8bbwe	,,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,202,00000000	0001000661470000	000a000027410000	8664	Microsoft.NET.Native.Runtime.1.6	8wekyb3d8bbwe	,,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,203,00000009	0001000763bb0000	000a000027410000	8664	Microsoft.NET.Native.Framework.1.7	8wekyb3d8bbwe	,,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,204,00000000	0001000763bb0000	000a000027410000	8664	Microsoft.NET.Native.Framework.1.7	8wekyb3d8bbwe	,,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,205,00000009	0001000763bb0000	000a000027410000	8664	Microsoft.NET.Native.Runtime.1.7	8wekyb3d8bbwe	,,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,206,00000000	0001000763bb0000	000a000027410000	8664	Microsoft.NET.Native.Runtime.1.7	8wekyb3d8bbwe	,,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,207,00000009	000e000063520000	000a0000273a0000	8664	Microsoft.VCLibs.140.00	8wekyb3d8bbwe	,,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,208,00000000	000e000063520000	000a0000273a0000	8664	Microsoft.VCLibs.140.00	8wekyb3d8bbwe	,,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,209,C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,2018-09-15 07:29:56,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,210,C:\Windows\SysWOW64\cmd.exe,2018-09-15 07:29:07,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,211,0000000b	000a0000000203e8	000a000045630001	8664	windows.immersivecontrolpanel	cw5n1h2txyewy	neutral,,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,212,C:\Windows\System32\ie4uinit.exe,2018-09-15 07:29:16,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,213,C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe,2018-09-15 07:29:54,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,214,C:\Windows\System32\unregmp2.exe,2018-09-15 09:08:33,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,215,C:\Windows\System32\cmd.exe,2018-09-15 07:29:07,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,216,C:\Windows\system32\runonce.exe,2018-09-15 07:28:50,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,217,C:\Windows\system32\ctfmon.exe,2018-09-15 07:28:45,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,218,C:\Windows\SysWOW64\regsvr32.exe,2018-09-15 07:29:31,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,219,C:\Windows\system32\regsvr32.exe,2018-09-15 07:29:22,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,220,C:\Windows\System32\CloudExperienceHostBroker.exe,2018-09-15 07:28:40,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,221,C:\Windows\System32\RuntimeBroker.exe,2018-09-15 07:28:29,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,222,C:\Windows\System32\smartscreen.exe,2019-03-19 13:15:39,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,223,0000000b	000a000045630001	000a000045630000	8664	Microsoft.Windows.CloudExperienceHost	cw5n1h2txyewy	neutral,,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,224,C:\Windows\SystemApps\Microsoft.Windows.CloudExperienceHost_cw5n1h2txyewy\Application,2019-03-19 20:55:43,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,225,C:\Windows\SystemApps\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\Application,2019-03-19 13:19:08,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,226,C:\Windows\system32\SearchFilterHost.exe,2019-03-19 13:15:42,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,227,C:\Windows\system32\SearchProtocolHost.exe,2019-03-19 13:15:42,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,228,C:\Windows\Explorer.EXE,2019-03-19 13:15:37,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,229,C:\Windows\system32\userinit.exe,2018-09-15 07:28:45,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,230,C:\Windows\system32\MDMAgent.exe,2018-09-15 07:28:23,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,231,C:\Windows\system32\sihost.exe,2018-09-15 07:28:34,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,232,C:\Windows\system32\LogonUI.exe,2018-09-15 07:28:45,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,233,C:\Windows\system32\wermgr.exe,2018-09-15 07:28:46,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,234,C:\Windows\system32\dxgiadaptercache.exe,2018-09-15 07:28:32,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,235,C:\Windows\system32\compattelrunner.exe,2019-03-19 13:15:49,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,236,C:\Windows\system32\devicecensus.exe,2019-03-19 13:15:33,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,237,C:\Windows\system32\taskhostw.exe,2018-09-15 07:28:44,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,238,C:\Windows\system32\wbem\wmiprvse.exe,2018-09-15 07:28:29,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,239,C:\Windows\winsxs\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.17763.1_none_fa254b2e1f73e660\TiWorker.exe,2018-09-15 06:09:30,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,240,C:\Windows\system32\DllHost.exe,2018-09-15 07:28:45,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,241,C:\Windows\system32\utilman.exe,2018-09-15 07:28:42,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,242,C:\Windows\system32\mcbuilder.exe,2018-09-15 07:28:53,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,243,C:\Windows\system32\oobe\FirstLogonAnim.exe,2018-09-15 07:28:56,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,244,C:\Windows\system32\SearchIndexer.exe,2019-03-19 13:15:42,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,245,C:\Windows\system32\oobe\msoobe.exe,2018-09-15 07:28:55,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,246,C:\WINDOWS\SYSTEM32\MUIUNATTEND.EXE,2018-09-15 07:28:46,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,247,C:\Windows\system32\oobe\oobeldr.exe,2018-09-15 07:28:58,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,248,C:\WINDOWS\SYSTEM32\RUNDLL32.EXE,2018-09-15 07:28:57,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,249,C:\Windows\system32\provtool.exe,2018-09-15 07:28:25,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,250,C:\Windows\SysWOW64\ByteCodeGenerator.exe,2018-09-15 07:29:00,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,251,C:\Windows\system32\ByteCodeGenerator.exe,2018-09-15 07:28:29,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,252,00000009	000a46844ef30000	000a0000428b0000	8664	Microsoft.ZuneVideo	8wekyb3d8bbwe	,,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,253,00000009	000a46844ef30000	000a0000428b0000	8664	Microsoft.ZuneMusic	8wekyb3d8bbwe	,,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,254,00000009	000c002c4e210000	000a000042ee0000	8664	Microsoft.XboxIdentityProvider	8wekyb3d8bbwe	,,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,255,00000009	00010020426d0000	000a00003fab0000	8664	Microsoft.XboxGameOverlay	8wekyb3d8bbwe	,,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,256,00000009	0029002946510000	000a00003f810000	8664	Microsoft.XboxApp	8wekyb3d8bbwe	,,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,257,00000009	2e1d03e900310000	000a000042d20000	8664	Microsoft.WindowsStore	8wekyb3d8bbwe	,,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,258,00000009	000a070d07950000	000a000042ed0000	8664	Microsoft.WindowsSoundRecorder	8wekyb3d8bbwe	,,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,259,00000009	0005070d05970000	000a000042ed0000	8664	Microsoft.WindowsMaps	8wekyb3d8bbwe	,,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,260,00000009	0001070d091b0000	000a00003fab0000	8664	Microsoft.WindowsFeedbackHub	8wekyb3d8bbwe	,,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,261,00000009	0011247253750000	000a00003f3e0000	8664	microsoft.windowscommunicationsapps	8wekyb3d8bbwe	,,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,262,00000009	07e201a900780000	000a000042ee0000	8664	Microsoft.WindowsCamera	8wekyb3d8bbwe	,,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,263,00000009	000a070d04b10000	000a000042ed0000	8664	Microsoft.WindowsCalculator	8wekyb3d8bbwe	,,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,264,00000009	000a070d05510000	000a000042ed0000	8664	Microsoft.WindowsAlarms	8wekyb3d8bbwe	,,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,265,00000009	07e2468352e20000	000a000042ee0000	8664	Microsoft.Windows.Photos	8wekyb3d8bbwe	,,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,266,00000009	0001000030350000	000a00003fab0000	8664	Microsoft.WebMediaExtensions	8wekyb3d8bbwe	,,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,267,00000009	0002000247030000	000a00003fab0000	8664	Microsoft.Wallet	8wekyb3d8bbwe	,,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,268,00000009	2e1d03e900080000	000a000042d20000	8664	Microsoft.StorePurchaseApp	8wekyb3d8bbwe	,,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,269,00000009	000e001a005f0000	000a000042ee0000	8664	Microsoft.SkypeApp	kzf8qxf38zg5c	,,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,270,00000009	000a070e08400000	000a000045170000	8664	Microsoft.ScreenSketch	8wekyb3d8bbwe	,,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,271,00000009	0003000005f10000	000a000042ee0000	8664	Microsoft.Print3D	8wekyb3d8bbwe	,,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,272,00000009	000a070d05510000	000a000042ed0000	8664	Microsoft.People	8wekyb3d8bbwe	,,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,273,00000009	0005070f07c70000	000a000042ee0000	8664	Microsoft.OneConnect	8wekyb3d8bbwe	,,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,274,00000009	3e8127f44e230000	000a00003f3e0000	8664	Microsoft.Office.OneNote	8wekyb3d8bbwe	,,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,275,00000009	0004070f2efb0000	000a000042b70000	8664	Microsoft.MSPaint	8wekyb3d8bbwe	,,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,276,00000009	07d046a104da0000	000a000045180000	8664	Microsoft.MixedReality.Portal	8wekyb3d8bbwe	,,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,277,00000009	00020000000d0000	000a000042af0000	8664	Microsoft.MicrosoftStickyNotes	8wekyb3d8bbwe	,,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,278,00000000	0004000114840000	000a000042cd0000	8664	Microsoft.MicrosoftSolitaireCollection	8wekyb3d8bbwe	,,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,279,00000009	001122d617260000	000a000037b10000	8664	Microsoft.MicrosoftOfficeHub	8wekyb3d8bbwe	,,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,280,00000009	000407103aa40000	000a000042ef0000	8664	Microsoft.Microsoft3DViewer	8wekyb3d8bbwe	,,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,281,00000009	0003002b69790000	000a00003ad70000	8664	Microsoft.Messaging	8wekyb3d8bbwe	,,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,282,00000009	0006000d2d3d0000	000a000042ee0000	8664	Microsoft.Getstarted	8wekyb3d8bbwe	,,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,283,00000009	000a06aa28c90000	000a00003fab0000	8664	Microsoft.GetHelp	8wekyb3d8bbwe	,,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,284,00000009	0001000055fb0000	000a000045280000	8664	Microsoft.DesktopAppInstaller	8wekyb3d8bbwe	,,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,285,00000009	000400192f5f0000	000a000042ee0000	8664	Microsoft.BingWeather	8wekyb3d8bbwe	,,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,286,00000000	000a070c00020000	000a000028000000	8664	Microsoft.Advertising.Xaml	8wekyb3d8bbwe	,,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,287,00000009	000a070c00020000	000a000028000000	8664	Microsoft.Advertising.Xaml	8wekyb3d8bbwe	,,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,288,00000009	000a0000064a0000	000a000028000000	8664	Microsoft.Services.Store.Engagement	8wekyb3d8bbwe	,,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,289,00000000	000a0000064a0000	000a000028000000	8664	Microsoft.Services.Store.Engagement	8wekyb3d8bbwe	,,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,290,0000000b	03e8456300010000	000a000000000000	8664	Microsoft.XboxGameCallableUI	cw5n1h2txyewy	neutral,,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,291,0000000b	000a000045630001	000a000045630001	8664	Microsoft.Windows.ShellExperienceHost	cw5n1h2txyewy	neutral,,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,292,0000000b	000a000045630001	000a000000000000	8664	Microsoft.Windows.SecureAssessmentBrowser	cw5n1h2txyewy	neutral,,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,293,0000000b	000a000045630001	000a000045630001	8664	Microsoft.Windows.SecHealthUI	cw5n1h2txyewy	,,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,294,0000000b	000a000045630001	000a000045630001	8664	Microsoft.Windows.PeopleExperienceHost	cw5n1h2txyewy	neutral,,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,295,0000000b	0001000b00054563	000a000045630000	8664	Microsoft.Windows.Cortana	cw5n1h2txyewy	neutral,,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,296,0000000b	000a000045630001	000a000000000000	8664	Microsoft.Windows.ContentDeliveryManager	cw5n1h2txyewy	neutral,,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,297,0000000b	000a000045630001	000b000000000000	8664	Microsoft.Windows.CloudExperienceHost	cw5n1h2txyewy	neutral,,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,298,0000000b	000a000045630001	000a000000000000	8664	Microsoft.PPIProjection	cw5n1h2txyewy	neutral,,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,299,0000000b	002c456300010000	000c000000000000	8664	Microsoft.MicrosoftEdge	8wekyb3d8bbwe	,,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,300,C:\Program Files\Windows Defender\NisSrv.exe,2018-09-15 07:28:26,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,301,C:\Program Files\Windows Defender\MpCmdRun.exe,2018-09-15 07:28:26,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,302,0000000b	000a000045630001	000a00003fab0000	8664	Microsoft.BioEnrollment	cw5n1h2txyewy	,,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,303,0000000b	000a000045630001	000a000045630001	8664	Microsoft.AccountsControl	cw5n1h2txyewy	,,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,304,0000000b	03e8456300010000	000a0000295b0000	8664	Microsoft.AAD.BrokerPlugin	cw5n1h2txyewy	neutral,,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,305,C:\Windows\system32\DrvInst.exe,2018-09-15 07:28:55,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,306,C:\Windows\system32\wlms\wlms.exe,2018-09-15 09:09:53,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,307,C:\Program Files\Windows Defender\MsMpEng.exe,2018-09-15 07:28:26,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,308,C:\Windows\System32\spoolsv.exe,2018-09-15 07:28:24,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,309,C:\Windows\servicing\TrustedInstaller.exe,2018-09-15 06:09:27,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,310,C:\Windows\System32\Upfc.exe,2018-09-15 07:28:34,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,311,C:\Windows\system32\secinit.exe,2018-09-15 07:28:50,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,312,C:\Windows\system32\oobe\setup.exe,2018-09-15 07:28:57,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,313,C:\Windows\system32\oobe\windeploy.exe,2018-09-15 07:28:58,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,314,C:\Windows\system32\dwm.exe,2018-09-15 07:28:44,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,315,C:\Windows\system32\fontdrvhost.exe,2018-09-15 07:28:47,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,316,C:\Windows\system32\svchost.exe,2018-09-15 07:28:45,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,317,C:\Windows\system32\lsass.exe,2018-09-15 07:28:46,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM
+1,318,C:\Windows\system32\services.exe,2018-09-15 07:28:45,NA,False,M:\Forensics\TrainingImages\AliHadi\Challenge4StealthyADS\tout\E\Windows\System32\config\SYSTEM

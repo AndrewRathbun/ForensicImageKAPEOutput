@@ -1,0 +1,34 @@
+﻿Timestamp,BatchKeyPath,DriveName,BatchValueName,VolumeLabel
+2019-03-19 12:59:40.0727773,ROOT\Microsoft\Windows Search\VolumeInfoCache\A:,A:,Multiple,packer
+2019-03-19 12:59:40.0727773,ROOT\Microsoft\Windows Search\VolumeInfoCache\C:,C:,Multiple,Windows 10
+2018-09-15 07:36:04.3897343,ROOT\Microsoft\Windows\CurrentVersion\Uninstall\AddressBook,AddressBook,Multiple,,,,,,,
+2018-09-15 07:36:04.3897343,ROOT\Microsoft\Windows\CurrentVersion\Uninstall\Connection Manager,Connection Manager,Multiple,,,,,,,
+2018-09-15 07:36:04.3897343,ROOT\Microsoft\Windows\CurrentVersion\Uninstall\DirectDrawEx,DirectDrawEx,Multiple,,,,,,,
+2018-09-15 09:10:07.7984542,ROOT\Microsoft\Windows\CurrentVersion\Uninstall\DXM_Runtime,DXM_Runtime,Multiple,,,,,,,
+2018-09-15 07:36:04.3897343,ROOT\Microsoft\Windows\CurrentVersion\Uninstall\Fontcore,Fontcore,Multiple,,,,,,,
+2018-09-15 07:36:04.3897343,ROOT\Microsoft\Windows\CurrentVersion\Uninstall\IE40,IE40,Multiple,,,,,,,
+2018-09-15 07:36:04.3897343,ROOT\Microsoft\Windows\CurrentVersion\Uninstall\IE4Data,IE4Data,Multiple,,,,,,,
+2018-09-15 07:36:04.3897343,ROOT\Microsoft\Windows\CurrentVersion\Uninstall\IE5BAKEX,IE5BAKEX,Multiple,,,,,,,
+2018-09-15 07:36:04.3897343,ROOT\Microsoft\Windows\CurrentVersion\Uninstall\IEData,IEData,Multiple,,,,,,,
+2018-09-15 07:36:04.3897343,ROOT\Microsoft\Windows\CurrentVersion\Uninstall\MobileOptionPack,MobileOptionPack,Multiple,,,,,,,
+2018-09-15 09:10:07.7984542,ROOT\Microsoft\Windows\CurrentVersion\Uninstall\MPlayer2,MPlayer2,Multiple,,,,,,,
+2018-09-15 07:36:04.3897343,ROOT\Microsoft\Windows\CurrentVersion\Uninstall\SchedulingAgent,SchedulingAgent,Multiple,,,,,,,
+2018-09-15 07:36:04.3897343,ROOT\Microsoft\Windows\CurrentVersion\Uninstall\WIC,WIC,Multiple,,,,,,,
+2019-03-19 13:25:10.3841587,ROOT\Microsoft\Windows\CurrentVersion\Uninstall\{43D9111A-EA02-4682-BF3C-EFDCB62A89B0},{43D9111A-EA02-4682-BF3C-EFDCB62A89B0},Multiple,VMware Tools,10.2.5.8068393,"VMware, Inc.",20190319,C:\Program Files\Common Files\VMware\InstallerCache\,C:\Program Files\VMware\VMware Tools\,MsiExec.exe /I{43D9111A-EA02-4682-BF3C-EFDCB62A89B0}
+2019-03-19 13:24:38.4617310,ROOT\Microsoft\Windows\CurrentVersion\Uninstall\{5FCE6D76-F5DC-37AB-B2B8-22AB8CEDB1D4},{5FCE6D76-F5DC-37AB-B2B8-22AB8CEDB1D4},Multiple,Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.6161,9.0.30729.6161,Microsoft Corporation,20190319,c:\0d44ffe1b31dc1b68652a027f5c7\,,MsiExec.exe /X{5FCE6D76-F5DC-37AB-B2B8-22AB8CEDB1D4}
+2019-03-19 13:03:52.4310097,ROOT\Microsoft\Windows\CurrentVersion\Uninstall\{89F4137D-6C26-4A84-BDB8-2E5A4BB71E00},{89F4137D-6C26-4A84-BDB8-2E5A4BB71E00},Multiple,Microsoft Silverlight,5.1.50918.0,Microsoft Corporation,20190319,c:\5752171d4ebdbaa67c84aad7b2dd2b84\,c:\Program Files\Microsoft Silverlight\,MsiExec.exe /X{89F4137D-6C26-4A84-BDB8-2E5A4BB71E00}
+2019-03-19 13:22:17.3837830,ROOT\Microsoft\Windows\CurrentVersion\Uninstall\{C132DF61-207E-4C59-90B8-1DA9E2E1A754},{C132DF61-207E-4C59-90B8-1DA9E2E1A754},Multiple,Puppet (64-bit),3.8.7,Puppet Labs,20190319,C:\Users\IEUser\AppData\Local\Temp\chocolatey\puppet\3.8.7\,C:\Program Files\Puppet Labs\Puppet\,MsiExec.exe /X{C132DF61-207E-4C59-90B8-1DA9E2E1A754}
+2018-09-15 07:36:03.9053214,ROOT\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\AddressBook,AddressBook,Multiple,,,,,,,
+2018-09-15 07:36:03.9053214,ROOT\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\Connection Manager,Connection Manager,Multiple,,,,,,,
+2018-09-15 07:36:03.9053214,ROOT\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\DirectDrawEx,DirectDrawEx,Multiple,,,,,,,
+2018-09-15 09:10:07.5806538,ROOT\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\DXM_Runtime,DXM_Runtime,Multiple,,,,,,,
+2018-09-15 07:36:03.9053214,ROOT\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\Fontcore,Fontcore,Multiple,,,,,,,
+2018-09-15 07:36:03.9053214,ROOT\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\IE40,IE40,Multiple,,,,,,,
+2018-09-15 07:36:03.9053214,ROOT\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\IE4Data,IE4Data,Multiple,,,,,,,
+2018-09-15 07:36:03.9053214,ROOT\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\IE5BAKEX,IE5BAKEX,Multiple,,,,,,,
+2018-09-15 07:36:03.9053214,ROOT\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\IEData,IEData,Multiple,,,,,,,
+2018-09-15 07:36:03.9053214,ROOT\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\MobileOptionPack,MobileOptionPack,Multiple,,,,,,,
+2018-09-15 09:10:07.5806538,ROOT\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\MPlayer2,MPlayer2,Multiple,,,,,,,
+2018-09-15 07:36:03.9053214,ROOT\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\SchedulingAgent,SchedulingAgent,Multiple,,,,,,,
+2018-09-15 07:36:03.9053214,ROOT\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\WIC,WIC,Multiple,,,,,,,
+2019-03-19 13:24:32.8524618,ROOT\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\{9BE518E6-ECC6-35A9-88E4-87755C07200F},{9BE518E6-ECC6-35A9-88E4-87755C07200F},Multiple,Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161,9.0.30729.6161,Microsoft Corporation,20190319,c:\b1b4a6487d9ed7b94c6e\,,MsiExec.exe /X{9BE518E6-ECC6-35A9-88E4-87755C07200F}

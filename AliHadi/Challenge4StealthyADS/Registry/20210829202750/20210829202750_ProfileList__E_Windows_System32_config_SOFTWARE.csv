@@ -1,0 +1,5 @@
+﻿Timestamp,BatchKeyPath,KeyName,BatchValueName,ProfileImagePath
+2018-09-15 07:36:03.9521988,ROOT\Microsoft\Windows NT\CurrentVersion\ProfileList\S-1-5-18,S-1-5-18,Multiple,%systemroot%\system32\config\systemprofile
+2018-09-15 07:36:03.9521988,ROOT\Microsoft\Windows NT\CurrentVersion\ProfileList\S-1-5-19,S-1-5-19,Multiple,%systemroot%\ServiceProfiles\LocalService
+2018-09-15 07:36:03.9521988,ROOT\Microsoft\Windows NT\CurrentVersion\ProfileList\S-1-5-20,S-1-5-20,Multiple,%systemroot%\ServiceProfiles\NetworkService
+2019-05-26 08:49:26.4410874,ROOT\Microsoft\Windows NT\CurrentVersion\ProfileList\S-1-5-21-321011808-3761883066-353627080-1000,S-1-5-21-321011808-3761883066-353627080-1000,Multiple,C:\Users\IEUser

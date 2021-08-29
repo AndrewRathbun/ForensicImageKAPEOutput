@@ -1,0 +1,10 @@
+﻿BagPath,Slot,NodeSlot,MRUPosition,AbsolutePath,ShellType,Value,ChildBags,CreatedOn,ModifiedOn,AccessedOn,LastWriteTime,MFTEntry,MFTSequenceNumber,ExtensionBlockCount,FirstInteracted,LastInteracted,HasExplored,Miscellaneous
+BagMRU,0,0,1,Desktop\Home Folder,Root folder: GUID,Home Folder,0,,,,2019-05-26 08:50:12,,,0,2019-05-26 08:29:48,,False,
+BagMRU,1,0,0,Desktop\My Computer,Root folder: GUID,My Computer,3,,,,2019-05-26 08:50:12,,,0,,2019-05-26 08:50:12,False,
+BagMRU,2,0,2,Desktop\creepy,Directory,creepy,0,2019-05-26 08:30:32,2019-05-26 08:30:56,2019-05-26 08:30:56,2019-05-26 08:50:12,59649,6,1,2019-05-26 08:31:51,,False,NTFS file system
+BagMRU\1,0,3,0,Desktop\My Computer\Z:,Drive letter,Z:,2,,,,2019-05-26 08:46:33,,,0,,2019-05-26 08:46:33,True,
+BagMRU\1,1,6,2,Desktop\My Computer\Documents,Root folder: GUID,Documents,0,,,,2019-05-26 08:46:33,,,0,2019-05-26 08:43:06,,False,
+BagMRU\1,2,7,1,Desktop\My Computer\Desktop,Root folder: GUID,Desktop,0,,,,2019-05-26 08:46:33,,,1,2019-05-26 08:43:08,,False,
+BagMRU\1\0,0,5,1,Desktop\My Computer\Z:\Tools,Directory,Tools,0,2019-05-26 05:21:04,2019-05-26 05:21:04,2019-05-26 05:21:04,2019-05-26 08:50:10,121507068,,1,2019-05-26 08:32:37,,True,exFAT file system
+BagMRU\1\0,1,8,0,Desktop\My Computer\Z:\Image,Directory,Image,1,2019-05-26 05:49:22,2019-05-26 05:49:22,2019-05-26 05:49:22,2019-05-26 08:50:10,121507071,,1,,2019-05-26 08:50:10,True,exFAT file system
+BagMRU\1\0\1,0,9,0,Desktop\My Computer\Z:\Image\FTK-Imager,Directory,FTK-Imager,0,2019-03-24 10:33:28,2019-03-24 10:33:28,2019-05-26 05:49:24,2019-05-26 08:50:12,121507072,,1,2019-05-26 08:50:12,2019-05-26 08:50:12,True,exFAT file system

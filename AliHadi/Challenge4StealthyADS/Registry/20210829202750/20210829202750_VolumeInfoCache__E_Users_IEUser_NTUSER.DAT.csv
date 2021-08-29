@@ -1,0 +1,2 @@
+﻿Timestamp,BatchKeyPath,KeyName,BatchValueName,DisplayName,DisplayVersion,Publisher,InstallDate,InstallSource,InstallLocation,UninstallString
+2019-03-19 13:04:50.8841888,ROOT\Software\Microsoft\Windows\CurrentVersion\Uninstall\OneDriveSetup.exe,OneDriveSetup.exe,Multiple,Microsoft OneDrive,18.143.0717.0002,Microsoft Corporation,,,,"C:\Users\IEUser\AppData\Local\Microsoft\OneDrive\18.143.0717.0002\OneDriveSetup.exe  /uninstall "

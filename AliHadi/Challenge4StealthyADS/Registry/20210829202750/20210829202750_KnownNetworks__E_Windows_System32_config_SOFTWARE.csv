@@ -1,0 +1,2 @@
+﻿NetworkName,BatchKeyPath,NameType,BatchValueName,FirstConnectLOCAL,LastConnectedLOCAL,Managed,DNSSuffix,GatewayMacAddress,ProfileGUID
+Network,ROOT\Microsoft\Windows NT\CurrentVersion\NetworkList\Profiles\{8C291DF5-7DD8-4BD0-8E3D-E98763504F73},Wired,Multiple,2019-03-19 13:59:26.1650000,2019-03-19 06:22:39.8840000,False,<none>,00-50-56-FE-64-3B,{8C291DF5-7DD8-4BD0-8E3D-E98763504F73}
