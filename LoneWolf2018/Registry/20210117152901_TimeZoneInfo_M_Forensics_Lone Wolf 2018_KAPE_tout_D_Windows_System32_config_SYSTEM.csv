@@ -1,0 +1,19 @@
+BatchKeyPath,BatchValueName,ValueName,ValueData,ValueDataRaw
+ROOT\ControlSet001\Control\TimeZoneInformation,Bias,Bias,300,300
+ROOT\ControlSet001\Control\TimeZoneInformation,DaylightBias,DaylightBias,-60,4294967236
+ROOT\ControlSet001\Control\TimeZoneInformation,DaylightName,DaylightName,"@tzres.dll,-111","@tzres.dll,-111"
+ROOT\ControlSet001\Control\TimeZoneInformation,DaylightStart,DaylightStart,"Month 3, week of month 2, day of week 0, Hours:Minutes:Seconds:Milliseconds 2:0:0:0",00-00-03-00-02-00-02-00-00-00-00-00-00-00-00-00
+ROOT\ControlSet001\Control\TimeZoneInformation,StandardBias,StandardBias,0,0
+ROOT\ControlSet001\Control\TimeZoneInformation,StandardName,StandardName,"@tzres.dll,-112","@tzres.dll,-112"
+ROOT\ControlSet001\Control\TimeZoneInformation,StandardStart,StandardStart,"Month 11, week of month 1, day of week 0, Hours:Minutes:Seconds:Milliseconds 2:0:0:0",00-00-0B-00-01-00-02-00-00-00-00-00-00-00-00-00
+ROOT\ControlSet001\Control\TimeZoneInformation,TimeZoneKeyName,TimeZoneKeyName,Eastern Standard Time,Eastern Standard Time
+ROOT\ControlSet001\Control\TimeZoneInformation,ActiveTimeBias,ActiveTimeBias,240,240
+ROOT\ControlSet001\Control\TimeZoneInformation,Bias,Bias,300,300
+ROOT\ControlSet001\Control\TimeZoneInformation,DaylightBias,DaylightBias,-60,4294967236
+ROOT\ControlSet001\Control\TimeZoneInformation,DaylightName,DaylightName,"@tzres.dll,-111","@tzres.dll,-111"
+ROOT\ControlSet001\Control\TimeZoneInformation,DaylightStart,DaylightStart,"Month 3, week of month 2, day of week 0, Hours:Minutes:Seconds:Milliseconds 2:0:0:0",00-00-03-00-02-00-02-00-00-00-00-00-00-00-00-00
+ROOT\ControlSet001\Control\TimeZoneInformation,StandardBias,StandardBias,0,0
+ROOT\ControlSet001\Control\TimeZoneInformation,StandardName,StandardName,"@tzres.dll,-112","@tzres.dll,-112"
+ROOT\ControlSet001\Control\TimeZoneInformation,StandardStart,StandardStart,"Month 11, week of month 1, day of week 0, Hours:Minutes:Seconds:Milliseconds 2:0:0:0",00-00-0B-00-01-00-02-00-00-00-00-00-00-00-00-00
+ROOT\ControlSet001\Control\TimeZoneInformation,TimeZoneKeyName,TimeZoneKeyName,Eastern Standard Time,Eastern Standard Time
+ROOT\ControlSet001\Control\TimeZoneInformation,ActiveTimeBias,ActiveTimeBias,240,240

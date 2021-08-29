@@ -1,0 +1,16 @@
+BatchKeyPath,BatchValueName,LnkName,Executable,PinType
+ROOT\Software\Microsoft\Windows\CurrentVersion\Explorer\Taskband,Favorites,User Pinned,(unknown),(unknown)
+ROOT\Software\Microsoft\Windows\CurrentVersion\Explorer\Taskband,Favorites,TaskBar,(Directory),(Directory)
+ROOT\Software\Microsoft\Windows\CurrentVersion\Explorer\Taskband,Favorites,File Explorer.lnk,Microsoft.Windows.Explorer,SystemPinned
+ROOT\Software\Microsoft\Windows\CurrentVersion\Explorer\Taskband,Favorites,Applications,(unknown),(unknown)
+ROOT\Software\Microsoft\Windows\CurrentVersion\Explorer\Taskband,Favorites,Store,Microsoft.WindowsStore_8wekyb3d8bbwe!App,SystemPinned
+ROOT\Software\Microsoft\Windows\CurrentVersion\Explorer\Taskband,Favorites,Applications,(unknown),(unknown)
+ROOT\Software\Microsoft\Windows\CurrentVersion\Explorer\Taskband,Favorites,OneNote,Microsoft.Office.OneNote_8wekyb3d8bbwe!microsoft.onenoteim,UserPinned
+ROOT\Software\Microsoft\Windows\CurrentVersion\Explorer\Taskband,Favorites,User Pinned,(unknown),(unknown)
+ROOT\Software\Microsoft\Windows\CurrentVersion\Explorer\Taskband,Favorites,TaskBar,(Directory),(Directory)
+ROOT\Software\Microsoft\Windows\CurrentVersion\Explorer\Taskband,Favorites,PowerPoint 2016.lnk,Microsoft.Office.POWERPNT.EXE.15,UserPinned
+ROOT\Software\Microsoft\Windows\CurrentVersion\Explorer\Taskband,Favorites,User Pinned,(unknown),(unknown)
+ROOT\Software\Microsoft\Windows\CurrentVersion\Explorer\Taskband,Favorites,TaskBar,(Directory),(Directory)
+ROOT\Software\Microsoft\Windows\CurrentVersion\Explorer\Taskband,Favorites,Word 2016.lnk,Microsoft.Office.WINWORD.EXE.15,UserPinned
+ROOT\Software\Microsoft\Windows\CurrentVersion\Explorer\Taskband,Favorites,Applications,(unknown),(unknown)
+ROOT\Software\Microsoft\Windows\CurrentVersion\Explorer\Taskband,Favorites,OneDrive,microsoft.microsoftskydrive_8wekyb3d8bbwe!App,UserPinned

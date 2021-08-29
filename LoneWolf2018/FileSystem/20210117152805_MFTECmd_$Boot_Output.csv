@@ -1,0 +1,2 @@
+﻿EntryPoint,Signature,BytesPerSector,SectorsPerCluster,ClusterSize,ReservedSectors,TotalSectors,MftClusterBlockNumber,MftMirrClusterBlockNumber,MftEntrySize,IndexEntrySize,VolumeSerialNumberRaw,VolumeSerialNumber,VolumeSerialNumber32,VolumeSerialNumber32Reverse,SectorSignature,SourceFile
+0xEB 0x52 0x90,"NTFS    ",512,8,4096,0,998955007,786432,2,1024,4096,0x1AAA9230AA920881,81 08 92 AA 30 92 AA 1A,81 08 92 AA,AA 92 08 81,55 AA,M:\Forensics\Lone Wolf 2018\KAPE\tout\D\$Boot
