@@ -1,2 +1,0 @@
-﻿NetworkName,BatchKeyPath,NameType,BatchValueName,FirstConnectLOCAL,LastConnectedLOCAL,Managed,DNSSuffix,GatewayMacAddress,ProfileGUID
-Network,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Microsoft\Windows NT\CurrentVersion\NetworkList\Profiles\{DD7B2110-A7B5-41F9-BDB6-BBE851A2CB48},Wired,Multiple,2016-06-21 01:29:53.3680000,2016-06-21 05:58:06.4830000,False,<none>,52-54-00-12-35-02,{DD7B2110-A7B5-41F9-BDB6-BBE851A2CB48}
