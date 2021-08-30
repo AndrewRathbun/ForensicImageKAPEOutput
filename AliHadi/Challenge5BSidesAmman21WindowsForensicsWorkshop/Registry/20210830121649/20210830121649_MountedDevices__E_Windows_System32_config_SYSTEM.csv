@@ -1,0 +1,6 @@
+﻿DeviceName,BatchKeyPath,DeviceData,BatchValueName
+\DosDevices\C:,,DMIO:ID:dÊrè¸C(BŠÑo)ËÌ,
+\??\Volume{75b22ca8-48cb-11e8-8b3a-806e6f6e6963},,\??\IDE#CdRomNECVMWar_VMware_IDE_CDR00_______________1.00____#5&1778b74b&0&0.0.0#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b},
+\??\Volume{75b22ca9-48cb-11e8-8b3a-806e6f6e6963},,\??\SCSI#CdRom&Ven_NECVMWar&Prod_VMware_SATA_CD00#5&11bd2db8&0&000000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b},
+\DosDevices\D:,,\??\IDE#CdRomNECVMWar_VMware_IDE_CDR00_______________1.00____#5&1778b74b&0&0.0.0#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b},
+\DosDevices\E:,,\??\SCSI#CdRom&Ven_NECVMWar&Prod_VMware_SATA_CD00#5&11bd2db8&0&000000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b},

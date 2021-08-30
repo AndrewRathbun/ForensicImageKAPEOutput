@@ -1,0 +1,17 @@
+﻿BagPath,Slot,NodeSlot,MRUPosition,AbsolutePath,ShellType,Value,ChildBags,CreatedOn,ModifiedOn,AccessedOn,LastWriteTime,MFTEntry,MFTSequenceNumber,ExtensionBlockCount,FirstInteracted,LastInteracted,HasExplored,Miscellaneous
+BagMRU,0,0,2,Desktop\Home Folder,Root folder: GUID,Home Folder,0,,,,2019-02-15 05:04:36,,,0,2019-02-15 05:01:26,,False,
+BagMRU,1,0,1,Desktop\My Computer,Root folder: GUID,My Computer,4,,,,2019-02-15 05:04:36,,,0,,,False,
+BagMRU,2,0,0,Desktop\Computers and Devices,Root folder: GUID,Computers and Devices,1,,,,2019-02-15 05:04:36,,,0,,2019-02-15 05:04:36,False,
+BagMRU\1,0,3,3,Desktop\My Computer\Desktop,Root folder: GUID,Desktop,0,,,,2019-02-15 05:01:36,,,1,2019-02-15 05:01:30,,True,
+BagMRU\1,1,4,1,Desktop\My Computer\Documents,Root folder: GUID,Documents,0,,,,2019-02-15 05:01:36,,,1,2019-02-15 05:01:32,,True,
+BagMRU\1,2,5,2,Desktop\My Computer\Downloads,Root folder: GUID,Downloads,0,,,,2019-02-15 05:01:36,,,1,2019-02-15 05:01:32,,True,
+BagMRU\1,3,6,0,Desktop\My Computer\C:,Drive letter,C:,1,,,,2019-02-15 05:01:36,,,0,,2019-02-15 05:01:36,True,
+BagMRU\1\3,0,7,0,Desktop\My Computer\C:\Users,Directory,Users,1,2018-04-11 21:04:34,2019-02-15 04:54:10,2019-02-15 04:54:10,2019-02-15 05:01:38,1499,1,1,,2019-02-15 05:01:38,True,NTFS file system
+BagMRU\1\3\0,0,8,0,Desktop\My Computer\C:\Users\Joker,Directory,Joker,2,2019-02-15 04:54:10,2019-02-15 05:00:50,2019-02-15 05:00:50,2019-02-15 05:01:39,95068,4,1,,2019-02-15 05:01:39,True,NTFS file system
+BagMRU\1\3\0\0,0,9,1,Desktop\My Computer\C:\Users\Joker\Desktop,Directory,Desktop,0,2019-02-15 04:54:10,2019-02-15 04:54:32,2019-02-15 04:54:32,2019-02-15 05:03:11,96006,2,1,2019-02-15 05:02:07,,True,NTFS file system
+BagMRU\1\3\0\0,1,10,0,Desktop\My Computer\C:\Users\Joker\3D Objects,Directory,3D Objects,0,2019-02-15 04:54:12,2019-02-15 04:54:12,2019-02-15 04:54:12,2019-02-15 05:03:11,96466,1,1,2019-02-15 05:03:11,2019-02-15 05:03:11,False,NTFS file system
+BagMRU\2,0,11,0,Desktop\Computers and Devices\192.168.70.128,Variable: Users property view,192.168.70.128,1,,,,2019-02-15 05:03:22,,,0,,2019-02-15 05:03:22,False,
+BagMRU\2\0,0,12,0,Desktop\Computers and Devices\192.168.70.128\192.168.70.128\SharedJJ,Network location,\\192.168.70.128\SharedJJ,3,,,,2019-02-15 05:03:22,,,0,,2019-02-15 05:03:22,False,
+BagMRU\2\0\0,0,13,2,Desktop\Computers and Devices\192.168.70.128\192.168.70.128\SharedJJ\docs,Directory,docs,0,2019-02-15 03:56:56,2019-02-15 04:10:20,2019-02-15 04:10:20,2019-02-15 05:04:36,67465,2,1,2019-02-15 05:03:24,,False,NTFS file system
+BagMRU\2\0\0,1,14,1,Desktop\Computers and Devices\192.168.70.128\192.168.70.128\SharedJJ\pics,Directory,pics,0,2019-02-15 03:56:02,2019-02-15 04:31:58,2019-02-15 04:31:58,2019-02-15 05:04:36,67462,3,1,2019-02-15 05:04:28,,False,NTFS file system
+BagMRU\2\0\0,2,15,0,Desktop\Computers and Devices\192.168.70.128\192.168.70.128\SharedJJ\tools,Directory,tools,0,2019-02-15 04:01:26,2019-02-15 04:13:46,2019-02-15 04:13:46,2019-02-15 05:04:36,67474,2,1,2019-02-15 05:04:36,2019-02-15 05:04:36,False,NTFS file system

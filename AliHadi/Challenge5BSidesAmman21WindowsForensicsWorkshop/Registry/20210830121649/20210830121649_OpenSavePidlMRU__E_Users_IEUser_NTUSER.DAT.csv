@@ -1,0 +1,109 @@
+﻿Extension,BatchKeyPath,ValueName,BatchValueName,MruPosition,AbsolutePath,OpenedOn,Details
+*,ROOT\Software\Microsoft\Windows\CurrentVersion\Explorer\ComDlg32\OpenSavePidlMRU\*,0,0,0,My Computer\Downloads\SetMACE_v1009\SetMACE_v1009\readme.txt,2019-02-15 04:37:08.6375696,"Type: Root folder: GUID, Value: My Computer
+
+
+Type: Root folder: GUID, Value: Downloads
+
+
+Type: Directory, Value: SetMACE_v1009
+
+Extension blocks found: 1
+---------------------- Block 0 (Beef0004)----------------------
+Long name: SetMACE_v1009
+Created: 2/15/2019 04:32:54 +00:00
+Last access: 2/15/2019 04:32:54 +00:00
+MFT entry/sequence #: 87898/3 (0x1575A/0x3)
+File system hint: NTFS
+
+--------------------------------------------------
+Short name: SETMAC~1
+Modified: 2/15/2019 04:32:54 +00:00
+
+
+Type: Directory, Value: SetMACE_v1009
+
+Extension blocks found: 1
+---------------------- Block 0 (Beef0004)----------------------
+Long name: SetMACE_v1009
+Created: 2/15/2019 04:32:54 +00:00
+Last access: 2/15/2019 04:32:56 +00:00
+MFT entry/sequence #: 87899/3 (0x1575B/0x3)
+File system hint: NTFS
+
+--------------------------------------------------
+Short name: SETMAC~1
+Modified: 2/15/2019 04:32:56 +00:00
+
+
+Short name: readme.txt
+
+File size: 6,149
+Modified On: 12/4/2013 06:37:38.000  +00:00
+
+Type: File, Value: readme.txt
+
+Extension blocks found: 1
+---------------------- Block 0 (Beef0004)----------------------
+Long name: readme.txt
+Created: 12/4/2013 06:37:38 +00:00
+Last access: 2/15/2019 04:32:54 +00:00
+MFT entry/sequence #: 87900/3 (0x1575C/0x3)
+File system hint: NTFS
+
+--------------------------------------------------
+
+"
+txt,ROOT\Software\Microsoft\Windows\CurrentVersion\Explorer\ComDlg32\OpenSavePidlMRU\txt,0,0,0,My Computer\Downloads\SetMACE_v1009\SetMACE_v1009\readme.txt,2019-02-15 04:37:08.6375696,"Type: Root folder: GUID, Value: My Computer
+
+
+Type: Root folder: GUID, Value: Downloads
+
+
+Type: Directory, Value: SetMACE_v1009
+
+Extension blocks found: 1
+---------------------- Block 0 (Beef0004)----------------------
+Long name: SetMACE_v1009
+Created: 2/15/2019 04:32:54 +00:00
+Last access: 2/15/2019 04:32:54 +00:00
+MFT entry/sequence #: 87898/3 (0x1575A/0x3)
+File system hint: NTFS
+
+--------------------------------------------------
+Short name: SETMAC~1
+Modified: 2/15/2019 04:32:54 +00:00
+
+
+Type: Directory, Value: SetMACE_v1009
+
+Extension blocks found: 1
+---------------------- Block 0 (Beef0004)----------------------
+Long name: SetMACE_v1009
+Created: 2/15/2019 04:32:54 +00:00
+Last access: 2/15/2019 04:32:56 +00:00
+MFT entry/sequence #: 87899/3 (0x1575B/0x3)
+File system hint: NTFS
+
+--------------------------------------------------
+Short name: SETMAC~1
+Modified: 2/15/2019 04:32:56 +00:00
+
+
+Short name: readme.txt
+
+File size: 6,149
+Modified On: 12/4/2013 06:37:38.000  +00:00
+
+Type: File, Value: readme.txt
+
+Extension blocks found: 1
+---------------------- Block 0 (Beef0004)----------------------
+Long name: readme.txt
+Created: 12/4/2013 06:37:38 +00:00
+Last access: 2/15/2019 04:32:54 +00:00
+MFT entry/sequence #: 87900/3 (0x1575C/0x3)
+File system hint: NTFS
+
+--------------------------------------------------
+
+"

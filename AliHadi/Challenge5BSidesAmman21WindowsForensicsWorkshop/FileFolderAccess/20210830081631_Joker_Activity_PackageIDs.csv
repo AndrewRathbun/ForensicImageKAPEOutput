@@ -1,0 +1,67 @@
+﻿Id,Platform,Name,AdditionalInformation,Expires
+22851cfa-b194-ba95-4f3d-996d52081c85,Win32,{1ac14e77-02e7-4e5d-b744-2eb1ae5198b7}\cmd.exe,System32\cmd.exe,2019-03-17 04:54:40
+22851cfa-b194-ba95-4f3d-996d52081c85,host,,,2019-03-17 04:54:40
+b8310691-8d9a-3a7b-e75a-bffff7d97983,Win32,{1ac14e77-02e7-4e5d-b744-2eb1ae5198b7}\cmd.exe,System32\cmd.exe,2019-03-17 04:54:42
+b8310691-8d9a-3a7b-e75a-bffff7d97983,packageid,{1ac14e77-02e7-4e5d-b744-2eb1ae5198b7}\cmd.exe,System32\cmd.exe,2019-03-17 04:54:42
+b8310691-8d9a-3a7b-e75a-bffff7d97983,host,,,2019-03-17 04:54:42
+eaab65e8-40e7-ba55-ba61-a82cd7e08bd7,ExecutablePath,{6d809377-6af0-444b-8957-a3773f02200e}\vmware\vmware tools\vmtoolsd.exe,Program Files X64\vmware\vmware tools\vmtoolsd.exe,2019-03-17 04:54:50
+eaab65e8-40e7-ba55-ba61-a82cd7e08bd7,host,,,2019-03-17 04:54:50
+f551c625-f2d1-55a5-ed36-fa3dc9ce43cd,ExecutablePath,{6d809377-6af0-444b-8957-a3773f02200e}\vmware\vmware tools\vmtoolsd.exe,Program Files X64\vmware\vmware tools\vmtoolsd.exe,2019-03-17 04:54:52
+f551c625-f2d1-55a5-ed36-fa3dc9ce43cd,packageid,{6d809377-6af0-444b-8957-a3773f02200e}\vmware\vmware tools\vmtoolsd.exe,Program Files X64\vmware\vmware tools\vmtoolsd.exe,2019-03-17 04:54:52
+f551c625-f2d1-55a5-ed36-fa3dc9ce43cd,host,,,2019-03-17 04:54:52
+7543edef-01e7-44e8-affe-db3a06a1fbb3,Win32,{1ac14e77-02e7-4e5d-b744-2eb1ae5198b7}\cmd.exe,System32\cmd.exe,2019-03-17 04:57:34
+7543edef-01e7-44e8-affe-db3a06a1fbb3,packageid,{1ac14e77-02e7-4e5d-b744-2eb1ae5198b7}\cmd.exe,System32\cmd.exe,2019-03-17 04:57:34
+7543edef-01e7-44e8-affe-db3a06a1fbb3,host,,,2019-03-17 04:57:34
+1ba436c0-9a72-a755-66b7-5dc56c410098,Win32,microsoft.windows.explorer,,2019-03-17 05:01:24
+1ba436c0-9a72-a755-66b7-5dc56c410098,host,,,2019-03-17 05:01:24
+827ee55f-04f8-c707-d2f5-fc6dee836a29,Win32,microsoft.windows.explorer,,2019-03-17 05:01:53
+827ee55f-04f8-c707-d2f5-fc6dee836a29,packageid,microsoft.windows.explorer,,2019-03-17 05:01:53
+827ee55f-04f8-c707-d2f5-fc6dee836a29,host,,,2019-03-17 05:01:53
+716c2e63-482a-611b-cd26-9776bf62644f,windows_universal,microsoft.windows.photos_8wekyb3d8bbwe,,2019-03-17 05:01:53
+716c2e63-482a-611b-cd26-9776bf62644f,host,,,2019-03-17 05:01:53
+76930745-93d5-eb4f-035a-832e44985e12,windows_universal,microsoft.windows.photos_8wekyb3d8bbwe,,2019-03-17 05:01:53
+76930745-93d5-eb4f-035a-832e44985e12,host,,,2019-03-17 05:01:53
+bce9942e-b34a-8906-21cd-1d27398dc0e1,windows_universal,microsoft.windows.photos_8wekyb3d8bbwe,,2019-03-17 05:01:53
+bce9942e-b34a-8906-21cd-1d27398dc0e1,packageid,microsoft.windows.photos_8wekyb3d8bbwe!app,,2019-03-17 05:01:53
+bce9942e-b34a-8906-21cd-1d27398dc0e1,host,,,2019-03-17 05:01:53
+a6e87666-6a29-9c85-f1d4-55a187cdca27,ExecutablePath,c:\users\joker\dd.exe,,2019-03-17 05:02:13
+a6e87666-6a29-9c85-f1d4-55a187cdca27,host,,,2019-03-17 05:02:13
+67a94e72-2f0b-1538-891d-c54e0475a9c6,ExecutablePath,c:\users\joker\dd.exe,,2019-03-17 05:02:17
+67a94e72-2f0b-1538-891d-c54e0475a9c6,packageid,c:\users\joker\dd.exe,,2019-03-17 05:02:17
+67a94e72-2f0b-1538-891d-c54e0475a9c6,host,,,2019-03-17 05:02:17
+fc00bf3b-693b-1acb-74e2-c4a6defe8e1f,Win32,{6d809377-6af0-444b-8957-a3773f02200e}\windows nt\accessories\wordpad.exe,Program Files X64\windows nt\accessories\wordpad.exe,2019-03-17 05:02:57
+fc00bf3b-693b-1acb-74e2-c4a6defe8e1f,host,,,2019-03-17 05:02:57
+06ddbca9-efa6-1eb2-9fdf-36cbdcd62a37,Win32,{6d809377-6af0-444b-8957-a3773f02200e}\windows nt\accessories\wordpad.exe,Program Files X64\windows nt\accessories\wordpad.exe,2019-03-17 05:02:57
+06ddbca9-efa6-1eb2-9fdf-36cbdcd62a37,host,,,2019-03-17 05:02:57
+4d878001-1f9c-4866-a9a8-47247016ec2c,Win32,{6d809377-6af0-444b-8957-a3773f02200e}\windows nt\accessories\wordpad.exe,Program Files X64\windows nt\accessories\wordpad.exe,2019-03-17 05:02:57
+4d878001-1f9c-4866-a9a8-47247016ec2c,packageid,{6d809377-6af0-444b-8957-a3773f02200e}\windows nt\accessories\wordpad.exe,Program Files X64\windows nt\accessories\wordpad.exe,2019-03-17 05:02:57
+4d878001-1f9c-4866-a9a8-47247016ec2c,host,,,2019-03-17 05:02:57
+67a9d23d-dd95-dcd8-bb3e-588c73c5d9ec,Win32,{6d809377-6af0-444b-8957-a3773f02200e}\windows nt\accessories\wordpad.exe,Program Files X64\windows nt\accessories\wordpad.exe,2019-03-17 05:03:25
+67a9d23d-dd95-dcd8-bb3e-588c73c5d9ec,host,,,2019-03-17 05:03:25
+1571dd95-a03f-6b88-9441-368fe267c2ca,Win32,{6d809377-6af0-444b-8957-a3773f02200e}\windows nt\accessories\wordpad.exe,Program Files X64\windows nt\accessories\wordpad.exe,2019-03-17 05:03:25
+1571dd95-a03f-6b88-9441-368fe267c2ca,packageid,{6d809377-6af0-444b-8957-a3773f02200e}\windows nt\accessories\wordpad.exe,Program Files X64\windows nt\accessories\wordpad.exe,2019-03-17 05:03:25
+1571dd95-a03f-6b88-9441-368fe267c2ca,host,,,2019-03-17 05:03:25
+d34d6a76-e792-3629-2369-9cc3291b2d0b,Win32,{6d809377-6af0-444b-8957-a3773f02200e}\windows nt\accessories\wordpad.exe,Program Files X64\windows nt\accessories\wordpad.exe,2019-03-17 05:03:34
+d34d6a76-e792-3629-2369-9cc3291b2d0b,host,,,2019-03-17 05:03:34
+c623726a-5cbd-c674-c011-b35b39c7070d,Win32,{6d809377-6af0-444b-8957-a3773f02200e}\windows nt\accessories\wordpad.exe,Program Files X64\windows nt\accessories\wordpad.exe,2019-03-17 05:03:34
+c623726a-5cbd-c674-c011-b35b39c7070d,packageid,{6d809377-6af0-444b-8957-a3773f02200e}\windows nt\accessories\wordpad.exe,Program Files X64\windows nt\accessories\wordpad.exe,2019-03-17 05:03:34
+c623726a-5cbd-c674-c011-b35b39c7070d,host,,,2019-03-17 05:03:34
+fa177c47-6ee9-20c5-a472-dbdb9dee315b,Win32,{6d809377-6af0-444b-8957-a3773f02200e}\windows nt\accessories\wordpad.exe,Program Files X64\windows nt\accessories\wordpad.exe,2019-03-17 05:03:39
+fa177c47-6ee9-20c5-a472-dbdb9dee315b,host,,,2019-03-17 05:03:39
+56a2cac9-7be6-0bf3-581a-7bb76b0e0c21,Win32,{6d809377-6af0-444b-8957-a3773f02200e}\windows nt\accessories\wordpad.exe,Program Files X64\windows nt\accessories\wordpad.exe,2019-03-17 05:03:39
+56a2cac9-7be6-0bf3-581a-7bb76b0e0c21,packageid,{6d809377-6af0-444b-8957-a3773f02200e}\windows nt\accessories\wordpad.exe,Program Files X64\windows nt\accessories\wordpad.exe,2019-03-17 05:03:39
+56a2cac9-7be6-0bf3-581a-7bb76b0e0c21,host,,,2019-03-17 05:03:39
+d8c1b176-efe2-4e6b-2937-0f717573356d,Win32,{6d809377-6af0-444b-8957-a3773f02200e}\windows nt\accessories\wordpad.exe,Program Files X64\windows nt\accessories\wordpad.exe,2019-03-17 05:03:46
+d8c1b176-efe2-4e6b-2937-0f717573356d,host,,,2019-03-17 05:03:46
+3a04f3ef-d422-9b71-5cea-781fa71ddfbd,Win32,{6d809377-6af0-444b-8957-a3773f02200e}\windows nt\accessories\wordpad.exe,Program Files X64\windows nt\accessories\wordpad.exe,2019-03-17 05:03:46
+3a04f3ef-d422-9b71-5cea-781fa71ddfbd,packageid,{6d809377-6af0-444b-8957-a3773f02200e}\windows nt\accessories\wordpad.exe,Program Files X64\windows nt\accessories\wordpad.exe,2019-03-17 05:03:46
+3a04f3ef-d422-9b71-5cea-781fa71ddfbd,host,,,2019-03-17 05:03:46
+2439e841-c4ed-1d31-1a4a-7d92a491a744,Win32,{1ac14e77-02e7-4e5d-b744-2eb1ae5198b7}\cmd.exe,System32\cmd.exe,2019-03-17 05:34:00
+2439e841-c4ed-1d31-1a4a-7d92a491a744,packageid,{1ac14e77-02e7-4e5d-b744-2eb1ae5198b7}\cmd.exe,System32\cmd.exe,2019-03-17 05:34:00
+2439e841-c4ed-1d31-1a4a-7d92a491a744,host,,,2019-03-17 05:34:00
+4c0a9100-e423-fc47-a907-20b90fb75b35,Win32,microsoft.windows.explorer,,2019-03-17 05:34:06
+4c0a9100-e423-fc47-a907-20b90fb75b35,packageid,microsoft.windows.explorer,,2019-03-17 05:34:06
+4c0a9100-e423-fc47-a907-20b90fb75b35,host,,,2019-03-17 05:34:06
+930cd079-93d7-fe6e-7b19-dce5a7b262d1,Win32,{6d809377-6af0-444b-8957-a3773f02200e}\windows nt\accessories\wordpad.exe,Program Files X64\windows nt\accessories\wordpad.exe,2019-03-17 05:34:07
+930cd079-93d7-fe6e-7b19-dce5a7b262d1,packageid,{6d809377-6af0-444b-8957-a3773f02200e}\windows nt\accessories\wordpad.exe,Program Files X64\windows nt\accessories\wordpad.exe,2019-03-17 05:34:07
+930cd079-93d7-fe6e-7b19-dce5a7b262d1,host,,,2019-03-17 05:34:07
