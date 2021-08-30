@@ -1,0 +1,92 @@
+SBECmd version 1.4.0.0
+
+Author: Eric Zimmerman (saericzimmerman@gmail.com)
+https://github.com/EricZimmerman
+
+Command line: -d M:\Forensics\TrainingImages\AliHadi\Challenge2UserPolicyViolation\tout --csv M:\Forensics\TrainingImages\AliHadi\Challenge2UserPolicyViolation\mout\FileFolderAccess -q
+
+Directory to process: M:\Forensics\TrainingImages\AliHadi\Challenge2UserPolicyViolation\tout
+Deduplication: False
+All messages will be saved to 'M:\Forensics\TrainingImages\AliHadi\Challenge2UserPolicyViolation\mout\FileFolderAccess\!SBECmd_Messages.txt'
+Time zone: UTC
+
+Processing 'M:\Forensics\TrainingImages\AliHadi\Challenge2UserPolicyViolation\tout\E\Users\Default\NTUSER.DAT'
+	There was an error processing 'M:\Forensics\TrainingImages\AliHadi\Challenge2UserPolicyViolation\tout\E\Users\Default\NTUSER.DAT'. Error message: 'Software\Microsoft\Windows\Shell\BagMRU' not found in 'C:\Users\Default\NTUSER.DAT'
+
+Processing 'M:\Forensics\TrainingImages\AliHadi\Challenge2UserPolicyViolation\tout\E\Users\Hunter\NTUSER.DAT'
+Two transaction logs found. Determining primary log...
+Primary log: M:\Forensics\TrainingImages\AliHadi\Challenge2UserPolicyViolation\tout\E\Users\Hunter\ntuser.dat.LOG2, secondary log: M:\Forensics\TrainingImages\AliHadi\Challenge2UserPolicyViolation\tout\E\Users\Hunter\ntuser.dat.LOG1
+Replaying log file: M:\Forensics\TrainingImages\AliHadi\Challenge2UserPolicyViolation\tout\E\Users\Hunter\ntuser.dat.LOG2
+Replaying log file: M:\Forensics\TrainingImages\AliHadi\Challenge2UserPolicyViolation\tout\E\Users\Hunter\ntuser.dat.LOG1
+At least one transaction log was applied. Sequence numbers have been updated to 0x00CD. New Checksum: 0x70CBAA5E
+
+Parse time: 0.16 seconds
+
+	Total ShellBags found: 3
+
+	Totals by bag type
+
+	Network location: 1
+	Variable: Users property view: 1
+	Root folder: GUID: 1
+
+Finished processing 'M:\Forensics\TrainingImages\AliHadi\Challenge2UserPolicyViolation\tout\E\Users\Hunter\NTUSER.DAT'
+
+Exported to: 'M:\Forensics\TrainingImages\AliHadi\Challenge2UserPolicyViolation\mout\FileFolderAccess\M__Forensics_TrainingImages_AliHadi_Challenge2UserPolicyViolation_tout_E_Users_Hunter_NTUSER.DAT.csv'
+
+---------------------------------------------------------------------
+Processing 'M:\Forensics\TrainingImages\AliHadi\Challenge2UserPolicyViolation\tout\E\Windows\ServiceProfiles\LocalService\NTUSER.DAT'
+Two transaction logs found. Determining primary log...
+Primary log: M:\Forensics\TrainingImages\AliHadi\Challenge2UserPolicyViolation\tout\E\Windows\ServiceProfiles\LocalService\NTUSER.DAT.LOG1, secondary log: M:\Forensics\TrainingImages\AliHadi\Challenge2UserPolicyViolation\tout\E\Windows\ServiceProfiles\LocalService\NTUSER.DAT.LOG2
+Replaying log file: M:\Forensics\TrainingImages\AliHadi\Challenge2UserPolicyViolation\tout\E\Windows\ServiceProfiles\LocalService\NTUSER.DAT.LOG1
+Replaying log file: M:\Forensics\TrainingImages\AliHadi\Challenge2UserPolicyViolation\tout\E\Windows\ServiceProfiles\LocalService\NTUSER.DAT.LOG2
+At least one transaction log was applied. Sequence numbers have been updated to 0x0033. New Checksum: 0xD89AFE84
+	There was an error processing 'M:\Forensics\TrainingImages\AliHadi\Challenge2UserPolicyViolation\tout\E\Windows\ServiceProfiles\LocalService\NTUSER.DAT'. Error message: 'Software\Microsoft\Windows\Shell\BagMRU' not found in 'rofiles\LocalService\NTUSER.DAT'
+
+Processing 'M:\Forensics\TrainingImages\AliHadi\Challenge2UserPolicyViolation\tout\E\Windows\ServiceProfiles\NetworkService\NTUSER.DAT'
+Two transaction logs found. Determining primary log...
+Primary log: M:\Forensics\TrainingImages\AliHadi\Challenge2UserPolicyViolation\tout\E\Windows\ServiceProfiles\NetworkService\NTUSER.DAT.LOG2, secondary log: M:\Forensics\TrainingImages\AliHadi\Challenge2UserPolicyViolation\tout\E\Windows\ServiceProfiles\NetworkService\NTUSER.DAT.LOG1
+Replaying log file: M:\Forensics\TrainingImages\AliHadi\Challenge2UserPolicyViolation\tout\E\Windows\ServiceProfiles\NetworkService\NTUSER.DAT.LOG2
+Replaying log file: M:\Forensics\TrainingImages\AliHadi\Challenge2UserPolicyViolation\tout\E\Windows\ServiceProfiles\NetworkService\NTUSER.DAT.LOG1
+At least one transaction log was applied. Sequence numbers have been updated to 0x002A. New Checksum: 0xFA777A81
+	There was an error processing 'M:\Forensics\TrainingImages\AliHadi\Challenge2UserPolicyViolation\tout\E\Windows\ServiceProfiles\NetworkService\NTUSER.DAT'. Error message: 'Software\Microsoft\Windows\Shell\BagMRU' not found in 'files\NetworkService\NTUSER.DAT'
+
+Processing 'M:\Forensics\TrainingImages\AliHadi\Challenge2UserPolicyViolation\tout\E\Windows\System32\config\systemprofile\ntuser.dat'
+	There was an error processing 'M:\Forensics\TrainingImages\AliHadi\Challenge2UserPolicyViolation\tout\E\Windows\System32\config\systemprofile\ntuser.dat'. Error message: 'Software\Microsoft\Windows\Shell\BagMRU' not found in 'config\systemprofile\NTUSER.DAT'
+
+Processing 'M:\Forensics\TrainingImages\AliHadi\Challenge2UserPolicyViolation\tout\E\Users\Hunter\AppData\Local\Microsoft\Windows\UsrClass.dat'
+Two transaction logs found. Determining primary log...
+Primary log: M:\Forensics\TrainingImages\AliHadi\Challenge2UserPolicyViolation\tout\E\Users\Hunter\AppData\Local\Microsoft\Windows\UsrClass.dat.LOG2, secondary log: M:\Forensics\TrainingImages\AliHadi\Challenge2UserPolicyViolation\tout\E\Users\Hunter\AppData\Local\Microsoft\Windows\UsrClass.dat.LOG1
+Replaying log file: M:\Forensics\TrainingImages\AliHadi\Challenge2UserPolicyViolation\tout\E\Users\Hunter\AppData\Local\Microsoft\Windows\UsrClass.dat.LOG2
+Replaying log file: M:\Forensics\TrainingImages\AliHadi\Challenge2UserPolicyViolation\tout\E\Users\Hunter\AppData\Local\Microsoft\Windows\UsrClass.dat.LOG1
+At least one transaction log was applied. Sequence numbers have been updated to 0x0067. New Checksum: 0x64703A91
+
+Parse time: 0.37 seconds
+
+	Total ShellBags found: 66
+
+	Totals by bag type
+
+	Variable: Users property view: 3
+	GUID: Control panel: 6
+	Control Panel Category: 4
+	Root folder: GUID: 9
+	Directory: 34
+	Drive letter: 2
+	Zip file contents: 1
+	File: 1
+	Variable: 3
+	Users Files Folder: 2
+	Network location: 1
+
+Finished processing 'M:\Forensics\TrainingImages\AliHadi\Challenge2UserPolicyViolation\tout\E\Users\Hunter\AppData\Local\Microsoft\Windows\UsrClass.dat'
+
+Exported to: 'M:\Forensics\TrainingImages\AliHadi\Challenge2UserPolicyViolation\mout\FileFolderAccess\M__Forensics_TrainingImages_AliHadi_Challenge2UserPolicyViolation_tout_E_Users_Hunter_AppData_Local_Microsoft_Windows_UsrClass.dat.csv'
+
+---------------------------------------------------------------------
+
+Processing complete!
+Processed 6 file(s) in 0.53 seconds!
+Total ShellBags found: 69
+
+

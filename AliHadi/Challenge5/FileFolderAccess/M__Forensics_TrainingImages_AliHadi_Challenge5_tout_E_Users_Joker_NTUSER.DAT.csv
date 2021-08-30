@@ -1,0 +1,7 @@
+﻿BagPath,Slot,NodeSlot,MRUPosition,AbsolutePath,ShellType,Value,ChildBags,CreatedOn,ModifiedOn,AccessedOn,LastWriteTime,MFTEntry,MFTSequenceNumber,ExtensionBlockCount,FirstInteracted,LastInteracted,HasExplored,Miscellaneous
+BagMRU,0,0,0,Desktop\Computers and Devices,Root folder: GUID,Computers and Devices,1,,,,2019-02-15 05:04:58,,,0,,2019-02-15 05:04:58,False,
+BagMRU\0,0,0,0,Desktop\Computers and Devices\192.168.70.128,Variable: Users property view,192.168.70.128,1,,,,2019-02-15 05:03:24,,,0,,2019-02-15 05:03:24,False,
+BagMRU\0\0,0,2,0,Desktop\Computers and Devices\192.168.70.128\192.168.70.128\SharedJJ,Network location,\\192.168.70.128\SharedJJ,3,,,,2019-02-15 05:03:24,,,0,,2019-02-15 05:03:24,False,
+BagMRU\0\0\0,0,3,2,Desktop\Computers and Devices\192.168.70.128\192.168.70.128\SharedJJ\docs,Directory,docs,0,2019-02-15 03:56:56,2019-02-15 04:10:20,2019-02-15 04:10:20,2019-02-15 05:04:58,67465,2,1,2019-02-15 05:04:27,,False,NTFS file system
+BagMRU\0\0\0,1,4,1,Desktop\Computers and Devices\192.168.70.128\192.168.70.128\SharedJJ\pics,Directory,pics,0,2019-02-15 03:56:02,2019-02-15 04:31:58,2019-02-15 04:31:58,2019-02-15 05:04:58,67462,3,1,2019-02-15 05:04:35,,False,NTFS file system
+BagMRU\0\0\0,2,5,0,Desktop\Computers and Devices\192.168.70.128\192.168.70.128\SharedJJ\tools,Directory,tools,0,2019-02-15 04:01:26,2019-02-15 04:13:46,2019-02-15 04:13:46,2019-02-15 05:04:58,67474,2,1,2019-02-15 05:04:58,2019-02-15 05:04:58,False,NTFS file system

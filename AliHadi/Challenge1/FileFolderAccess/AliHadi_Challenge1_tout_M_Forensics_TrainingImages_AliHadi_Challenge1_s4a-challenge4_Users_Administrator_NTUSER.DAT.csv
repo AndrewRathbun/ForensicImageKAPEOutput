@@ -1,0 +1,5 @@
+﻿BagPath,Slot,NodeSlot,MRUPosition,AbsolutePath,ShellType,Value,ChildBags,CreatedOn,ModifiedOn,AccessedOn,LastWriteTime,MFTEntry,MFTSequenceNumber,ExtensionBlockCount,FirstInteracted,LastInteracted,HasExplored,Miscellaneous
+BagMRU,0,0,0,Desktop\Computers and Devices,Root folder: GUID,Computers and Devices,1,,,,2015-09-03 10:03:04,,,0,,2015-09-03 10:03:04,False,
+BagMRU\0,0,0,0,Desktop\Computers and Devices\vboxsrv,Variable: Users property view,vboxsrv,1,,,,2015-09-03 07:14:31,,,0,,2015-09-03 07:14:31,False,
+BagMRU\0\0,0,2,0,Desktop\Computers and Devices\vboxsrv\Vboxsvr\101,Network location,\\Vboxsvr\101,1,,,,2015-09-03 07:14:31,,,0,,2015-09-03 07:14:31,False,
+BagMRU\0\0\0,0,3,0,Desktop\Computers and Devices\vboxsrv\Vboxsvr\101\Labs,Directory,Labs,0,2015-08-20 06:10:46,2015-09-03 06:03:58,2015-09-03 06:03:58,2015-09-03 10:03:04,0,,1,2015-09-03 10:03:04,2015-09-03 10:03:04,False,

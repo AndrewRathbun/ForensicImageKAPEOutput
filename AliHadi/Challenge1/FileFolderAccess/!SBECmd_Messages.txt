@@ -1,0 +1,69 @@
+SBECmd version 1.4.0.0
+
+Author: Eric Zimmerman (saericzimmerman@gmail.com)
+https://github.com/EricZimmerman
+
+Command line: -d M:\Forensics\TrainingImages\AliHadi\Challenge1\tout --csv M:\Forensics\TrainingImages\AliHadi\Challenge1\mout\FileFolderAccess -q
+
+Directory to process: M:\Forensics\TrainingImages\AliHadi\Challenge1\tout
+Deduplication: False
+All messages will be saved to 'M:\Forensics\TrainingImages\AliHadi\Challenge1\mout\FileFolderAccess\!SBECmd_Messages.txt'
+Time zone: UTC
+
+Processing 'M:\Forensics\TrainingImages\AliHadi\Challenge1\tout\M\Forensics\TrainingImages\AliHadi\Challenge1\s4a-challenge4\Users\Administrator\NTUSER.DAT'
+
+Parse time: 0.25 seconds
+
+	Total ShellBags found: 4
+
+	Totals by bag type
+
+	Directory: 1
+	Network location: 1
+	Variable: Users property view: 1
+	Root folder: GUID: 1
+
+Finished processing 'M:\Forensics\TrainingImages\AliHadi\Challenge1\tout\M\Forensics\TrainingImages\AliHadi\Challenge1\s4a-challenge4\Users\Administrator\NTUSER.DAT'
+
+Exported to: 'M:\Forensics\TrainingImages\AliHadi\Challenge1\mout\FileFolderAccess\M__Forensics_TrainingImages_AliHadi_Challenge1_tout_M_Forensics_TrainingImages_AliHadi_Challenge1_s4a-challenge4_Users_Administrator_NTUSER.DAT.csv'
+
+---------------------------------------------------------------------
+Processing 'M:\Forensics\TrainingImages\AliHadi\Challenge1\tout\M\Forensics\TrainingImages\AliHadi\Challenge1\s4a-challenge4\Users\Default\NTUSER.DAT'
+	There was an error processing 'M:\Forensics\TrainingImages\AliHadi\Challenge1\tout\M\Forensics\TrainingImages\AliHadi\Challenge1\s4a-challenge4\Users\Default\NTUSER.DAT'. Error message: 'Software\Microsoft\Windows\Shell\BagMRU' not found in 'olume1\Users\Default\NTUSER.DAT'
+
+Processing 'M:\Forensics\TrainingImages\AliHadi\Challenge1\tout\M\Forensics\TrainingImages\AliHadi\Challenge1\s4a-challenge4\Windows\ServiceProfiles\LocalService\NTUSER.DAT'
+	There was an error processing 'M:\Forensics\TrainingImages\AliHadi\Challenge1\tout\M\Forensics\TrainingImages\AliHadi\Challenge1\s4a-challenge4\Windows\ServiceProfiles\LocalService\NTUSER.DAT'. Error message: 'Software\Microsoft\Windows\Shell\BagMRU' not found in 'rofiles\LocalService\ntuser.dat'
+
+Processing 'M:\Forensics\TrainingImages\AliHadi\Challenge1\tout\M\Forensics\TrainingImages\AliHadi\Challenge1\s4a-challenge4\Windows\ServiceProfiles\NetworkService\NTUSER.DAT'
+	There was an error processing 'M:\Forensics\TrainingImages\AliHadi\Challenge1\tout\M\Forensics\TrainingImages\AliHadi\Challenge1\s4a-challenge4\Windows\ServiceProfiles\NetworkService\NTUSER.DAT'. Error message: 'Software\Microsoft\Windows\Shell\BagMRU' not found in 'files\NetworkService\ntuser.dat'
+
+Processing 'M:\Forensics\TrainingImages\AliHadi\Challenge1\tout\M\Forensics\TrainingImages\AliHadi\Challenge1\s4a-challenge4\Windows\System32\config\systemprofile\ntuser.dat'
+	There was an error processing 'M:\Forensics\TrainingImages\AliHadi\Challenge1\tout\M\Forensics\TrainingImages\AliHadi\Challenge1\s4a-challenge4\Windows\System32\config\systemprofile\ntuser.dat'. Error message: 'Software\Microsoft\Windows\Shell\BagMRU' not found in 'config\systemprofile\NTUSER.DAT'
+
+Processing 'M:\Forensics\TrainingImages\AliHadi\Challenge1\tout\M\Forensics\TrainingImages\AliHadi\Challenge1\s4a-challenge4\Users\Administrator\AppData\Local\Microsoft\Windows\UsrClass.dat'
+
+Parse time: 0.02 seconds
+
+	Total ShellBags found: 40
+
+	Totals by bag type
+
+	Variable: Users property view: 2
+	GUID: Control panel: 4
+	Root folder: GUID: 4
+	Directory: 26
+	Drive letter: 2
+	Network location: 1
+	Variable: 1
+
+Finished processing 'M:\Forensics\TrainingImages\AliHadi\Challenge1\tout\M\Forensics\TrainingImages\AliHadi\Challenge1\s4a-challenge4\Users\Administrator\AppData\Local\Microsoft\Windows\UsrClass.dat'
+
+Exported to: 'M:\Forensics\TrainingImages\AliHadi\Challenge1\mout\FileFolderAccess\M__Forensics_TrainingImages_AliHadi_Challenge1_tout_M_Forensics_TrainingImages_AliHadi_Challenge1_s4a-challenge4_Users_Administrator_AppData_Local_Microsoft_Windows_UsrClass.dat.csv'
+
+---------------------------------------------------------------------
+
+Processing complete!
+Processed 6 file(s) in 0.26 seconds!
+Total ShellBags found: 44
+
+

@@ -1,0 +1,168 @@
+﻿Extension,BatchKeyPath,OpensWithExecutables,BatchValueName,OpensWithProgramIDs,UserChoice
+.,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,,(UserChoice key not present)
+.3g2,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,WMP11.AssocFile.3G2,WMP11.AssocFile.3G2
+.3gp,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,WMP11.AssocFile.3GP,WMP11.AssocFile.3GP
+.3gp2,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,WMP11.AssocFile.3G2,WMP11.AssocFile.3G2
+.3gpp,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,WMP11.AssocFile.3GP,WMP11.AssocFile.3GP
+.7z,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,"chrome.exe, Skype.exe",Multiple,,(UserChoice key not present)
+.aac,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,WMP11.AssocFile.ADTS,WMP11.AssocFile.ADTS
+.acrobatsecuritysettings,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,,(UserChoice key not present)
+.adt,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,WMP11.AssocFile.ADTS,WMP11.AssocFile.ADTS
+.adts,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,WMP11.AssocFile.ADTS,WMP11.AssocFile.ADTS
+.AIF,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,WMP11.AssocFile.AIFF,(UserChoice key not present)
+.AIFC,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,WMP11.AssocFile.AIFF,(UserChoice key not present)
+.AIFF,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,WMP11.AssocFile.AIFF,(UserChoice key not present)
+.api,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,,(UserChoice key not present)
+.arw,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,,Microsoft.PhotoManager.imagetype
+.ASF,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,WMP11.AssocFile.ASF,(UserChoice key not present)
+.ASX,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,WMP11.AssocFile.ASX,(UserChoice key not present)
+.AU,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,WMP11.AssocFile.AU,(UserChoice key not present)
+.avi,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,WMP11.AssocFile.AVI,WMP11.AssocFile.AVI
+.bmp,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,Paint.Picture,Paint.Picture
+.cab,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,CABFolder,(UserChoice key not present)
+.cdxml,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,Microsoft.PowerShellCmdletDefinitionXML.1,(UserChoice key not present)
+.chm,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,chm.file,(UserChoice key not present)
+.com/,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,chrome.exe,Multiple,,(UserChoice key not present)
+.contact,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,contact_wab_auto_file,(UserChoice key not present)
+.cr2,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,,Microsoft.PhotoManager.imagetype
+.crw,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,,Microsoft.PhotoManager.imagetype
+.css,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,CSSfile,(UserChoice key not present)
+.csv,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,Excel.CSV,(UserChoice key not present)
+.dds,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,ddsfile,(UserChoice key not present)
+.dib,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,Paint.Picture,Paint.Picture
+.dll,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,dllfile,(UserChoice key not present)
+.doc,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,Word.Document.8,(UserChoice key not present)
+.docm,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,Word.DocumentMacroEnabled.12,(UserChoice key not present)
+.docx,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,WINWORD.EXE,Multiple,"docxfile, Word.Document.12",(UserChoice key not present)
+.dot,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,Word.Template.8,(UserChoice key not present)
+.dotm,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,Word.TemplateMacroEnabled.12,(UserChoice key not present)
+.dotx,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,WINWORD.EXE,Multiple,Word.Template.12,(UserChoice key not present)
+.dwfx,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,Windows.XPSReachViewer,(UserChoice key not present)
+.easmx,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,Windows.XPSReachViewer,(UserChoice key not present)
+.edrwx,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,Windows.XPSReachViewer,(UserChoice key not present)
+.emf,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,emffile,(UserChoice key not present)
+.eprtx,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,Windows.XPSReachViewer,(UserChoice key not present)
+.erf,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,,Microsoft.PhotoManager.imagetype
+.exe,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,exefile,(UserChoice key not present)
+.fdf,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,,(UserChoice key not present)
+.fon,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,fonfile,(UserChoice key not present)
+.gif,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,giffile,giffile
+.htm,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,"htmlfile, ChromeHTML",(UserChoice key not present)
+.html,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,"htmlfile, ChromeHTML",(UserChoice key not present)
+.ico,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,icofile,(UserChoice key not present)
+.ini,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,inifile,(UserChoice key not present)
+.jar,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,jarfile,(UserChoice key not present)
+.jfif,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,pjpegfile,pjpegfile
+.jpe,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,jpegfile,jpegfile
+.jpeg,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,jpegfile,jpegfile
+.jpg,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,"chrome.exe, DllHost.exe",Multiple,jpegfile,jpegfile
+.jtx,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,Windows.XPSReachViewer,(UserChoice key not present)
+.jxr,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,wdpfile,wdpfile
+.kdc,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,,Microsoft.PhotoManager.imagetype
+.lnk,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,lnkfile,(UserChoice key not present)
+.M1V,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,WMP11.AssocFile.MPEG,(UserChoice key not present)
+.m2t,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,WMP11.AssocFile.M2TS,(UserChoice key not present)
+.m2ts,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,WMP11.AssocFile.M2TS,(UserChoice key not present)
+.M2V,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,WMP11.AssocFile.MPEG,(UserChoice key not present)
+.m3u,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,WMP11.AssocFile.m3u,(UserChoice key not present)
+.m4a,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,WMP11.AssocFile.M4A,WMP11.AssocFile.M4A
+.m4v,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,WMP11.AssocFile.MP4,WMP11.AssocFile.MP4
+.mht,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,mhtmlfile,(UserChoice key not present)
+.mhtml,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,mhtmlfile,(UserChoice key not present)
+.MID,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,WMP11.AssocFile.MIDI,(UserChoice key not present)
+.MIDI,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,WMP11.AssocFile.MIDI,(UserChoice key not present)
+.mod,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,WMP11.AssocFile.MPEG,(UserChoice key not present)
+.mov,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,WMP11.AssocFile.MOV,WMP11.AssocFile.MOV
+.MP2,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,WMP11.AssocFile.MP3,WMP11.AssocFile.MP3
+.MP2V,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,WMP11.AssocFile.MPEG,(UserChoice key not present)
+.mp3,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,WMP11.AssocFile.MP3,WMP11.AssocFile.MP3
+.mp4,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,WMP11.AssocFile.MP4,WMP11.AssocFile.MP4
+.mp4v,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,WMP11.AssocFile.MP4,WMP11.AssocFile.MP4
+.mpa,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,WMP11.AssocFile.MPEG,WMP11.AssocFile.MPEG
+.MPE,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,WMP11.AssocFile.MPEG,WMP11.AssocFile.MPEG
+.mpeg,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,WMP11.AssocFile.MPEG,WMP11.AssocFile.MPEG
+.mpg,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,WMP11.AssocFile.MPEG,WMP11.AssocFile.MPEG
+.mpv2,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,WMP11.AssocFile.MPEG,(UserChoice key not present)
+.mrw,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,,Microsoft.PhotoManager.imagetype
+.msg,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,Outlook.File.msg.15,(UserChoice key not present)
+.msi,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,Msi.Package,(UserChoice key not present)
+.mts,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,WMP11.AssocFile.M2TS,WMP11.AssocFile.M2TS
+.nef,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,,Microsoft.PhotoManager.imagetype
+.nrw,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,,Microsoft.PhotoManager.imagetype
+.ocx,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,ocxfile,(UserChoice key not present)
+.odp,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,PowerPoint.OpenDocumentPresentation.12,(UserChoice key not present)
+.ods,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,Excel.OpenDocumentSpreadsheet.12,(UserChoice key not present)
+.odt,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,"odtfile, Word.OpenDocumentText.12",(UserChoice key not present)
+.orf,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,,Microsoft.PhotoManager.imagetype
+.org/,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,chrome.exe,Multiple,,(UserChoice key not present)
+.otf,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,otffile,(UserChoice key not present)
+.oxps,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,Windows.XPSReachViewer,AppX86746z2101ayy2ygv3g96e4eqdf8r99j
+.pano,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,Panoramic File,(UserChoice key not present)
+.pdf,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,AcroRd32.exe,Multiple,AcroExch.Document.DC,(UserChoice key not present)
+.pdfxml,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,,(UserChoice key not present)
+.pdx,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,,(UserChoice key not present)
+.pef,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,,Microsoft.PhotoManager.imagetype
+.png,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,DllHost.exe,Multiple,pngfile,pngfile
+.pot,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,PowerPoint.Template.8,(UserChoice key not present)
+.potm,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,PowerPoint.TemplateMacroEnabled.12,(UserChoice key not present)
+.potx,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,PowerPoint.Template.12,(UserChoice key not present)
+.ppam,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,PowerPoint.Addin.12,(UserChoice key not present)
+.ppsm,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,PowerPoint.SlideShowMacroEnabled.12,(UserChoice key not present)
+.ppsx,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,PowerPoint.SlideShow.12,(UserChoice key not present)
+.ppt,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,PowerPoint.Show.8,(UserChoice key not present)
+.pptm,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,PowerPoint.ShowMacroEnabled.12,(UserChoice key not present)
+.pptx,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,PowerPoint.Show.12,(UserChoice key not present)
+.ps1xml,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,Microsoft.PowerShellXMLData.1,(UserChoice key not present)
+.pssc,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,Microsoft.PowerShellSessionConfiguration.1,(UserChoice key not present)
+.pst,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,Outlook.File.pst.15,(UserChoice key not present)
+.raf,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,,Microsoft.PhotoManager.imagetype
+.raw,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,,Microsoft.PhotoManager.imagetype
+.rle,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,rlefile,(UserChoice key not present)
+.RMI,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,WMP11.AssocFile.MIDI,(UserChoice key not present)
+.rtf,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,"rtffile, Word.RTF.8",(UserChoice key not present)
+.rw2,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,,Microsoft.PhotoManager.imagetype
+.rwl,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,,Microsoft.PhotoManager.imagetype
+.scf,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,SHCmdFile,(UserChoice key not present)
+.search-ms,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,SearchFolder,(UserChoice key not present)
+.secstore,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,,(UserChoice key not present)
+.shtml,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,ChromeHTML,(UserChoice key not present)
+.sldm,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,PowerPoint.SlideMacroEnabled.12,(UserChoice key not present)
+.sldx,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,PowerPoint.Slide.12,(UserChoice key not present)
+.SND,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,WMP11.AssocFile.AU,(UserChoice key not present)
+.sr2,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,,Microsoft.PhotoManager.imagetype
+.srw,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,,Microsoft.PhotoManager.imagetype
+.sys,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,sysfile,(UserChoice key not present)
+.tif,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,TIFImage.Document,TIFImage.Document
+.tiff,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,TIFImage.Document,TIFImage.Document
+.TS,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,WMP11.AssocFile.TTS,WMP11.AssocFile.TTS
+.ttc,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,ttcfile,(UserChoice key not present)
+.ttf,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,ttffile,(UserChoice key not present)
+.TTS,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,WMP11.AssocFile.TTS,WMP11.AssocFile.TTS
+.txt,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,NOTEPAD.EXE,Multiple,txtfile,(UserChoice key not present)
+.vsto,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,bootstrap.vsto.1,(UserChoice key not present)
+.wav,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,WMP11.AssocFile.WAV,WMP11.AssocFile.WAV
+.WAX,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,WMP11.AssocFile.WAX,(UserChoice key not present)
+.wdp,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,wdpfile,wdpfile
+.wm,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,WMP11.AssocFile.ASF,WMP11.AssocFile.ASF
+.wma,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,WMP11.AssocFile.WMA,WMP11.AssocFile.WMA
+.wmf,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,wmffile,(UserChoice key not present)
+.wmv,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,WMP11.AssocFile.WMV,WMP11.AssocFile.WMV
+.WMX,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,WMP11.AssocFile.ASX,(UserChoice key not present)
+.WPL,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,WMP11.AssocFile.WPL,WMP11.AssocFile.WPL
+.WVX,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,WMP11.AssocFile.WVX,(UserChoice key not present)
+.xdp,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,,(UserChoice key not present)
+.xfdf,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,,(UserChoice key not present)
+.xlam,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,Excel.AddInMacroEnabled,(UserChoice key not present)
+.xls,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,Excel.Sheet.8,(UserChoice key not present)
+.xlsb,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,Excel.SheetBinaryMacroEnabled.12,(UserChoice key not present)
+.xlsm,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,Excel.SheetMacroEnabled.12,(UserChoice key not present)
+.xlsx,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,Excel.Sheet.12,(UserChoice key not present)
+.xlt,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,Excel.Template.8,(UserChoice key not present)
+.xltm,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,Excel.TemplateMacroEnabled,(UserChoice key not present)
+.xltx,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,Excel.Template,(UserChoice key not present)
+.xml,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,MSOXMLED.EXE,Multiple,xmlfile,(UserChoice key not present)
+.xps,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,Windows.XPSReachViewer,AppX86746z2101ayy2ygv3g96e4eqdf8r99j
+.xsl,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,xslfile,(UserChoice key not present)
+.zip,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,CompressedFolder,(UserChoice key not present)
+http,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,URL:HyperText Transfer Protocol,(UserChoice key not present)
+OpenWithList,,,,,(UserChoice key not present)

@@ -1,0 +1,41 @@
+﻿BagPath,Slot,NodeSlot,MRUPosition,AbsolutePath,ShellType,Value,ChildBags,CreatedOn,ModifiedOn,AccessedOn,LastWriteTime,MFTEntry,MFTSequenceNumber,ExtensionBlockCount,FirstInteracted,LastInteracted,HasExplored,Miscellaneous
+BagMRU,0,0,3,Desktop\Control Panel,Root folder: GUID,Control Panel,4,,,,2015-09-12 18:19:41,,,0,,,False,
+BagMRU,1,0,0,Desktop\My Computer,Root folder: GUID,My Computer,2,,,,2015-09-12 18:19:41,,,0,,2015-09-12 18:19:41,False,
+BagMRU,2,0,1,Desktop\Computers and Devices,Root folder: GUID,Computers and Devices,1,,,,2015-09-12 18:19:41,,,0,,,False,
+BagMRU,3,0,2,Desktop\Shared Documents Folder (Users Files),Root folder: GUID,Shared Documents Folder (Users Files),1,,,,2015-09-12 18:19:41,,,0,,,False,
+BagMRU\0,0,2,3,Desktop\Control Panel\User Accounts,GUID: Control panel,User Accounts,1,,,,2015-09-02 09:27:18,,,0,,,True,
+BagMRU\0,1,5,0,Desktop\Control Panel\System,GUID: Control panel,System,0,,,,2015-09-02 09:27:18,,,0,2015-08-24 07:11:59,2015-09-02 09:27:18,True,
+BagMRU\0,2,17,1,Desktop\Control Panel\Network Connections,GUID: Control panel,Network Connections,0,,,,2015-09-02 09:27:18,,,0,2015-08-23 10:33:04,,True,
+BagMRU\0,3,18,2,Desktop\Control Panel\Network and Sharing Center,GUID: Control panel,Network and Sharing Center,0,,,,2015-09-02 09:27:18,,,0,2015-08-23 10:33:06,,True,
+BagMRU\0\0,0,3,0,Desktop\Control Panel\User Accounts\Change Your Password,Variable: Users property view,Change Your Password,0,,,,2015-08-24 06:59:38,,,0,2015-08-24 06:59:38,2015-08-24 06:59:38,False,
+BagMRU\1,0,6,0,Desktop\My Computer\E:,Drive letter,E:,2,,,,2015-09-12 18:19:38,,,0,,2015-09-12 18:19:38,True,
+BagMRU\1,1,8,1,Desktop\My Computer\C:,Drive letter,C:,4,,,,2015-09-12 18:19:38,,,0,,,True,
+BagMRU\1\0,0,7,1,Desktop\My Computer\E:\DVWA-1.0.8,Directory,DVWA-1.0.8,0,2015-08-23 21:51:18,2015-08-23 21:51:24,2015-08-23 21:51:24,2015-09-12 18:19:41,0,,1,2015-08-23 21:51:40,,True,
+BagMRU\1\0,1,40,0,Desktop\My Computer\E:\FTK-Imager,Directory,FTK-Imager,0,2015-09-12 18:19:12,2015-05-02 15:43:34,2015-09-12 18:19:12,2015-09-12 18:19:41,0,,1,2015-09-12 18:19:41,2015-09-12 18:19:41,True,
+BagMRU\1\1,0,9,0,Desktop\My Computer\C:\xampp,Directory,xampp,2,2015-08-23 21:41:48,2015-08-23 21:44:20,2015-08-23 21:44:20,2015-08-23 10:33:34,42729,2,1,,2015-08-23 10:33:34,True,NTFS file system
+BagMRU\1\1,1,14,3,Desktop\My Computer\C:\Windows,Directory,Windows,0,2008-01-19 09:40:54,2015-08-23 21:43:52,2015-08-23 21:43:52,2015-08-23 10:33:34,291,1,1,2015-08-23 21:58:58,,False,NTFS file system
+BagMRU\1\1,2,19,2,Desktop\My Computer\C:\Users,Directory,Users,0,2008-01-19 09:40:54,2015-08-24 06:57:40,2015-08-24 06:57:40,2015-08-23 10:33:34,178,1,1,2015-08-23 10:33:28,,False,NTFS file system
+BagMRU\1\1,3,20,1,Desktop\My Computer\C:\inetpub,Directory,inetpub,1,2015-08-23 21:25:50,2015-08-23 21:25:50,2015-08-23 21:25:50,2015-08-23 10:33:34,42386,1,1,,,True,NTFS file system
+BagMRU\1\1\0,0,10,0,Desktop\My Computer\C:\xampp\htdocs,Directory,htdocs,3,2015-08-23 21:41:48,2015-08-23 21:41:50,2015-08-23 21:41:50,2015-09-03 06:10:11,42732,2,1,,2015-09-03 06:10:11,True,NTFS file system
+BagMRU\1\1\0,1,22,1,Desktop\My Computer\C:\xampp\phpMyAdmin,Directory,phpMyAdmin,2,2015-08-23 21:43:18,2015-08-23 21:43:32,2015-08-23 21:43:32,2015-09-03 06:10:11,57705,1,1,,,True,NTFS file system
+BagMRU\1\1\0\0,0,11,2,Desktop\My Computer\C:\xampp\htdocs\New Folder,Directory,New Folder,0,2015-08-23 21:52:16,2015-08-23 21:52:16,2015-08-23 21:52:16,2015-09-03 07:20:31,12859,4,1,2015-08-23 21:52:15,,False,NTFS file system
+BagMRU\1\1\0\0,1,12,0,Desktop\My Computer\C:\xampp\htdocs\DVWA,Directory,DVWA,4,2015-08-23 21:52:16,2015-08-23 21:52:16,2015-08-23 21:52:16,2015-09-03 07:20:31,12859,4,1,,2015-09-03 07:20:31,True,NTFS file system
+BagMRU\1\1\0\0,2,38,1,Desktop\My Computer\C:\xampp\htdocs\xampp,Directory,xampp,0,2015-08-23 21:41:48,2015-08-23 21:41:50,2015-08-23 21:41:50,2015-09-03 07:20:31,42936,1,1,2015-09-03 07:20:29,,False,NTFS file system
+BagMRU\1\1\0\0\1,0,13,2,Desktop\My Computer\C:\xampp\htdocs\DVWA\config,Directory,config,0,2015-08-23 21:52:26,2015-08-23 21:51:20,2015-08-23 21:52:26,2015-09-03 10:03:06,12860,4,1,2015-08-23 21:52:28,,True,NTFS file system
+BagMRU\1\1\0\0\1,1,15,3,Desktop\My Computer\C:\xampp\htdocs\DVWA\dvwa,Directory,dvwa,0,2015-08-23 21:52:26,2015-08-23 21:52:26,2015-08-23 21:52:26,2015-09-03 10:03:06,12929,4,1,2015-08-23 21:59:06,,True,NTFS file system
+BagMRU\1\1\0\0\1,2,26,0,Desktop\My Computer\C:\xampp\htdocs\DVWA\vulnerabilities,Directory,vulnerabilities,3,2015-08-23 21:52:28,2015-08-23 21:52:28,2015-08-23 21:52:28,2015-09-03 10:03:06,60276,1,1,,2015-09-03 10:03:06,True,NTFS file system
+BagMRU\1\1\0\0\1,3,36,1,Desktop\My Computer\C:\xampp\htdocs\DVWA\webshells,Directory,webshells,0,,,,2015-09-03 10:03:06,0,,1,2015-09-03 07:14:51,,True,
+BagMRU\1\1\0\0\1\2,0,27,0,Desktop\My Computer\C:\xampp\htdocs\DVWA\vulnerabilities\xss_r,Directory,xss_r,1,2015-08-23 21:52:28,2015-08-23 21:52:28,2015-08-23 21:52:28,2015-09-03 06:15:14,60345,1,1,,2015-09-03 06:15:14,True,NTFS file system
+BagMRU\1\1\0\0\1\2,1,29,1,Desktop\My Computer\C:\xampp\htdocs\DVWA\vulnerabilities\sqli,Directory,sqli,1,2015-08-23 21:52:28,2015-08-23 21:52:28,2015-08-23 21:52:28,2015-09-03 06:15:14,60321,1,1,,,True,NTFS file system
+BagMRU\1\1\0\0\1\2,2,31,2,Desktop\My Computer\C:\xampp\htdocs\DVWA\vulnerabilities\upload,Directory,upload,1,2015-08-23 21:52:28,2015-08-23 21:52:28,2015-08-23 21:52:28,2015-09-03 06:15:14,60337,1,1,,,True,NTFS file system
+BagMRU\1\1\0\0\1\2\0,0,28,0,Desktop\My Computer\C:\xampp\htdocs\DVWA\vulnerabilities\xss_r\source,Directory,source,0,2015-08-23 21:52:28,2015-08-23 21:52:28,2015-08-23 21:52:28,2015-09-02 11:36:25,60349,1,1,2015-09-02 11:36:25,2015-09-02 11:36:25,True,NTFS file system
+BagMRU\1\1\0\0\1\2\1,0,30,0,Desktop\My Computer\C:\xampp\htdocs\DVWA\vulnerabilities\sqli\source,Directory,source,0,2015-08-23 21:52:28,2015-08-23 21:52:28,2015-08-23 21:52:28,2015-09-02 11:36:40,60325,1,1,2015-09-02 11:36:40,2015-09-02 11:36:40,True,NTFS file system
+BagMRU\1\1\0\0\1\2\2,0,32,0,Desktop\My Computer\C:\xampp\htdocs\DVWA\vulnerabilities\upload\source,Directory,source,0,2015-08-23 21:52:28,2015-08-23 21:52:28,2015-08-23 21:52:28,2015-09-02 11:38:56,60341,1,1,2015-09-02 11:38:56,2015-09-02 11:38:56,True,NTFS file system
+BagMRU\1\1\0\1,0,24,1,Desktop\My Computer\C:\xampp\phpMyAdmin\locale,Directory,locale,0,2015-08-23 21:43:18,2015-08-23 21:43:18,2015-08-23 21:43:18,2015-09-02 09:37:51,57862,1,1,2015-09-02 09:34:16,,False,NTFS file system
+BagMRU\1\1\0\1,1,25,0,Desktop\My Computer\C:\xampp\phpMyAdmin\themes,Directory,themes,0,2015-08-23 21:43:18,2015-08-23 21:43:32,2015-08-23 21:43:32,2015-09-02 09:37:51,57850,1,1,2015-09-02 09:37:51,2015-09-02 09:37:51,False,NTFS file system
+BagMRU\1\1\3,0,21,0,Desktop\My Computer\C:\inetpub\temp,Directory,temp,0,2015-08-23 21:25:50,2015-08-23 21:25:50,2015-08-23 21:25:50,2015-08-23 10:33:31,42387,1,1,2015-08-23 10:33:31,2015-08-23 10:33:31,True,NTFS file system
+BagMRU\2,0,33,0,Desktop\Computers and Devices\vboxsrv,Variable: Users property view,vboxsrv,1,,,,2015-09-03 07:14:22,,,0,,2015-09-03 07:14:22,False,
+BagMRU\2\0,0,34,0,Desktop\Computers and Devices\vboxsrv\Vboxsvr\101,Network location,\\Vboxsvr\101,2,,,,2015-09-03 07:14:22,,,0,,2015-09-03 07:14:22,False,
+BagMRU\2\0\0,0,35,1,Desktop\Computers and Devices\vboxsrv\Vboxsvr\101\Labs,Directory,Labs,0,2015-08-20 06:10:46,2015-09-03 06:03:58,2015-09-03 06:03:58,2015-09-03 10:03:32,0,,1,2015-09-03 07:14:31,,False,
+BagMRU\2\0\0,1,39,0,Desktop\Computers and Devices\vboxsrv\Vboxsvr\101\FTK-Imager,Directory,FTK-Imager,0,2015-09-03 10:02:42,2015-09-03 10:02:46,2015-09-03 10:02:46,2015-09-03 10:03:32,0,,1,2015-09-03 10:03:32,2015-09-03 10:03:32,False,
+BagMRU\3,0,37,0,Desktop\Shared Documents Folder (Users Files)\Documents,Variable,Documents,0,,,,2015-09-03 07:20:17,,,0,2015-09-03 07:20:17,2015-09-03 07:20:17,False,

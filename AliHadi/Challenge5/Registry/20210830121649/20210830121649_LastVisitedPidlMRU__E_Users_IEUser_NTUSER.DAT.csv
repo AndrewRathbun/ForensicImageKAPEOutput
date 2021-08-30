@@ -1,0 +1,75 @@
+﻿ValueName,BatchKeyPath,MruPosition,BatchValueName,Executable,AbsolutePath,OpenedOn,Details
+0,ROOT\Software\Microsoft\Windows\CurrentVersion\Explorer\ComDlg32\LastVisitedPidlMRU,0,0,notepad.exe,My Computer\Downloads\SetMACE_v1009\SetMACE_v1009,2019-02-15 04:37:08.6375696,"Type: Root folder: GUID, Value: My Computer
+
+
+Type: Root folder: GUID, Value: Downloads
+
+
+Type: Directory, Value: SetMACE_v1009
+
+Extension blocks found: 1
+---------------------- Block 0 (Beef0004)----------------------
+Long name: SetMACE_v1009
+Created: 2/15/2019 04:32:54 +00:00
+Last access: 2/15/2019 04:32:54 +00:00
+MFT entry/sequence #: 87898/3 (0x1575A/0x3)
+File system hint: NTFS
+
+--------------------------------------------------
+Short name: SETMAC~1
+Modified: 2/15/2019 04:32:54 +00:00
+
+
+Type: Directory, Value: SetMACE_v1009
+
+Extension blocks found: 1
+---------------------- Block 0 (Beef0004)----------------------
+Long name: SetMACE_v1009
+Created: 2/15/2019 04:32:54 +00:00
+Last access: 2/15/2019 04:32:56 +00:00
+MFT entry/sequence #: 87899/3 (0x1575B/0x3)
+File system hint: NTFS
+
+--------------------------------------------------
+Short name: SETMAC~1
+Modified: 2/15/2019 04:32:56 +00:00
+
+
+"
+0,ROOT\Software\Microsoft\Windows\CurrentVersion\Explorer\ComDlg32\LastVisitedPidlMRU,0,0,notepad.exe,My Computer\Downloads\SetMACE_v1009\SetMACE_v1009,2019-02-15 04:37:08.6375696,"Type: Root folder: GUID, Value: My Computer
+
+
+Type: Root folder: GUID, Value: Downloads
+
+
+Type: Directory, Value: SetMACE_v1009
+
+Extension blocks found: 1
+---------------------- Block 0 (Beef0004)----------------------
+Long name: SetMACE_v1009
+Created: 2/15/2019 04:32:54 +00:00
+Last access: 2/15/2019 04:32:54 +00:00
+MFT entry/sequence #: 87898/3 (0x1575A/0x3)
+File system hint: NTFS
+
+--------------------------------------------------
+Short name: SETMAC~1
+Modified: 2/15/2019 04:32:54 +00:00
+
+
+Type: Directory, Value: SetMACE_v1009
+
+Extension blocks found: 1
+---------------------- Block 0 (Beef0004)----------------------
+Long name: SetMACE_v1009
+Created: 2/15/2019 04:32:54 +00:00
+Last access: 2/15/2019 04:32:56 +00:00
+MFT entry/sequence #: 87899/3 (0x1575B/0x3)
+File system hint: NTFS
+
+--------------------------------------------------
+Short name: SETMAC~1
+Modified: 2/15/2019 04:32:56 +00:00
+
+
+"
