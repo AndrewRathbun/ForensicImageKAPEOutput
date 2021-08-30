@@ -1,3 +1,0 @@
-﻿Id,Timestamp,ExeInfo,ExeInfoDescription,ExeTimestamp,SidType,Sid,UserName,UserId,AppId,NetworkType,NotificationType,PayloadSize
-1,2018-04-25 20:08:00,Microsoft.BingWeather_4.22.3254.0_x64__8wekyb3d8bbwe,,,UnknownOrUserSid,S-1-5-21-597701057-294507186-493142324-1000,IEUser,285,513,0,1,4268
-2,2018-04-25 20:08:00,Microsoft.Office.OneNote_17.8827.20991.0_x64__8wekyb3d8bbwe,,,UnknownOrUserSid,S-1-5-21-597701057-294507186-493142324-1000,IEUser,285,514,0,1,1118
