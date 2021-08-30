@@ -1,0 +1,2 @@
+﻿Timestamp,BatchKeyPath,KeyName,BatchValueName,DisplayName,DisplayVersion,Publisher,InstallDate,InstallSource,InstallLocation,UninstallString
+2016-06-21 11:20:18.3147785,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Uninstall\{c39d559b-aa83-4476-ba20-988a35a1199a},{c39d559b-aa83-4476-ba20-988a35a1199a},Multiple,Python 3.5.1 (32-bit),3.5.1150.0,Python Software Foundation,,,,"""C:\Users\Hunter\AppData\Local\Package Cache\{c39d559b-aa83-4476-ba20-988a35a1199a}\python-3.5.1.exe"" /modify"

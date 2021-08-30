@@ -1,0 +1,10 @@
+﻿LnkName,BatchKeyPath,Executable,BatchValueName,PinType
+User Pinned,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\Taskband,(unknown),Favorites,(unknown)
+TaskBar,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\Taskband,(Directory),Favorites,(Directory)
+Internet Explorer.lnk,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\Taskband,Microsoft.InternetExplorer.Default,Favorites,(unknown)
+User Pinned,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\Taskband,(unknown),Favorites,(unknown)
+TaskBar,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\Taskband,(Directory),Favorites,(Directory)
+File Explorer.lnk,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\Taskband,Microsoft.Windows.Explorer,Favorites,(unknown)
+User Pinned,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\Taskband,(unknown),Favorites,(unknown)
+TaskBar,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\Taskband,(Directory),Favorites,(Directory)
+Google Chrome.lnk,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\Taskband,Chrome,Favorites,(unknown)

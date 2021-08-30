@@ -1,0 +1,189 @@
+﻿ValueName,BatchKeyPath,MruPosition,BatchValueName,Executable,AbsolutePath,OpenedOn,Details
+2,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\ComDlg32\LastVisitedPidlMRU,0,2,{27146BA0-2CA1-4F53-8A14-77E030313883},Shared Documents Folder (Users Files)\Dropbox\Outlook,2016-06-21 13:14:59.9452593,"Type: Root folder: GUID, Value: Shared Documents Folder (Users Files)
+
+
+Modified On: 6/21/2016 01:50:12 +00:00
+
+Type: Users Files Folder, Value: Dropbox
+
+Extension blocks found: 1
+---------------------- Block 0 (Beef0004)----------------------
+Long name: Dropbox
+Created: 6/21/2016 01:50:12 +00:00
+Last access: 6/21/2016 01:50:12 +00:00
+MFT entry/sequence #: 22438/3 (0x57A6/0x3)
+File system hint: NTFS
+
+--------------------------------------------------
+
+Type: Directory, Value: Outlook
+
+Extension blocks found: 1
+---------------------- Block 0 (Beef0004)----------------------
+Long name: Outlook
+Created: 6/21/2016 13:14:26 +00:00
+Last access: 6/21/2016 13:14:26 +00:00
+MFT entry/sequence #: 87310/10 (0x1550E/0xA)
+File system hint: NTFS
+
+--------------------------------------------------
+Short name: Outlook
+Modified: 6/21/2016 13:14:26 +00:00
+
+
+"
+1,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\ComDlg32\LastVisitedPidlMRU,1,1,{194CF65E-D1C9-43C7-B77D-8178B4A047D6},My Computer\C:\Users\Hunter\Documents,,"Type: Root folder: GUID, Value: My Computer
+
+
+Type: Drive letter, Value: C:
+
+
+Type: Directory, Value: Users
+
+Extension blocks found: 1
+---------------------- Block 0 (Beef0004)----------------------
+Long name: Users
+Localized name: @shell32.dll,-21813
+Created: 8/22/2013 13:36:16 +00:00
+Last access: 6/21/2016 08:37:46 +00:00
+MFT entry/sequence #: 2121/1 (0x849/0x1)
+File system hint: NTFS
+
+--------------------------------------------------
+Short name: Users
+Modified: 6/21/2016 08:37:46 +00:00
+
+
+Type: Directory, Value: Hunter
+
+Extension blocks found: 1
+---------------------- Block 0 (Beef0004)----------------------
+Long name: Hunter
+Created: 
+Last access: 6/21/2016 12:26:20 +00:00
+MFT entry/sequence #: 81358/1 (0x13DCE/0x1)
+File system hint: NTFS
+
+--------------------------------------------------
+Short name: Hunter
+Modified: 6/21/2016 12:26:20 +00:00
+
+
+Type: Directory, Value: Documents
+
+Extension blocks found: 1
+---------------------- Block 0 (Beef0004)----------------------
+Long name: Documents
+Localized name: @shell32.dll,-21770
+Created: 6/21/2016 08:37:48 +00:00
+Last access: 6/21/2016 12:22:22 +00:00
+MFT entry/sequence #: 81373/1 (0x13DDD/0x1)
+File system hint: NTFS
+
+--------------------------------------------------
+Short name: DOCUME~1
+Modified: 6/21/2016 12:22:22 +00:00
+
+
+"
+0,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\ComDlg32\LastVisitedPidlMRU,2,0,chrome.exe,My Computer\Documents,,"Type: Root folder: GUID, Value: My Computer
+
+
+Type: Root folder: GUID, Value: Documents
+
+
+"
+2,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\ComDlg32\LastVisitedPidlMRU,0,2,{27146BA0-2CA1-4F53-8A14-77E030313883},Shared Documents Folder (Users Files)\Dropbox\Outlook,2016-06-21 13:14:59.9452593,"Type: Root folder: GUID, Value: Shared Documents Folder (Users Files)
+
+
+Modified On: 6/21/2016 01:50:12 +00:00
+
+Type: Users Files Folder, Value: Dropbox
+
+Extension blocks found: 1
+---------------------- Block 0 (Beef0004)----------------------
+Long name: Dropbox
+Created: 6/21/2016 01:50:12 +00:00
+Last access: 6/21/2016 01:50:12 +00:00
+MFT entry/sequence #: 22438/3 (0x57A6/0x3)
+File system hint: NTFS
+
+--------------------------------------------------
+
+Type: Directory, Value: Outlook
+
+Extension blocks found: 1
+---------------------- Block 0 (Beef0004)----------------------
+Long name: Outlook
+Created: 6/21/2016 13:14:26 +00:00
+Last access: 6/21/2016 13:14:26 +00:00
+MFT entry/sequence #: 87310/10 (0x1550E/0xA)
+File system hint: NTFS
+
+--------------------------------------------------
+Short name: Outlook
+Modified: 6/21/2016 13:14:26 +00:00
+
+
+"
+1,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\ComDlg32\LastVisitedPidlMRU,1,1,{194CF65E-D1C9-43C7-B77D-8178B4A047D6},My Computer\C:\Users\Hunter\Documents,,"Type: Root folder: GUID, Value: My Computer
+
+
+Type: Drive letter, Value: C:
+
+
+Type: Directory, Value: Users
+
+Extension blocks found: 1
+---------------------- Block 0 (Beef0004)----------------------
+Long name: Users
+Localized name: @shell32.dll,-21813
+Created: 8/22/2013 13:36:16 +00:00
+Last access: 6/21/2016 08:37:46 +00:00
+MFT entry/sequence #: 2121/1 (0x849/0x1)
+File system hint: NTFS
+
+--------------------------------------------------
+Short name: Users
+Modified: 6/21/2016 08:37:46 +00:00
+
+
+Type: Directory, Value: Hunter
+
+Extension blocks found: 1
+---------------------- Block 0 (Beef0004)----------------------
+Long name: Hunter
+Created: 
+Last access: 6/21/2016 12:26:20 +00:00
+MFT entry/sequence #: 81358/1 (0x13DCE/0x1)
+File system hint: NTFS
+
+--------------------------------------------------
+Short name: Hunter
+Modified: 6/21/2016 12:26:20 +00:00
+
+
+Type: Directory, Value: Documents
+
+Extension blocks found: 1
+---------------------- Block 0 (Beef0004)----------------------
+Long name: Documents
+Localized name: @shell32.dll,-21770
+Created: 6/21/2016 08:37:48 +00:00
+Last access: 6/21/2016 12:22:22 +00:00
+MFT entry/sequence #: 81373/1 (0x13DDD/0x1)
+File system hint: NTFS
+
+--------------------------------------------------
+Short name: DOCUME~1
+Modified: 6/21/2016 12:22:22 +00:00
+
+
+"
+0,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\ComDlg32\LastVisitedPidlMRU,2,0,chrome.exe,My Computer\Documents,,"Type: Root folder: GUID, Value: My Computer
+
+
+Type: Root folder: GUID, Value: Documents
+
+
+"
