@@ -1,0 +1,55 @@
+﻿Id,Timestamp,ExeInfo,ExeInfoDescription,ExeTimestamp,SidType,Sid,UserName,UserId,AppId,BackgroundBytesRead,BackgroundBytesWritten,BackgroundContextSwitches,BackgroundCycleTime,BackgroundNumberOfFlushes,BackgroundNumReadOperations,BackgroundNumWriteOperations,FaceTime,ForegroundBytesRead,ForegroundBytesWritten,ForegroundContextSwitches,ForegroundCycleTime,ForegroundNumberOfFlushes,ForegroundNumReadOperations,ForegroundNumWriteOperations
+216,2015-12-12 02:20:40,System,,,LocalSystem,S-1-5-18,systemprofile,4,5,0,0,0,0,0,0,0,570160000,514048,151958016,88335,3852323048,6,39,600
+217,2015-12-12 02:20:40,\Device\HarddiskVolume2\Windows\System32\smss.exe,,,LocalSystem,S-1-5-18,systemprofile,4,84,0,0,0,0,0,0,0,570160000,0,0,1,172176,0,0,0
+218,2015-12-12 02:20:40,\Device\HarddiskVolume2\Windows\System32\csrss.exe,,,LocalSystem,S-1-5-18,systemprofile,4,85,0,0,0,0,0,0,0,1140320000,436224,0,8479,451578758,0,17,0
+219,2015-12-12 02:20:40,\Device\HarddiskVolume2\Windows\System32\wininit.exe,,,LocalSystem,S-1-5-18,systemprofile,4,86,0,0,0,0,0,0,0,570160000,0,0,12,1129976,0,0,0
+220,2015-12-12 02:20:40,\Device\HarddiskVolume2\Windows\System32\winlogon.exe,,,LocalSystem,S-1-5-18,systemprofile,4,87,0,0,0,0,0,0,0,570160000,20480,0,3824,1144464574,0,1,0
+221,2015-12-12 02:20:40,\Device\HarddiskVolume2\Windows\System32\services.exe,,,LocalSystem,S-1-5-18,systemprofile,4,88,0,0,0,0,0,0,0,570160000,4349952,4276224,1059,151036894,1,33,31
+222,2015-12-12 02:20:40,\Device\HarddiskVolume2\Windows\System32\lsass.exe,,,LocalSystem,S-1-5-18,systemprofile,4,89,0,0,0,0,0,0,0,570160000,0,0,1491,95068401,0,0,0
+223,2015-12-12 02:20:40,\Device\HarddiskVolume2\Windows\System32\svchost.exe [DcomLaunch],,,LocalSystem,S-1-5-18,systemprofile,4,90,0,0,0,0,0,0,0,570160000,32768,0,923,86280462,0,1,0
+224,2015-12-12 02:20:40,\Device\HarddiskVolume2\Windows\System32\oobe\windeploy.exe,,,LocalSystem,S-1-5-18,systemprofile,4,91,0,0,0,0,0,0,0,570160000,0,0,0,0,0,0,0
+225,2015-12-12 02:20:40,\Device\HarddiskVolume2\Windows\System32\oobe\Setup.exe,,,LocalSystem,S-1-5-18,systemprofile,4,92,0,0,0,0,0,0,0,570160000,3949568,819200,3828,763317339,7,323,200
+226,2015-12-12 02:20:40,\Device\HarddiskVolume2\Windows\System32\svchost.exe [netsvcs],,,LocalSystem,S-1-5-18,systemprofile,4,93,0,0,0,0,0,0,0,570160000,5147648,32768,681,233796421,0,388,8
+227,2015-12-12 02:20:40,\Device\HarddiskVolume2\Windows\System32\svchost.exe [LocalSystemNetworkRestricted],,,LocalSystem,S-1-5-18,systemprofile,4,94,0,0,0,0,0,0,0,570160000,5207552,81920,852,1582439946,0,65,20
+228,2015-12-12 02:20:40,\Device\HarddiskVolume2\Windows\System32\spoolsv.exe,,,LocalSystem,S-1-5-18,systemprofile,4,95,0,0,0,0,0,0,0,570160000,0,0,1,122874,0,0,0
+229,2015-12-12 02:20:40,\Device\HarddiskVolume2\Program Files\Windows Defender\MsMpEng.exe,,,LocalSystem,S-1-5-18,systemprofile,4,96,0,0,0,0,0,0,0,570160000,79616512,57344,24243,5094864348,2,73,14
+230,2015-12-12 02:20:40,\Device\HarddiskVolume2\Windows\System32\vds.exe,,,LocalSystem,S-1-5-18,systemprofile,4,97,0,0,0,0,0,0,0,570160000,2309632,0,442,161987750,0,165,0
+231,2015-12-12 02:20:40,\Device\HarddiskVolume2\Windows\System32\svchost.exe [wsappx],,,LocalSystem,S-1-5-18,systemprofile,4,98,0,0,0,0,0,0,0,570160000,1675718656,63582208,90806,35524622177,81,24914,6647
+232,2015-12-12 02:20:40,System Interrupts,,,LocalSystem,S-1-5-18,systemprofile,4,28,0,0,0,0,0,0,0,570160000,0,0,0,3160073710,0,0,0
+233,2015-12-12 02:20:40,\Device\HarddiskVolume2\Windows\System32\svchost.exe [RPCSS],,,NetworkService,S-1-5-20,NetworkService,30,99,0,0,0,0,0,0,0,570160000,93184,0,176,28040796,0,4,0
+234,2015-12-12 02:20:40,\Device\HarddiskVolume2\Windows\System32\sppsvc.exe,,,NetworkService,S-1-5-20,NetworkService,30,100,0,0,0,0,0,0,0,570160000,0,0,9,1263869,0,0,0
+235,2015-12-12 02:20:40,\Device\HarddiskVolume2\Windows\System32\svchost.exe [NetworkService],,,NetworkService,S-1-5-20,NetworkService,30,101,0,0,0,0,0,0,0,570160000,308224,0,838,142280024,0,10,0
+236,2015-12-12 02:20:40,\Device\HarddiskVolume2\Program Files\Windows Defender\MpCmdRun.exe,,,NetworkService,S-1-5-20,NetworkService,30,102,0,0,0,0,0,0,0,570160000,202240,8192,46,27879987,0,13,2
+237,2015-12-12 02:20:40,\Device\HarddiskVolume2\Windows\System32\dwm.exe,,,UnknownOrUserSid,S-1-5-90-1,,35,103,0,0,0,0,0,0,0,570160000,977920,0,15703,1788479429,0,45,0
+238,2015-12-12 02:20:40,\Device\HarddiskVolume2\Windows\System32\svchost.exe [LocalServiceNetworkRestricted],,,LocalService,S-1-5-19,LocalService,37,104,0,0,0,0,0,0,0,570160000,1598976,1323008,1389,646917510,12,273,64
+239,2015-12-12 02:20:40,\Device\HarddiskVolume2\Windows\System32\svchost.exe [LocalService],,,LocalService,S-1-5-19,LocalService,37,105,0,0,0,0,0,0,0,570160000,369664,0,499,52844724,0,16,0
+240,2015-12-12 02:20:40,\Device\HarddiskVolume2\Windows\System32\svchost.exe [LocalServiceNoNetwork],,,LocalService,S-1-5-19,LocalService,37,106,0,0,0,0,0,0,0,570160000,199168,0,538,73748922,0,31,0
+241,2015-12-12 02:20:40,\Device\HarddiskVolume2\Program Files\Windows Defender\NisSrv.exe,,,LocalService,S-1-5-19,LocalService,37,107,0,0,0,0,0,0,0,570160000,4740608,36864,280,257566935,0,67,9
+242,2015-12-12 03:00:00,System,,,LocalSystem,S-1-5-18,systemprofile,4,5,0,0,0,0,0,0,0,1977500000,433152,152735744,60131,2639005270,18,20,333
+243,2015-12-12 03:00:00,\Device\HarddiskVolume2\Windows\System32\smss.exe,,,LocalSystem,S-1-5-18,systemprofile,4,84,0,0,0,0,0,0,0,1977500000,0,0,0,0,0,0,0
+244,2015-12-12 03:00:00,\Device\HarddiskVolume2\Windows\System32\csrss.exe,,,LocalSystem,S-1-5-18,systemprofile,4,85,0,0,0,0,0,0,0,3955000000,0,0,23513,1040395966,0,0,0
+245,2015-12-12 03:00:00,\Device\HarddiskVolume2\Windows\System32\wininit.exe,,,LocalSystem,S-1-5-18,systemprofile,4,86,0,0,0,0,0,0,0,1977500000,0,0,5,479396,0,0,0
+246,2015-12-12 03:00:00,\Device\HarddiskVolume2\Windows\System32\winlogon.exe,,,LocalSystem,S-1-5-18,systemprofile,4,87,0,0,0,0,0,0,0,1977500000,0,0,6748,3675148486,0,0,0
+247,2015-12-12 03:00:00,\Device\HarddiskVolume2\Windows\System32\services.exe,,,LocalSystem,S-1-5-18,systemprofile,4,88,0,0,0,0,0,0,0,1977500000,432640,12288,1682,109036325,0,12,3
+248,2015-12-12 03:00:00,\Device\HarddiskVolume2\Windows\System32\lsass.exe,,,LocalSystem,S-1-5-18,systemprofile,4,89,0,0,0,0,0,0,0,1977500000,0,0,1880,120151391,0,0,0
+249,2015-12-12 03:00:00,\Device\HarddiskVolume2\Windows\System32\svchost.exe [DcomLaunch],,,LocalSystem,S-1-5-18,systemprofile,4,90,0,0,0,0,0,0,0,1977500000,0,0,253,24647124,0,0,0
+250,2015-12-12 03:00:00,\Device\HarddiskVolume2\Windows\System32\oobe\windeploy.exe,,,LocalSystem,S-1-5-18,systemprofile,4,91,0,0,0,0,0,0,0,1977500000,0,0,0,0,0,0,0
+251,2015-12-12 03:00:00,\Device\HarddiskVolume2\Windows\System32\oobe\oobeldr.exe,,,LocalSystem,S-1-5-18,systemprofile,4,108,0,0,0,0,0,0,0,1977500000,0,0,0,0,0,0,0
+252,2015-12-12 03:00:00,\Device\HarddiskVolume2\Windows\System32\oobe\msoobe.exe,,,LocalSystem,S-1-5-18,systemprofile,4,109,0,0,0,0,0,0,0,1977500000,163840,8192,4643,689063554,0,5,2
+253,2015-12-12 03:00:00,\Device\HarddiskVolume2\Windows\System32\svchost.exe [LocalSystemNetworkRestricted],,,LocalSystem,S-1-5-18,systemprofile,4,94,0,0,0,0,0,0,0,1977500000,373523456,520192,8612,2975693919,0,8234,22
+254,2015-12-12 03:00:00,\Device\HarddiskVolume2\Windows\System32\svchost.exe [netsvcs],,,LocalSystem,S-1-5-18,systemprofile,4,93,0,0,0,0,0,0,0,1977500000,8739840,8192,2499,501289758,0,610,2
+255,2015-12-12 03:00:00,\Device\HarddiskVolume2\Windows\System32\spoolsv.exe,,,LocalSystem,S-1-5-18,systemprofile,4,95,0,0,0,0,0,0,0,1977500000,1832448,102400,545,241433516,1,135,25
+256,2015-12-12 03:00:00,\Device\HarddiskVolume2\Program Files\Windows Defender\MsMpEng.exe,,,LocalSystem,S-1-5-18,systemprofile,4,96,0,0,0,0,0,0,0,1977500000,269924864,24576,7855,6301976521,2,190,6
+257,2015-12-12 03:00:00,\Device\HarddiskVolume2\Windows\System32\svchost.exe [AppReadiness],,,LocalSystem,S-1-5-18,systemprofile,4,110,0,0,0,0,0,0,0,1377500000,1948672,0,233,57480629,0,83,0
+258,2015-12-12 03:00:00,\Device\HarddiskVolume2\Windows\System32\svchost.exe [wsappx],,,LocalSystem,S-1-5-18,systemprofile,4,98,0,0,0,0,0,0,0,1977500000,20129280,434176,4087,5155197293,0,854,92
+259,2015-12-12 03:00:00,System Interrupts,,,LocalSystem,S-1-5-18,systemprofile,4,28,0,0,0,0,0,0,0,1977500000,0,0,0,5743270223,0,0,0
+260,2015-12-12 03:00:00,\Device\HarddiskVolume2\Windows\System32\SearchIndexer.exe,,,LocalSystem,S-1-5-18,systemprofile,4,111,0,0,0,0,0,0,0,1200000000,1788928,23486464,5979,1786246794,0,78,2551
+261,2015-12-12 03:00:00,\Device\HarddiskVolume2\Windows\System32\svchost.exe [RPCSS],,,NetworkService,S-1-5-20,NetworkService,30,99,0,0,0,0,0,0,0,1977500000,0,0,394,49293212,0,0,0
+262,2015-12-12 03:00:00,\Device\HarddiskVolume2\Windows\System32\sppsvc.exe,,,NetworkService,S-1-5-20,NetworkService,30,100,0,0,0,0,0,0,0,1977500000,0,0,4,888672,0,0,0
+263,2015-12-12 03:00:00,\Device\HarddiskVolume2\Windows\System32\svchost.exe [NetworkService],,,NetworkService,S-1-5-20,NetworkService,30,101,0,0,0,0,0,0,0,1977500000,65536,0,352,56794956,0,2,0
+264,2015-12-12 03:00:00,\Device\HarddiskVolume2\Windows\System32\dwm.exe,,,UnknownOrUserSid,S-1-5-90-1,,35,103,0,0,0,0,0,0,0,1977500000,0,0,50318,6524667988,0,0,0
+265,2015-12-12 03:00:00,\Device\HarddiskVolume2\Windows\System32\svchost.exe [LocalServiceNetworkRestricted],,,LocalService,S-1-5-19,LocalService,37,104,0,0,0,0,0,0,0,1977500000,1809920,1355776,1165,525222448,26,239,115
+266,2015-12-12 03:00:00,\Device\HarddiskVolume2\Windows\System32\svchost.exe [LocalService],,,LocalService,S-1-5-19,LocalService,37,105,0,0,0,0,0,0,0,1977500000,45056,0,673,70392484,0,2,0
+267,2015-12-12 03:00:00,\Device\HarddiskVolume2\Windows\System32\svchost.exe [LocalServiceNoNetwork],,,LocalService,S-1-5-19,LocalService,37,106,0,0,0,0,0,0,0,1977500000,751104,152064,633,98031705,2,54,13
+268,2015-12-12 03:00:00,\Device\HarddiskVolume2\Windows\System32\svchost.exe [LocalServiceAndNoImpersonation],,,LocalService,S-1-5-19,LocalService,37,112,0,0,0,0,0,0,0,1200000000,125952,0,234,51191542,0,7,0
+269,2015-12-12 03:00:00,\Device\HarddiskVolume2\Program Files\Windows Defender\NisSrv.exe,,,LocalService,S-1-5-19,LocalService,37,107,0,0,0,0,0,0,0,600000000,1479168,28672,204,131045330,0,24,7

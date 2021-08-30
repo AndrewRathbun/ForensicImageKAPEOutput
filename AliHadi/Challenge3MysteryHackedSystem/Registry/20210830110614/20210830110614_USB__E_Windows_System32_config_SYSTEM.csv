@@ -1,0 +1,4 @@
+﻿Timestamp,BatchKeyPath,KeyName,BatchValueName,SerialNumber,DeviceName,FriendlyName,LocationInformation
+2015-12-12 03:30:24.6217366,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\ControlSet001\Enum\USB\ROOT_HUB\4&65dfc83&0,ROOT_HUB,Multiple,4&65dfc83&0,USB Root Hub,,
+2015-12-12 03:30:24.6217366,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\ControlSet001\Enum\USB\ROOT_HUB20\4&280d2b25&0,ROOT_HUB20,Multiple,4&280d2b25&0,USB Root Hub,,
+2015-12-12 03:30:25.1216526,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\ControlSet001\Enum\USB\VID_80EE&PID_0021\5&2d7ae1ff&0&1,VID_80EE&PID_0021,Multiple,5&2d7ae1ff&0&1,USB Input Device,,Port_#0001.Hub_#0001

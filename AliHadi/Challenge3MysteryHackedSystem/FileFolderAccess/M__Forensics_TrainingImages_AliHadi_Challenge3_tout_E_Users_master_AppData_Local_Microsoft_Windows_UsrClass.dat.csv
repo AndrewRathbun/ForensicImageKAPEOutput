@@ -1,0 +1,13 @@
+﻿BagPath,Slot,NodeSlot,MRUPosition,AbsolutePath,ShellType,Value,ChildBags,CreatedOn,ModifiedOn,AccessedOn,LastWriteTime,MFTEntry,MFTSequenceNumber,ExtensionBlockCount,FirstInteracted,LastInteracted,HasExplored,Miscellaneous
+BagMRU,0,0,3,Desktop\Control Panel,Root folder: GUID,Control Panel,1,,,,2015-12-11 17:32:06,,,0,,,False,
+BagMRU,1,0,1,Desktop\My Computer,Root folder: GUID,My Computer,1,,,,2015-12-11 17:32:06,,,0,,,False,
+BagMRU,2,0,2,Desktop\Docs,Directory,Docs,0,2015-12-12 03:08:32,2015-12-12 03:08:32,2015-12-12 03:08:32,2015-12-11 17:32:06,50988,2,1,2015-12-12 03:08:48,,False,NTFS file system
+BagMRU,3,0,0,Desktop\Computers and Devices,Root folder: GUID,Computers and Devices,1,,,,2015-12-11 17:32:06,,,0,,2015-12-11 17:32:06,False,
+BagMRU\0,0,0,0,Desktop\Control Panel\Appearance and Personalization,Control Panel Category,Appearance and Personalization,1,,,,2015-12-12 03:05:12,,,0,,2015-12-12 03:05:12,False,
+BagMRU\0\0,0,0,0,Desktop\Control Panel\Appearance and Personalization\Display,GUID: Control panel,Display,1,,,,2015-12-12 03:05:12,,,0,,2015-12-12 03:05:12,False,
+BagMRU\0\0\0,0,1,0,Desktop\Control Panel\Appearance and Personalization\Display\Screen Resolution,Variable: Users property view,Screen Resolution,0,,,,2015-12-12 03:05:12,,,0,2015-12-12 03:05:12,2015-12-12 03:05:12,False,
+BagMRU\1,0,4,0,Desktop\My Computer\C:,Drive letter,C:,1,,,,2015-12-12 03:27:19,,,0,,2015-12-12 03:27:19,True,
+BagMRU\1\0,0,5,0,Desktop\My Computer\C:\Tools,Directory,Tools,0,2015-12-12 03:23:54,2015-12-12 03:24:10,2015-12-12 03:24:10,2015-12-12 03:27:22,84609,1,1,2015-12-12 03:27:22,2015-12-12 03:27:22,True,NTFS file system
+BagMRU\3,0,6,0,Desktop\Computers and Devices\vboxsrv,Variable: Users property view,vboxsrv,1,,,,2015-12-11 17:32:05,,,0,,2015-12-11 17:32:05,False,
+BagMRU\3\0,0,7,0,Desktop\Computers and Devices\vboxsrv\VBOXSVR\Desktop,Network location,\\VBOXSVR\Desktop,1,,,,2015-12-11 17:32:05,,,0,,2015-12-11 17:32:05,False,
+BagMRU\3\0\0,0,8,0,Desktop\Computers and Devices\vboxsrv\VBOXSVR\Desktop\FTK-Imager,Directory,FTK-Imager,0,2015-12-10 16:02:50,2015-05-02 15:43:34,2015-12-11 17:31:18,2015-12-11 17:32:06,0,,1,2015-12-11 17:32:06,2015-12-11 17:32:06,False,

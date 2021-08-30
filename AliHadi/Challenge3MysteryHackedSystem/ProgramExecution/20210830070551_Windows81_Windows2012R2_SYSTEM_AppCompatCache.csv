@@ -1,0 +1,113 @@
+ControlSet,CacheEntryPosition,Path,LastModifiedTimeUTC,Executed,Duplicate,SourceFile
+1,0,SYSVOL\Windows\System32\rundll32.exe,2013-08-22 11:03:41,Yes,False,M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\SYSTEM
+1,1,SYSVOL\Windows\System32\wbem\WmiPrvSE.exe,2013-08-22 11:45:14,Yes,False,M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\SYSTEM
+1,2,SYSVOL\Windows\System32\SearchFilterHost.exe,2014-03-18 10:05:49,Yes,False,M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\SYSTEM
+1,3,SYSVOL\Windows\System32\LogonUI.exe,2013-08-22 11:32:21,Yes,False,M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\SYSTEM
+1,4,SYSVOL\Windows\System32\sppsvc.exe,2014-03-18 10:05:07,No,False,M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\SYSTEM
+1,5,SYSVOL\Windows\WinStore\WSHost.exe,2014-03-18 10:05:55,Yes,False,M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\SYSTEM
+1,6,SYSVOL\Windows\System32\wbem\WMIADAP.exe,2013-08-22 11:44:42,Yes,False,M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\SYSTEM
+1,7,SYSVOL\Program Files\Oracle\VirtualBox Guest Additions\uninst.exe,2015-11-10 17:01:36,No,False,M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\SYSTEM
+1,8,SYSVOL\Windows\System32\takeown.exe,2013-08-22 11:21:24,Yes,False,M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\SYSTEM
+1,9,SYSVOL\Program Files\Oracle\VirtualBox Guest Additions\VBoxDrvInst.exe,2015-11-10 16:59:54,Yes,False,M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\SYSTEM
+1,10,SYSVOL\Windows\System32\ThumbnailExtractionHost.exe,2013-08-22 11:01:57,Yes,False,M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\SYSTEM
+1,11,SYSVOL\Windows\System32\drvinst.exe,2013-08-22 11:28:57,Yes,False,M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\SYSTEM
+1,12,SYSVOL\Windows\System32\sc.exe,2013-08-22 10:03:11,Yes,False,M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\SYSTEM
+1,13,D:\VBOXWINDOWSADDITIONS-AMD64.EXE,2015-11-10 18:02:07,No,False,M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\SYSTEM
+1,14,SYSVOL\Windows\System32\dllhost.exe,2013-08-22 12:35:25,Yes,False,M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\SYSTEM
+1,15,SYSVOL\Windows\System32\consent.exe,2013-08-22 12:44:43,Yes,False,M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\SYSTEM
+1,16,D:\VBoxWindowsAdditions.exe,2015-11-10 17:56:40,No,False,M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\SYSTEM
+1,17,SYSVOL\Program Files\Windows Defender\NisSrv.exe,2013-08-22 12:32:01,Yes,False,M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\SYSTEM
+1,18,SYSVOL\Windows\System32\notepad.exe,2013-08-22 11:00:12,Yes,False,M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\SYSTEM
+1,19,SYSVOL\Windows\System32\mobsync.exe,2013-08-22 11:01:25,Yes,False,M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\SYSTEM
+1,20,SYSVOL\Windows\System32\SearchProtocolHost.exe,2014-03-18 10:05:49,Yes,False,M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\SYSTEM
+1,21,SYSVOL\Windows\System32\SearchIndexer.exe,2014-03-18 10:05:49,Yes,False,M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\SYSTEM
+1,22,SYSVOL\Windows\System32\svchost.exe,2013-08-22 12:45:17,Yes,False,M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\SYSTEM
+1,23,SYSVOL\Windows\System32\slui.exe,2013-08-22 10:43:18,Yes,False,M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\SYSTEM
+1,24,SYSVOL\Windows\explorer.exe,2014-03-18 10:05:20,Yes,False,M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\SYSTEM
+1,25,SYSVOL\Windows\System32\taskhost.exe,2014-03-18 10:05:00,Yes,False,M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\SYSTEM
+1,26,SYSVOL\Windows\System32\userinit.exe,2013-08-22 10:03:12,Yes,False,M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\SYSTEM
+1,27,SYSVOL\Windows\System32\taskhostex.exe,2014-03-18 10:05:00,Yes,False,M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\SYSTEM
+1,28,SYSVOL\Windows\System32\SppExtComObj.Exe,2013-08-22 10:51:10,Yes,False,M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\SYSTEM
+1,29,SYSVOL\Program Files\Windows Defender\MsMpEng.exe,2013-08-22 12:32:00,Yes,False,M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\SYSTEM
+1,30,SYSVOL\Windows\System32\spoolsv.exe,2013-08-22 09:10:12,Yes,False,M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\SYSTEM
+1,31,SYSVOL\Windows\System32\dwm.exe,2014-03-18 10:05:24,Yes,False,M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\SYSTEM
+1,32,SYSVOL\Windows\System32\lsass.exe,2013-08-22 13:25:35,Yes,False,M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\SYSTEM
+1,33,SYSVOL\Windows\System32\services.exe,2013-08-22 13:25:40,Yes,False,M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\SYSTEM
+1,34,SYSVOL\Windows\System32\net1.exe,2013-08-22 10:01:15,Yes,False,M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\SYSTEM
+1,35,SYSVOL\Windows\System32\net.exe,2013-08-22 10:01:50,Yes,False,M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\SYSTEM
+1,36,SYSVOL\Windows\System32\Magnify.exe,2015-12-11 19:18:54,Yes,False,M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\SYSTEM
+1,37,SYSVOL\Windows\System32\Utilman.exe,2014-03-18 10:05:09,Yes,False,M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\SYSTEM
+1,38,SYSVOL\Windows\System32\SettingSyncHost.exe,2014-03-18 10:05:14,Yes,False,M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\SYSTEM
+1,39,SYSVOL\Windows\System32\wscui.cpl,2014-03-18 10:05:00,No,False,M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\SYSTEM
+1,40,SYSVOL\Windows\SysWOW64\FlashPlayerCPLApp.cpl,2013-08-15 22:09:51,No,False,M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\SYSTEM
+1,41,SYSVOL\Windows\SysWOW64\dllhost.exe,2013-08-22 05:21:45,Yes,False,M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\SYSTEM
+1,42,SYSVOL\Program Files\Internet Explorer\iexplore.exe,2014-03-18 10:14:20,No,False,M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\SYSTEM
+1,43,SYSVOL\Windows\System32\WindowsPowerShell\v1.0\powershell.exe,2013-08-22 10:59:47,No,False,M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\SYSTEM
+1,44,SYSVOL\Windows\System32\migwiz\migwiz.exe,2014-03-18 10:05:01,No,False,M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\SYSTEM
+1,45,SYSVOL\Windows\System32\Taskmgr.exe,2014-03-18 10:05:04,No,False,M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\SYSTEM
+1,46,SYSVOL\Windows\System32\control.exe,2013-08-22 11:03:56,No,False,M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\SYSTEM
+1,47,SYSVOL\Program Files\Windows Journal\Journal.exe,2014-03-18 09:43:13,No,False,M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\SYSTEM
+1,48,SYSVOL\Windows\System32\charmap.exe,2013-08-22 11:16:34,No,False,M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\SYSTEM
+1,49,SYSVOL\Windows\System32\xpsrchvw.exe,2013-08-22 10:19:03,No,False,M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\SYSTEM
+1,50,SYSVOL\Program Files\Windows NT\Accessories\wordpad.exe,2013-08-22 10:21:30,No,False,M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\SYSTEM
+1,51,SYSVOL\Program Files (x86)\Windows Media Player\wmplayer.exe,2013-08-22 03:48:35,No,False,M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\SYSTEM
+1,52,SYSVOL\Windows\System32\WFS.exe,2013-08-22 10:13:52,No,False,M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\SYSTEM
+1,53,SYSVOL\Windows\System32\StikyNot.exe,2014-03-18 09:43:07,No,False,M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\SYSTEM
+1,54,SYSVOL\Windows\System32\psr.exe,2013-08-22 10:51:09,No,False,M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\SYSTEM
+1,55,SYSVOL\Windows\System32\SoundRecorder.exe,2013-08-22 10:44:16,No,False,M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\SYSTEM
+1,56,SYSVOL\Windows\System32\SnippingTool.exe,2014-03-18 09:43:05,No,False,M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\SYSTEM
+1,57,SYSVOL\Windows\System32\mstsc.exe,2013-08-22 10:06:45,No,False,M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\SYSTEM
+1,58,SYSVOL\Windows\System32\mspaint.exe,2013-08-22 10:47:44,No,False,M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\SYSTEM
+1,59,SYSVOL\Program Files\Common Files\microsoft shared\ink\mip.exe,2014-03-18 09:43:07,No,False,M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\SYSTEM
+1,60,SYSVOL\Windows\System32\calc.exe,2013-08-22 10:51:45,No,False,M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\SYSTEM
+1,61,SYSVOL\Windows\Speech\Common\sapisvr.exe,2013-08-22 11:21:28,No,False,M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\SYSTEM
+1,62,SYSVOL\Program Files\Windows Defender\MSASCui.exe,2013-08-22 10:11:38,No,False,M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\SYSTEM
+1,63,SYSVOL\Windows\System32\cmd.exe,2013-08-22 10:03:31,No,False,M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\SYSTEM
+1,64,SYSVOL\Windows\System32\osk.exe,2014-03-18 10:05:10,No,False,M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\SYSTEM
+1,65,SYSVOL\Windows\System32\Narrator.exe,2013-08-22 11:11:34,No,False,M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\SYSTEM
+1,66,SYSVOL\Windows\System32\unregmp2.exe,2013-08-22 10:08:16,Yes,False,M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\SYSTEM
+1,67,SYSVOL\Program Files\Windows Mail\WinMail.exe,2013-08-22 10:29:17,Yes,False,M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\SYSTEM
+1,68,SYSVOL\Windows\System32\ie4uinit.exe,2014-03-18 10:05:36,Yes,False,M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\SYSTEM
+1,69,SYSVOL\Windows\SysWOW64\rundll32.exe,2013-08-22 03:40:23,Yes,False,M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\SYSTEM
+1,70,SYSVOL\Windows\System32\oobe\FirstLogonAnim.exe,2013-08-22 12:39:51,Yes,False,M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\SYSTEM
+1,71,SYSVOL\Windows\System32\wermgr.exe,2014-03-18 10:05:23,Yes,False,M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\SYSTEM
+1,72,SYSVOL\Program Files\Windows Defender\MpCmdRun.exe,2013-08-22 12:32:00,Yes,False,M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\SYSTEM
+1,73,SYSVOL\Windows\System32\RuntimeBroker.exe,2013-08-22 12:35:41,Yes,False,M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\SYSTEM
+1,74,SYSVOL\Program Files\WindowsApps\microsoft.windowscommunicationsapps_17.5.9600.20413_x64__8wekyb3d8bbwe,2014-03-18 10:21:03,Yes,False,M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\SYSTEM
+1,75,,,No,False,M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\SYSTEM
+1,76,SYSVOL\Windows\System32\schtasks.exe,2013-08-22 10:42:55,Yes,False,M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\SYSTEM
+1,77,SYSVOL\Windows\System32\wsqmcons.exe,2014-03-18 10:05:22,Yes,False,M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\SYSTEM
+1,78,SYSVOL\Windows\System32\Defrag.exe,2014-03-18 10:05:02,Yes,False,M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\SYSTEM
+1,79,SYSVOL\Windows\System32\mcbuilder.exe,2014-03-18 10:05:04,Yes,False,M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\SYSTEM
+1,80,SYSVOL\Windows\System32\oobe\msoobe.exe,2013-08-22 10:34:10,Yes,False,M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\SYSTEM
+1,81,SYSVOL\Windows\System32\oobe\oobeldr.exe,2014-03-18 10:05:04,Yes,False,M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\SYSTEM
+1,82,SYSVOL\Windows\System32\oobe\windeploy.exe,2014-03-18 10:05:04,Yes,False,M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\SYSTEM
+1,83,SYSVOL\Windows\System32\ByteCodeGenerator.exe,2013-08-22 09:17:04,Yes,False,M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\SYSTEM
+1,84,SYSVOL\Windows\SysWOW64\ByteCodeGenerator.exe,2013-08-22 02:22:14,Yes,False,M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\SYSTEM
+1,85,SYSVOL\Windows\System32\vds.exe,2014-03-18 10:05:04,Yes,False,M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\SYSTEM
+1,86,SYSVOL\Windows\System32\vdsldr.exe,2013-08-22 11:20:21,Yes,False,M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\SYSTEM
+1,87,SYSVOL\Windows\System32\oobe\Setup.exe,2014-03-18 10:05:04,Yes,False,M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\SYSTEM
+1,88,SYSVOL\Program Files (x86)\Internet Explorer\iexplore.exe,2014-03-18 10:14:20,No,False,M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\SYSTEM
+1,89,SYSVOL\Program Files\WindowsApps\Microsoft.WindowsSoundRecorder_6.3.9600.20280_x64__8wekyb3d8bbwe\soundrec.exe,2014-03-18 09:47:03,No,False,M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\SYSTEM
+1,90,SYSVOL\Program Files\WindowsApps\Microsoft.WindowsScan_6.3.9600.16422_x64__8wekyb3d8bbwe\scanapp.exe,2014-03-18 09:47:31,No,False,M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\SYSTEM
+1,91,SYSVOL\Program Files\WindowsApps\microsoft.windowscommunicationsapps_17.5.9600.20413_x64__8wekyb3d8bbwe\livecomm.exe,2014-03-18 09:46:20,No,False,M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\SYSTEM
+1,92,SYSVOL\Program Files\WindowsApps\Microsoft.WindowsCalculator_6.3.9600.20278_x64__8wekyb3d8bbwe\numbers.exe,2014-03-18 09:46:56,No,False,M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\SYSTEM
+1,93,SYSVOL\Program Files\WindowsApps\Microsoft.WindowsAlarms_6.3.9654.20335_x64__8wekyb3d8bbwe\time.exe,2014-03-18 09:47:22,No,False,M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\SYSTEM
+1,94,SYSVOL\Program Files\WindowsApps\Microsoft.Reader_6.3.9600.16422_x64__8wekyb3d8bbwe\glcnd.exe,2014-03-18 09:46:33,No,False,M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\SYSTEM
+1,95,SYSVOL\Program Files\WindowsApps\Microsoft.Office.OneNote_16.0.1929.1156_x64__8wekyb3d8bbwe\onenoteshare.exe,2014-03-18 09:50:09,No,False,M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\SYSTEM
+1,96,SYSVOL\Program Files\WindowsApps\Microsoft.Office.OneNote_16.0.1929.1156_x64__8wekyb3d8bbwe\onenoteim.exe,2014-03-18 09:50:09,No,False,M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\SYSTEM
+1,97,SYSVOL\Program Files\WindowsApps\Microsoft.HelpAndTips_6.3.9654.20428_x64__8wekyb3d8bbwe\helpandtips.exe,2014-03-18 09:46:45,No,False,M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\SYSTEM
+1,98,SYSVOL\Program Files\WindowsApps\Microsoft.BingMaps_2.0.2530.2317_x64__8wekyb3d8bbwe\Map.exe,2014-03-18 09:48:29,No,False,M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\SYSTEM
+1,99,SYSVOL\Windows\SysWOW64\setup16.exe,2013-08-22 04:03:23,No,False,M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\SYSTEM
+1,100,SYSVOL\Windows\SysWOW64\regsvr32.exe,2013-08-22 03:55:58,No,False,M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\SYSTEM
+1,101,SYSVOL\Windows\SysWOW64\msiexec.exe,2013-08-22 03:56:51,No,False,M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\SYSTEM
+1,102,SYSVOL\Windows\SysWOW64\instnm.exe,2013-08-22 04:03:22,No,False,M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\SYSTEM
+1,103,SYSVOL\Windows\SysWOW64\InstallShield\_isdel.exe,2013-06-18 13:14:55,No,False,M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\SYSTEM
+1,104,SYSVOL\Windows\SysWOW64\InstallShield\setup.exe,2013-06-18 13:14:55,No,False,M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\SYSTEM
+1,105,SYSVOL\Windows\SysWOW64\FlashPlayerApp.exe,2013-08-15 22:09:51,No,False,M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\SYSTEM
+1,106,SYSVOL\Windows\SysWOW64\explorer.exe,2014-03-18 10:05:33,No,False,M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\SYSTEM
+1,107,SYSVOL\Windows\SysWOW64\dpnsvr.exe,2013-08-22 04:05:19,No,False,M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\SYSTEM
+1,108,SYSVOL\Windows\SysWOW64\dplaysvr.exe,2013-08-22 04:05:19,No,False,M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\SYSTEM
+1,109,SYSVOL\Windows\System32\regsvr32.exe,2013-08-22 11:22:40,No,False,M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\SYSTEM
+1,110,SYSVOL\Windows\System32\msiexec.exe,2013-08-22 11:23:10,No,False,M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\SYSTEM
+1,111,SYSVOL\Windows\System32\dpnsvr.exe,2013-08-22 11:33:50,No,False,M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\SYSTEM

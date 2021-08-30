@@ -1,0 +1,115 @@
+SBECmd version 1.4.0.0
+
+Author: Eric Zimmerman (saericzimmerman@gmail.com)
+https://github.com/EricZimmerman
+
+Command line: -d M:\Forensics\TrainingImages\AliHadi\Challenge3\tout --csv M:\Forensics\TrainingImages\AliHadi\Challenge3\mout\FileFolderAccess -q
+
+Directory to process: M:\Forensics\TrainingImages\AliHadi\Challenge3\tout
+Deduplication: False
+All messages will be saved to 'M:\Forensics\TrainingImages\AliHadi\Challenge3\mout\FileFolderAccess\!SBECmd_Messages.txt'
+Time zone: UTC
+
+Processing 'M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Users\Administrator\NTUSER.DAT'
+
+Parse time: 0.19 seconds
+
+	Total ShellBags found: 0
+
+	Totals by bag type
+
+
+Finished processing 'M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Users\Administrator\NTUSER.DAT'
+
+Exported to: 'M:\Forensics\TrainingImages\AliHadi\Challenge3\mout\FileFolderAccess\M__Forensics_TrainingImages_AliHadi_Challenge3_tout_E_Users_Administrator_NTUSER.DAT.csv'
+
+---------------------------------------------------------------------
+Processing 'M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Users\Default\NTUSER.DAT'
+	There was an error processing 'M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Users\Default\NTUSER.DAT'. Error message: 'Software\Microsoft\Windows\Shell\BagMRU' not found in 'C:\Users\Default\NTUSER.DAT'
+
+Processing 'M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Users\master\NTUSER.DAT'
+Dropping 'M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Users\master\ntuser.dat.LOG2' because the log's header.PrimarySequenceNumber is less than the hive's header.SecondarySequenceNumber
+Single log file available: M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Users\master\ntuser.dat.LOG1
+Replaying log file: M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Users\master\ntuser.dat.LOG1
+At least one transaction log was applied. Sequence numbers have been updated to 0x0022. New Checksum: 0x88894C09
+
+Parse time: 0.10 seconds
+
+	Total ShellBags found: 3
+
+	Totals by bag type
+
+	Network location: 1
+	Variable: Users property view: 1
+	Root folder: GUID: 1
+
+Finished processing 'M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Users\master\NTUSER.DAT'
+
+Exported to: 'M:\Forensics\TrainingImages\AliHadi\Challenge3\mout\FileFolderAccess\M__Forensics_TrainingImages_AliHadi_Challenge3_tout_E_Users_master_NTUSER.DAT.csv'
+
+---------------------------------------------------------------------
+Processing 'M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\ServiceProfiles\LocalService\NTUSER.DAT'
+Dropping 'M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\ServiceProfiles\LocalService\NTUSER.DAT.LOG2' because the log's header.PrimarySequenceNumber is less than the hive's header.SecondarySequenceNumber
+Single log file available: M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\ServiceProfiles\LocalService\NTUSER.DAT.LOG1
+Replaying log file: M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\ServiceProfiles\LocalService\NTUSER.DAT.LOG1
+At least one transaction log was applied. Sequence numbers have been updated to 0x0024. New Checksum: 0x6904D1EA
+	There was an error processing 'M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\ServiceProfiles\LocalService\NTUSER.DAT'. Error message: 'Software\Microsoft\Windows\Shell\BagMRU' not found in 'rofiles\LocalService\NTUSER.DAT'
+
+Processing 'M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\ServiceProfiles\NetworkService\NTUSER.DAT'
+Dropping 'M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\ServiceProfiles\NetworkService\NTUSER.DAT.LOG2' because the log's header.PrimarySequenceNumber is less than the hive's header.SecondarySequenceNumber
+Single log file available: M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\ServiceProfiles\NetworkService\NTUSER.DAT.LOG1
+Replaying log file: M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\ServiceProfiles\NetworkService\NTUSER.DAT.LOG1
+At least one transaction log was applied. Sequence numbers have been updated to 0x0025. New Checksum: 0x4AEF5BAA
+	There was an error processing 'M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\ServiceProfiles\NetworkService\NTUSER.DAT'. Error message: 'Software\Microsoft\Windows\Shell\BagMRU' not found in 'files\NetworkService\NTUSER.DAT'
+
+Processing 'M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\systemprofile\ntuser.dat'
+	There was an error processing 'M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Windows\System32\config\systemprofile\ntuser.dat'. Error message: 'Software\Microsoft\Windows\Shell\BagMRU' not found in 'config\systemprofile\NTUSER.DAT'
+
+Processing 'M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Users\Administrator\AppData\Local\Microsoft\Windows\UsrClass.dat'
+
+Parse time: 0.23 seconds
+
+	Total ShellBags found: 8
+
+	Totals by bag type
+
+	Directory: 6
+	Drive letter: 1
+	Root folder: GUID: 1
+
+Finished processing 'M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Users\Administrator\AppData\Local\Microsoft\Windows\UsrClass.dat'
+
+Exported to: 'M:\Forensics\TrainingImages\AliHadi\Challenge3\mout\FileFolderAccess\M__Forensics_TrainingImages_AliHadi_Challenge3_tout_E_Users_Administrator_AppData_Local_Microsoft_Windows_UsrClass.dat.csv'
+
+---------------------------------------------------------------------
+Processing 'M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Users\master\AppData\Local\Microsoft\Windows\UsrClass.dat'
+Dropping 'M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Users\master\AppData\Local\Microsoft\Windows\UsrClass.dat.LOG2' because the log's header.PrimarySequenceNumber is less than the hive's header.SecondarySequenceNumber
+Single log file available: M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Users\master\AppData\Local\Microsoft\Windows\UsrClass.dat.LOG1
+Replaying log file: M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Users\master\AppData\Local\Microsoft\Windows\UsrClass.dat.LOG1
+At least one transaction log was applied. Sequence numbers have been updated to 0x000A. New Checksum: 0xF8EFD554
+
+Parse time: 0.20 seconds
+
+	Total ShellBags found: 12
+
+	Totals by bag type
+
+	Variable: Users property view: 2
+	GUID: Control panel: 1
+	Control Panel Category: 1
+	Root folder: GUID: 3
+	Directory: 3
+	Drive letter: 1
+	Network location: 1
+
+Finished processing 'M:\Forensics\TrainingImages\AliHadi\Challenge3\tout\E\Users\master\AppData\Local\Microsoft\Windows\UsrClass.dat'
+
+Exported to: 'M:\Forensics\TrainingImages\AliHadi\Challenge3\mout\FileFolderAccess\M__Forensics_TrainingImages_AliHadi_Challenge3_tout_E_Users_master_AppData_Local_Microsoft_Windows_UsrClass.dat.csv'
+
+---------------------------------------------------------------------
+
+Processing complete!
+Processed 8 file(s) in 0.71 seconds!
+Total ShellBags found: 23
+
+

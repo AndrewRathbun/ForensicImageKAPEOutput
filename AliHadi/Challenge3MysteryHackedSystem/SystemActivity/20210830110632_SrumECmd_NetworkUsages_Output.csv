@@ -1,0 +1,10 @@
+﻿Id,Timestamp,ExeInfo,ExeInfoDescription,ExeTimestamp,SidType,Sid,UserName,UserId,AppId,BytesReceived,BytesSent,InterfaceLuid,InterfaceType,L2ProfileFlags,L2ProfileId,ProfileName
+3,2015-12-12 02:20:40,System,,,LocalSystem,S-1-5-18,systemprofile,4,5,0,378,1688849860263936,IF_TYPE_ETHERNET_CSMACD,0,0,
+4,2015-12-12 02:20:40,System\IPv6 Control Message,,,LocalSystem,S-1-5-18,systemprofile,4,76,0,1376,1688849860263936,IF_TYPE_ETHERNET_CSMACD,0,0,
+5,2015-12-12 02:20:40,Dhcp,,,LocalService,S-1-5-19,LocalService,37,77,0,942,1688849860263936,IF_TYPE_ETHERNET_CSMACD,0,0,
+6,2015-12-12 02:20:40,,,,UnknownOrUserSid,,,2,1,1180,7813,1688849860263936,IF_TYPE_ETHERNET_CSMACD,0,0,
+7,2015-12-12 02:59:00,Dhcp,,,LocalService,S-1-5-19,LocalService,37,77,0,444,1688849860263936,IF_TYPE_ETHERNET_CSMACD,0,0,
+8,2015-12-12 02:59:00,System,,,LocalSystem,S-1-5-18,systemprofile,4,5,0,270,1688849860263936,IF_TYPE_ETHERNET_CSMACD,0,0,
+9,2015-12-12 02:59:00,System\IPv6 Control Message,,,LocalSystem,S-1-5-18,systemprofile,4,76,0,450,1688849860263936,IF_TYPE_ETHERNET_CSMACD,0,0,
+10,2015-12-12 02:59:00,,,,UnknownOrUserSid,,,2,1,0,8112,1688849860263936,IF_TYPE_ETHERNET_CSMACD,0,0,
+11,2015-12-12 02:59:00,Spooler,,,LocalSystem,S-1-5-18,systemprofile,4,3,0,0,0,0,0,0,
