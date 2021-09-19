@@ -1,6 +1,0 @@
-﻿Timestamp,BatchKeyPath,Url,BatchValueName,Slack
-,CMI-CreateHive{10813AC7-700F-49B3-BD1A-DC2903BA42C9}\Software\Microsoft\Internet Explorer\TypedURLs,C:\xampp\phpMyAdmin,url1,\vulnerabilities\sqli\source
-,CMI-CreateHive{10813AC7-700F-49B3-BD1A-DC2903BA42C9}\Software\Microsoft\Internet Explorer\TypedURLs,C:\xampp,url2,htdocs\DVWA\vulnerabilities\sqli\source e
-,CMI-CreateHive{10813AC7-700F-49B3-BD1A-DC2903BA42C9}\Software\Microsoft\Internet Explorer\TypedURLs,localhost,url3,tdocs\DVWA\vulnerabilities\upload\source
-,CMI-CreateHive{10813AC7-700F-49B3-BD1A-DC2903BA42C9}\Software\Microsoft\Internet Explorer\TypedURLs,http://localhost/,url4,WA\vulnerabilities\xss_r\source
-,CMI-CreateHive{10813AC7-700F-49B3-BD1A-DC2903BA42C9}\Software\Microsoft\Internet Explorer\TypedURLs,http://go.microsoft.com/fwlink/?LinkId=69157,url5,

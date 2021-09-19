@@ -42,7 +42,7 @@ Processing 'M:\Forensics\TrainingImages\AliHadi\Challenge1\tout\M\Forensics\Trai
 
 Processing 'M:\Forensics\TrainingImages\AliHadi\Challenge1\tout\M\Forensics\TrainingImages\AliHadi\Challenge1\s4a-challenge4\Users\Administrator\AppData\Local\Microsoft\Windows\UsrClass.dat'
 
-Parse time: 0.02 seconds
+Parse time: 0.01 seconds
 
 	Total ShellBags found: 40
 
