@@ -1,0 +1,84 @@
+SBECmd version 1.4.0.0
+
+Author: Eric Zimmerman (saericzimmerman@gmail.com)
+https://github.com/EricZimmerman
+
+Command line: -d M:\Forensics\Lone Wolf 2018\KAPESept2021\tout --csv M:\Forensics\Lone Wolf 2018\KAPESept2021\mout\FileFolderAccess -q
+
+Directory to process: M:\Forensics\Lone Wolf 2018\KAPESept2021\tout
+Deduplication: False
+All messages will be saved to 'M:\Forensics\Lone Wolf 2018\KAPESept2021\mout\FileFolderAccess\!SBECmd_Messages.txt'
+Time zone: UTC
+
+Processing 'M:\Forensics\Lone Wolf 2018\KAPESept2021\tout\D\Users\Default\NTUSER.DAT'
+	There was an error processing 'M:\Forensics\Lone Wolf 2018\KAPESept2021\tout\D\Users\Default\NTUSER.DAT'. Error message: 'Software\Microsoft\Windows\Shell\BagMRU' not found in 'C:\Users\Default\NTUSER.DAT'
+
+Processing 'M:\Forensics\Lone Wolf 2018\KAPESept2021\tout\D\Users\jcloudy\NTUSER.DAT'
+Two transaction logs found. Determining primary log...
+Primary log: M:\Forensics\Lone Wolf 2018\KAPESept2021\tout\D\Users\jcloudy\ntuser.dat.LOG2, secondary log: M:\Forensics\Lone Wolf 2018\KAPESept2021\tout\D\Users\jcloudy\ntuser.dat.LOG1
+Replaying log file: M:\Forensics\Lone Wolf 2018\KAPESept2021\tout\D\Users\jcloudy\ntuser.dat.LOG2
+Replaying log file: M:\Forensics\Lone Wolf 2018\KAPESept2021\tout\D\Users\jcloudy\ntuser.dat.LOG1
+At least one transaction log was applied. Sequence numbers have been updated to 0x0566. New Checksum: 0xE7C0A775
+
+Parse time: 0.18 seconds
+
+	Total ShellBags found: 0
+
+	Totals by bag type
+
+
+Finished processing 'M:\Forensics\Lone Wolf 2018\KAPESept2021\tout\D\Users\jcloudy\NTUSER.DAT'
+
+Exported to: 'M:\Forensics\Lone Wolf 2018\KAPESept2021\mout\FileFolderAccess\M__Forensics_Lone Wolf 2018_KAPESept2021_tout_D_Users_jcloudy_NTUSER.DAT.csv'
+
+---------------------------------------------------------------------
+Processing 'M:\Forensics\Lone Wolf 2018\KAPESept2021\tout\D\Windows\ServiceProfiles\LocalService\NTUSER.DAT'
+Two transaction logs found. Determining primary log...
+Primary log: M:\Forensics\Lone Wolf 2018\KAPESept2021\tout\D\Windows\ServiceProfiles\LocalService\NTUSER.DAT.LOG1, secondary log: M:\Forensics\Lone Wolf 2018\KAPESept2021\tout\D\Windows\ServiceProfiles\LocalService\NTUSER.DAT.LOG2
+Replaying log file: M:\Forensics\Lone Wolf 2018\KAPESept2021\tout\D\Windows\ServiceProfiles\LocalService\NTUSER.DAT.LOG1
+Replaying log file: M:\Forensics\Lone Wolf 2018\KAPESept2021\tout\D\Windows\ServiceProfiles\LocalService\NTUSER.DAT.LOG2
+At least one transaction log was applied. Sequence numbers have been updated to 0x0038. New Checksum: 0x303D2B8D
+	There was an error processing 'M:\Forensics\Lone Wolf 2018\KAPESept2021\tout\D\Windows\ServiceProfiles\LocalService\NTUSER.DAT'. Error message: 'Software\Microsoft\Windows\Shell\BagMRU' not found in 'rofiles\LocalService\NTUSER.DAT'
+
+Processing 'M:\Forensics\Lone Wolf 2018\KAPESept2021\tout\D\Windows\ServiceProfiles\NetworkService\NTUSER.DAT'
+Two transaction logs found. Determining primary log...
+Primary log: M:\Forensics\Lone Wolf 2018\KAPESept2021\tout\D\Windows\ServiceProfiles\NetworkService\NTUSER.DAT.LOG1, secondary log: M:\Forensics\Lone Wolf 2018\KAPESept2021\tout\D\Windows\ServiceProfiles\NetworkService\NTUSER.DAT.LOG2
+Replaying log file: M:\Forensics\Lone Wolf 2018\KAPESept2021\tout\D\Windows\ServiceProfiles\NetworkService\NTUSER.DAT.LOG1
+Replaying log file: M:\Forensics\Lone Wolf 2018\KAPESept2021\tout\D\Windows\ServiceProfiles\NetworkService\NTUSER.DAT.LOG2
+At least one transaction log was applied. Sequence numbers have been updated to 0x0030. New Checksum: 0x8D34ED92
+	There was an error processing 'M:\Forensics\Lone Wolf 2018\KAPESept2021\tout\D\Windows\ServiceProfiles\NetworkService\NTUSER.DAT'. Error message: 'Software\Microsoft\Windows\Shell\BagMRU' not found in 'files\NetworkService\NTUSER.DAT'
+
+Processing 'M:\Forensics\Lone Wolf 2018\KAPESept2021\tout\D\Users\jcloudy\AppData\Local\Microsoft\Windows\UsrClass.dat'
+Two transaction logs found. Determining primary log...
+Primary log: M:\Forensics\Lone Wolf 2018\KAPESept2021\tout\D\Users\jcloudy\AppData\Local\Microsoft\Windows\UsrClass.dat.LOG1, secondary log: M:\Forensics\Lone Wolf 2018\KAPESept2021\tout\D\Users\jcloudy\AppData\Local\Microsoft\Windows\UsrClass.dat.LOG2
+Replaying log file: M:\Forensics\Lone Wolf 2018\KAPESept2021\tout\D\Users\jcloudy\AppData\Local\Microsoft\Windows\UsrClass.dat.LOG1
+Replaying log file: M:\Forensics\Lone Wolf 2018\KAPESept2021\tout\D\Users\jcloudy\AppData\Local\Microsoft\Windows\UsrClass.dat.LOG2
+At least one transaction log was applied. Sequence numbers have been updated to 0x012C. New Checksum: 0x3B229223
+
+Parse time: 0.26 seconds
+
+	Total ShellBags found: 38
+
+	Totals by bag type
+
+	Root folder: GUID: 10
+	Directory: 15
+	Users property view: Drive letter: 2
+	Users property view: 2
+	Drive letter: 1
+	GUID: Control panel: 2
+	Control Panel Category: 2
+	Variable: Users property view: 1
+	Users Files Folder: 3
+
+Finished processing 'M:\Forensics\Lone Wolf 2018\KAPESept2021\tout\D\Users\jcloudy\AppData\Local\Microsoft\Windows\UsrClass.dat'
+
+Exported to: 'M:\Forensics\Lone Wolf 2018\KAPESept2021\mout\FileFolderAccess\M__Forensics_Lone Wolf 2018_KAPESept2021_tout_D_Users_jcloudy_AppData_Local_Microsoft_Windows_UsrClass.dat.csv'
+
+---------------------------------------------------------------------
+
+Processing complete!
+Processed 5 file(s) in 0.44 seconds!
+Total ShellBags found: 38
+
+
