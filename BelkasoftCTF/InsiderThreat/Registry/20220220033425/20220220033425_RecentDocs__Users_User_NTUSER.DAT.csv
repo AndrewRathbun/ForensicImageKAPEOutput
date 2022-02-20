@@ -1,0 +1,10 @@
+﻿Extension,BatchKeyPath,ValueName,BatchValueName,TargetName,LnkName,MruPosition,OpenedOn,ExtensionLastOpened
+RecentDocs,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs,4,4,Network and Internet,Network and Internet.lnk,0,2020-08-01 21:57:23.0403534,2020-08-01 21:57:23.0403534
+RecentDocs,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs,3,3,::{8E908FC9-BECC-40F6-915B-F4CA0E70D03D},Network and Sharing Center.lnk,1,,
+RecentDocs,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs,1,1,The Internet,The Internet.lnk,2,,
+RecentDocs,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs,0,0,network,ms-settingsnetwork.lnk,3,,
+RecentDocs,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs,2,2,dateandtime,ms-settingsdateandtime.lnk,4,,
+Folder,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\Folder,1,1,Network and Internet,Network and Internet.lnk,0,2020-08-01 21:57:23.0403534,
+Folder,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\Folder,0,0,The Internet,The Internet.lnk,1,,
+Folder,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\Folder,1,1,Network and Internet,Network and Internet.lnk,0,2020-08-01 21:57:23.0403534,
+Folder,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\Folder,0,0,The Internet,The Internet.lnk,1,,

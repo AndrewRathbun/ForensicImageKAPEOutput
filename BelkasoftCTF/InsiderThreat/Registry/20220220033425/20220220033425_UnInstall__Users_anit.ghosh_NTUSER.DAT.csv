@@ -1,0 +1,2 @@
+﻿Timestamp,BatchKeyPath,KeyName,BatchValueName,DisplayName,DisplayVersion,Publisher,InstallDate,InstallSource,InstallLocation,UninstallString
+2020-08-07 18:33:03.7316529,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Git_is1,Git_is1,Multiple,Git version 2.30.1,2.30.1,The Git Development Community,20200807,,C:\Users\anit.ghosh\AppData\Local\Programs\Git\,"""C:\Users\anit.ghosh\AppData\Local\Programs\Git\unins000.exe"""

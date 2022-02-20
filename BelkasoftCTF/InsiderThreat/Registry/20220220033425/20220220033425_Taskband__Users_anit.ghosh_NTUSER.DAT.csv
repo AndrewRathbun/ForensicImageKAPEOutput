@@ -1,0 +1,7 @@
+﻿LnkName,BatchKeyPath,Executable,BatchValueName,PinType
+User Pinned,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Taskband,(unknown),Favorites,(unknown)
+TaskBar,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Taskband,(Directory),Favorites,(Directory)
+Windows PowerShell.lnk,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Taskband,{D65231B0-B2F1-4857-A4CE-A8E7C6EA7D27}\WindowsPowerShell\v1.0\powershell.exe,Favorites,UserPinned
+User Pinned,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Taskband,(unknown),Favorites,(unknown)
+TaskBar,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Taskband,(Directory),Favorites,(Directory)
+Visual Studio Code.lnk,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Taskband,Microsoft.VisualStudioCode,Favorites,UserPinned

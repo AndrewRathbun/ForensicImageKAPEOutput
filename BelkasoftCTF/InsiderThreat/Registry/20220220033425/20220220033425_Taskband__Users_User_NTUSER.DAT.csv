@@ -1,0 +1,4 @@
+﻿LnkName,BatchKeyPath,Executable,BatchValueName,PinType
+User Pinned,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Taskband,(unknown),Favorites,(unknown)
+TaskBar,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Taskband,(Directory),Favorites,(Directory)
+Mozilla Thunderbird.lnk,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Taskband,D78BF5DD33499EC2,Favorites,UserPinned

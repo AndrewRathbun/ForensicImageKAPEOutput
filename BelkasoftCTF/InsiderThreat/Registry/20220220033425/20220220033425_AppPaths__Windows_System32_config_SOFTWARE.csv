@@ -1,0 +1,27 @@
+﻿Timestamp,BatchKeyPath,FileName,BatchValueName,Path1,Path2
+2020-08-07 17:50:22.4628875,ROOT\Microsoft\Windows\CurrentVersion\App Paths\7zFM.exe,7zFM.exe,Multiple,C:\Program Files\7-Zip\7zFM.exe,C:\Program Files\7-Zip\
+2020-08-01 21:01:43.5215973,ROOT\Microsoft\Windows\CurrentVersion\App Paths\chrome.exe,chrome.exe,Multiple,C:\Program Files\Google\Chrome\Application\chrome.exe,C:\Program Files\Google\Chrome\Application
+2020-08-01 22:47:32.6012562,ROOT\Microsoft\Windows\CurrentVersion\App Paths\cmmgr32.exe,cmmgr32.exe,Multiple,,
+2018-09-15 05:12:17.1710363,ROOT\Microsoft\Windows\CurrentVersion\App Paths\dfshim.dll,dfshim.dll,Multiple,,
+2018-09-15 05:12:17.1710363,ROOT\Microsoft\Windows\CurrentVersion\App Paths\fsquirt.exe,fsquirt.exe,Multiple,,
+2020-08-01 22:47:32.6012562,ROOT\Microsoft\Windows\CurrentVersion\App Paths\IEDIAG.EXE,IEDIAG.EXE,Multiple,C:\Program Files\Internet Explorer\IEDIAGCMD.EXE,C:\Program Files\Internet Explorer;
+2020-08-01 22:47:32.6012562,ROOT\Microsoft\Windows\CurrentVersion\App Paths\IEDIAGCMD.EXE,IEDIAGCMD.EXE,Multiple,C:\Program Files\Internet Explorer\IEDIAGCMD.EXE,C:\Program Files\Internet Explorer;
+2020-08-01 22:47:32.6012562,ROOT\Microsoft\Windows\CurrentVersion\App Paths\IEXPLORE.EXE,IEXPLORE.EXE,Multiple,C:\Program Files\Internet Explorer\IEXPLORE.EXE,C:\Program Files\Internet Explorer;
+2018-09-15 05:12:17.1710363,ROOT\Microsoft\Windows\CurrentVersion\App Paths\install.exe,install.exe,Multiple,,
+2020-08-07 18:26:28.1145631,ROOT\Microsoft\Windows\CurrentVersion\App Paths\javaws.exe,javaws.exe,Multiple,C:\Program Files\Java\jre1.8.0_181\bin\javaws.exe,C:\Program Files\Java\jre1.8.0_181\bin
+2018-09-15 05:10:55.1173625,ROOT\Microsoft\Windows\CurrentVersion\App Paths\licensemanagershellext.exe,licensemanagershellext.exe,Multiple,%SystemRoot%\System32\licensemanagershellext.exe,
+2018-09-15 06:26:10.6030747,ROOT\Microsoft\Windows\CurrentVersion\App Paths\mip.exe,mip.exe,Multiple,%CommonProgramFiles%\Microsoft Shared\Ink\mip.exe,
+2018-09-15 06:27:23.1197691,ROOT\Microsoft\Windows\CurrentVersion\App Paths\mplayer2.exe,mplayer2.exe,Multiple,%ProgramFiles%\Windows Media Player\wmplayer.exe,%ProgramFiles%\Windows Media Player
+2018-09-15 05:12:17.1710363,ROOT\Microsoft\Windows\CurrentVersion\App Paths\pbrush.exe,pbrush.exe,Multiple,%SystemRoot%\System32\mspaint.exe,%SystemRoot%\System32
+2018-09-15 05:12:17.1710363,ROOT\Microsoft\Windows\CurrentVersion\App Paths\PowerShell.exe,PowerShell.exe,Multiple,%SystemRoot%\system32\WindowsPowerShell\v1.0\PowerShell.exe,
+2020-08-07 18:36:33.1674671,ROOT\Microsoft\Windows\CurrentVersion\App Paths\pwsh.exe,pwsh.exe,Multiple,C:\Program Files\PowerShell\7\pwsh.exe,
+2018-09-15 05:12:17.1710363,ROOT\Microsoft\Windows\CurrentVersion\App Paths\setup.exe,setup.exe,Multiple,,
+2018-09-15 05:10:55.1173625,ROOT\Microsoft\Windows\CurrentVersion\App Paths\SnippingTool.exe,SnippingTool.exe,Multiple,%SystemRoot%\system32\SnippingTool.exe,
+2018-09-15 05:12:17.1710363,ROOT\Microsoft\Windows\CurrentVersion\App Paths\table30.exe,table30.exe,Multiple,,
+2018-09-15 05:10:55.1173625,ROOT\Microsoft\Windows\CurrentVersion\App Paths\TabTip.exe,TabTip.exe,Multiple,%CommonProgramFiles%\microsoft shared\ink\TabTip.exe,
+2020-08-01 21:04:24.2255333,ROOT\Microsoft\Windows\CurrentVersion\App Paths\thunderbird.exe,thunderbird.exe,Multiple,C:\Program Files\Mozilla Thunderbird\thunderbird.exe,C:\Program Files\Mozilla Thunderbird
+2018-09-15 05:12:17.1710363,ROOT\Microsoft\Windows\CurrentVersion\App Paths\wab.exe,wab.exe,Multiple,%ProgramFiles%\Windows Mail\wab.exe,%ProgramFiles%\Windows Mail
+2018-09-15 05:12:17.1710363,ROOT\Microsoft\Windows\CurrentVersion\App Paths\wabmig.exe,wabmig.exe,Multiple,%ProgramFiles%\Windows Mail\wabmig.exe,
+2018-09-15 06:27:23.1197691,ROOT\Microsoft\Windows\CurrentVersion\App Paths\wmplayer.exe,wmplayer.exe,Multiple,%ProgramFiles%\Windows Media Player\wmplayer.exe,%ProgramFiles%\Windows Media Player
+2018-09-15 05:12:17.1710363,ROOT\Microsoft\Windows\CurrentVersion\App Paths\WORDPAD.EXE,WORDPAD.EXE,Multiple,"""%ProgramFiles%\Windows NT\Accessories\WORDPAD.EXE""",
+2018-09-15 05:12:17.1710363,ROOT\Microsoft\Windows\CurrentVersion\App Paths\WRITE.EXE,WRITE.EXE,Multiple,"""%ProgramFiles%\Windows NT\Accessories\WORDPAD.EXE""",

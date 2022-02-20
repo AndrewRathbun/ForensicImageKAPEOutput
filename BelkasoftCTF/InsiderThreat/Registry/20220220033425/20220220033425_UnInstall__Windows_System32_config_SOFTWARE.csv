@@ -1,0 +1,24 @@
+﻿Timestamp,BatchKeyPath,KeyName,BatchValueName,DisplayName,DisplayVersion,Publisher,InstallDate,InstallSource,InstallLocation,UninstallString
+2020-08-07 17:50:22.4628875,ROOT\Microsoft\Windows\CurrentVersion\Uninstall\7-Zip,7-Zip,Multiple,7-Zip 19.00,19.00,Igor Pavlov,,,C:\Program Files\7-Zip\,C:\Program Files\7-Zip\Uninstall.exe
+2018-09-15 05:12:17.5304399,ROOT\Microsoft\Windows\CurrentVersion\Uninstall\AddressBook,AddressBook,Multiple,,,,,,,
+2018-09-15 05:12:17.5304399,ROOT\Microsoft\Windows\CurrentVersion\Uninstall\Connection Manager,Connection Manager,Multiple,,,,,,,
+2018-09-15 05:12:17.5304399,ROOT\Microsoft\Windows\CurrentVersion\Uninstall\DirectDrawEx,DirectDrawEx,Multiple,,,,,,,
+2018-09-15 06:27:23.0869558,ROOT\Microsoft\Windows\CurrentVersion\Uninstall\DXM_Runtime,DXM_Runtime,Multiple,,,,,,,
+2018-09-15 05:12:17.5304399,ROOT\Microsoft\Windows\CurrentVersion\Uninstall\Fontcore,Fontcore,Multiple,,,,,,,
+2020-08-07 18:52:01.0042077,ROOT\Microsoft\Windows\CurrentVersion\Uninstall\Git_is1,Git_is1,Multiple,Git version 2.30.1,2.30.1,The Git Development Community,20200807,,C:\Program Files\Git\,"""C:\Program Files\Git\unins001.exe"""
+2020-08-01 21:01:43.2403480,ROOT\Microsoft\Windows\CurrentVersion\Uninstall\Google Chrome,Google Chrome,Multiple,Google Chrome,88.0.4324.150,Google LLC,20200801,,C:\Program Files\Google\Chrome\Application,"""C:\Program Files\Google\Chrome\Application\88.0.4324.150\Installer\setup.exe"" --uninstall --system-level --verbose-logging"
+2018-09-15 05:12:17.5304399,ROOT\Microsoft\Windows\CurrentVersion\Uninstall\IE40,IE40,Multiple,,,,,,,
+2018-09-15 05:12:17.5304399,ROOT\Microsoft\Windows\CurrentVersion\Uninstall\IE4Data,IE4Data,Multiple,,,,,,,
+2018-09-15 05:12:17.5304399,ROOT\Microsoft\Windows\CurrentVersion\Uninstall\IE5BAKEX,IE5BAKEX,Multiple,,,,,,,
+2018-09-15 05:12:17.5304399,ROOT\Microsoft\Windows\CurrentVersion\Uninstall\IEData,IEData,Multiple,,,,,,,
+2018-09-15 05:12:17.5304399,ROOT\Microsoft\Windows\CurrentVersion\Uninstall\MobileOptionPack,MobileOptionPack,Multiple,,,,,,,
+2020-08-01 21:04:23.5067839,ROOT\Microsoft\Windows\CurrentVersion\Uninstall\Mozilla Thunderbird 78.7.1 (x86 en-US),Mozilla Thunderbird 78.7.1 (x86 en-US),Multiple,Mozilla Thunderbird 78.7.1 (x86 en-US),78.7.1,Mozilla,,,C:\Program Files\Mozilla Thunderbird,"""C:\Program Files\Mozilla Thunderbird\uninstall\helper.exe"""
+2020-08-01 21:04:24.1786582,ROOT\Microsoft\Windows\CurrentVersion\Uninstall\MozillaMaintenanceService,MozillaMaintenanceService,Multiple,Mozilla Maintenance Service,78.7.1,Mozilla,,,,"""C:\Program Files\Mozilla Maintenance Service\uninstall.exe"""
+2018-09-15 06:27:23.0869558,ROOT\Microsoft\Windows\CurrentVersion\Uninstall\MPlayer2,MPlayer2,Multiple,,,,,,,
+2018-09-15 05:12:17.5304399,ROOT\Microsoft\Windows\CurrentVersion\Uninstall\SchedulingAgent,SchedulingAgent,Multiple,,,,,,,
+2018-09-15 05:12:17.5304399,ROOT\Microsoft\Windows\CurrentVersion\Uninstall\WIC,WIC,Multiple,,,,,,,
+2020-08-07 18:36:33.2143429,ROOT\Microsoft\Windows\CurrentVersion\Uninstall\{0E45206E-10CD-4C58-8053-22975EFA701D},{0E45206E-10CD-4C58-8053-22975EFA701D},Multiple,PowerShell 7-x86,7.0.5.0,Microsoft Corporation,20200807,C:\Users\anit.ghosh\AppData\Local\Microsoft\Windows\INetCache\IE\YMUVFSTO\,,MsiExec.exe /X{0E45206E-10CD-4C58-8053-22975EFA701D}
+2020-08-07 18:26:20.6301948,ROOT\Microsoft\Windows\CurrentVersion\Uninstall\{26A24AE4-039D-4CA4-87B4-2F32180181F0},{26A24AE4-039D-4CA4-87B4-2F32180181F0},Multiple,Java 8 Update 181,8.0.1810.13,Oracle Corporation,20200807,C:\Users\Administrator\AppData\LocalLow\Oracle\Java\jre1.8.0_181\,C:\Program Files\Java\jre1.8.0_181\,MsiExec.exe /X{26A24AE4-039D-4CA4-87B4-2F32180181F0}
+2020-08-07 18:25:51.0373341,ROOT\Microsoft\Windows\CurrentVersion\Uninstall\{32A3A4F4-B792-11D6-A78A-00B0D0180181},{32A3A4F4-B792-11D6-A78A-00B0D0180181},Multiple,Java SE Development Kit 8 Update 181,8.0.1810.13,Oracle Corporation,20200807,C:\Users\Administrator\AppData\LocalLow\Oracle\Java\jdk1.8.0_181\,C:\Program Files\Java\jdk1.8.0_181\,MsiExec.exe /X{32A3A4F4-B792-11D6-A78A-00B0D0180181}
+2020-08-07 18:26:33.6770617,ROOT\Microsoft\Windows\CurrentVersion\Uninstall\{4A03706F-666A-4037-7777-5F2748764D10},{4A03706F-666A-4037-7777-5F2748764D10},Multiple,Java Auto Updater,2.8.181.13,Oracle Corporation,20200807,C:\Users\Administrator\AppData\LocalLow\Oracle\Java\jre1.8.0_181\,,
+2020-08-07 19:15:16.5172457,ROOT\Microsoft\Windows\CurrentVersion\Uninstall\{F8A2A208-72B3-4D61-95FC-8A65D340689B}_is1,{F8A2A208-72B3-4D61-95FC-8A65D340689B}_is1,Multiple,Microsoft Visual Studio Code,1.53.2,Microsoft Corporation,20200807,,C:\Program Files\Microsoft VS Code\,"""C:\Program Files\Microsoft VS Code\unins000.exe"""

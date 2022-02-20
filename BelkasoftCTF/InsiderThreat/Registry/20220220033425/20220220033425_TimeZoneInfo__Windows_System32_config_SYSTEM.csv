@@ -1,0 +1,10 @@
+﻿ValueName,BatchKeyPath,ValueData,BatchValueName,ValueDataRaw
+Bias,ROOT\ControlSet001\Control\TimeZoneInformation,360,Bias,360
+DaylightBias,ROOT\ControlSet001\Control\TimeZoneInformation,-60,DaylightBias,4294967236
+DaylightName,ROOT\ControlSet001\Control\TimeZoneInformation,"@tzres.dll,-2371",DaylightName,"@tzres.dll,-2371"
+DaylightStart,ROOT\ControlSet001\Control\TimeZoneInformation,"Month 9, week of month 1, day of week 6, Hours:Minutes:Seconds:Milliseconds 22:0:0:0",DaylightStart,00-00-09-00-01-00-16-00-00-00-00-00-00-00-06-00
+StandardBias,ROOT\ControlSet001\Control\TimeZoneInformation,0,StandardBias,0
+StandardName,ROOT\ControlSet001\Control\TimeZoneInformation,"@tzres.dll,-2372",StandardName,"@tzres.dll,-2372"
+StandardStart,ROOT\ControlSet001\Control\TimeZoneInformation,"Month 4, week of month 1, day of week 6, Hours:Minutes:Seconds:Milliseconds 22:0:0:0",StandardStart,00-00-04-00-01-00-16-00-00-00-00-00-00-00-06-00
+TimeZoneKeyName,ROOT\ControlSet001\Control\TimeZoneInformation,Easter Island Standard Time,TimeZoneKeyName,Easter Island Standard Time
+ActiveTimeBias,ROOT\ControlSet001\Control\TimeZoneInformation,300,ActiveTimeBias,300

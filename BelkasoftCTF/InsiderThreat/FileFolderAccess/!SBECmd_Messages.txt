@@ -1,0 +1,142 @@
+SBECmd version 1.4.0.0
+
+Author: Eric Zimmerman (saericzimmerman@gmail.com)
+https://github.com/EricZimmerman
+
+Command line: -d C:\Users\CFUser\OneDrive - Kroll\Training\BelkasoftCTFImages\BelkaDay_SUSPECT_LAPTOP\tout\F --csv C:\Users\CFUser\OneDrive - Kroll\Training\BelkasoftCTFImages\BelkaDay_SUSPECT_LAPTOP\mout\FileFolderAccess -q
+
+Directory to process: C:\Users\CFUser\OneDrive - Kroll\Training\BelkasoftCTFImages\BelkaDay_SUSPECT_LAPTOP\tout\F
+Deduplication: False
+All messages will be saved to 'C:\Users\CFUser\OneDrive - Kroll\Training\BelkasoftCTFImages\BelkaDay_SUSPECT_LAPTOP\mout\FileFolderAccess\!SBECmd_Messages.txt'
+Time zone: UTC
+
+Processing 'C:\Users\CFUser\OneDrive - Kroll\Training\BelkasoftCTFImages\BelkaDay_SUSPECT_LAPTOP\tout\F\Users\Administrator\NTUSER.DAT'
+
+Parse time: 0.10 seconds
+
+	Total ShellBags found: 0
+
+	Totals by bag type
+
+
+Finished processing 'C:\Users\CFUser\OneDrive - Kroll\Training\BelkasoftCTFImages\BelkaDay_SUSPECT_LAPTOP\tout\F\Users\Administrator\NTUSER.DAT'
+
+Exported to: 'C:\Users\CFUser\OneDrive - Kroll\Training\BelkasoftCTFImages\BelkaDay_SUSPECT_LAPTOP\mout\FileFolderAccess\C__Users_CFUser_OneDrive - Kroll_Training_BelkasoftCTFImages_BelkaDay_SUSPECT_LAPTOP_tout_F_Users_Administrator_NTUSER.DAT.csv'
+
+---------------------------------------------------------------------
+Processing 'C:\Users\CFUser\OneDrive - Kroll\Training\BelkasoftCTFImages\BelkaDay_SUSPECT_LAPTOP\tout\F\Users\anit.ghosh\NTUSER.DAT'
+Two transaction logs found. Determining primary log...
+Primary log: C:\Users\CFUser\OneDrive - Kroll\Training\BelkasoftCTFImages\BelkaDay_SUSPECT_LAPTOP\tout\F\Users\anit.ghosh\ntuser.dat.LOG1, secondary log: C:\Users\CFUser\OneDrive - Kroll\Training\BelkasoftCTFImages\BelkaDay_SUSPECT_LAPTOP\tout\F\Users\anit.ghosh\ntuser.dat.LOG2
+Replaying log file: C:\Users\CFUser\OneDrive - Kroll\Training\BelkasoftCTFImages\BelkaDay_SUSPECT_LAPTOP\tout\F\Users\anit.ghosh\ntuser.dat.LOG1
+Replaying log file: C:\Users\CFUser\OneDrive - Kroll\Training\BelkasoftCTFImages\BelkaDay_SUSPECT_LAPTOP\tout\F\Users\anit.ghosh\ntuser.dat.LOG2
+At least one transaction log was applied. Sequence numbers have been updated to 0x0136. New Checksum: 0xA911EFF3
+
+Parse time: 0.04 seconds
+
+	Total ShellBags found: 0
+
+	Totals by bag type
+
+
+Finished processing 'C:\Users\CFUser\OneDrive - Kroll\Training\BelkasoftCTFImages\BelkaDay_SUSPECT_LAPTOP\tout\F\Users\anit.ghosh\NTUSER.DAT'
+
+Exported to: 'C:\Users\CFUser\OneDrive - Kroll\Training\BelkasoftCTFImages\BelkaDay_SUSPECT_LAPTOP\mout\FileFolderAccess\C__Users_CFUser_OneDrive - Kroll_Training_BelkasoftCTFImages_BelkaDay_SUSPECT_LAPTOP_tout_F_Users_anit.ghosh_NTUSER.DAT.csv'
+
+---------------------------------------------------------------------
+Processing 'C:\Users\CFUser\OneDrive - Kroll\Training\BelkasoftCTFImages\BelkaDay_SUSPECT_LAPTOP\tout\F\Users\Default\NTUSER.DAT'
+	There was an error processing 'C:\Users\CFUser\OneDrive - Kroll\Training\BelkasoftCTFImages\BelkaDay_SUSPECT_LAPTOP\tout\F\Users\Default\NTUSER.DAT'. Error message: 'Software\Microsoft\Windows\Shell\BagMRU' not found in 'C:\Users\Default\NTUSER.DAT'
+
+Processing 'C:\Users\CFUser\OneDrive - Kroll\Training\BelkasoftCTFImages\BelkaDay_SUSPECT_LAPTOP\tout\F\Users\User\NTUSER.DAT'
+
+Parse time: 0.02 seconds
+
+	Total ShellBags found: 0
+
+	Totals by bag type
+
+
+Finished processing 'C:\Users\CFUser\OneDrive - Kroll\Training\BelkasoftCTFImages\BelkaDay_SUSPECT_LAPTOP\tout\F\Users\User\NTUSER.DAT'
+
+Exported to: 'C:\Users\CFUser\OneDrive - Kroll\Training\BelkasoftCTFImages\BelkaDay_SUSPECT_LAPTOP\mout\FileFolderAccess\C__Users_CFUser_OneDrive - Kroll_Training_BelkasoftCTFImages_BelkaDay_SUSPECT_LAPTOP_tout_F_Users_User_NTUSER.DAT.csv'
+
+---------------------------------------------------------------------
+Processing 'C:\Users\CFUser\OneDrive - Kroll\Training\BelkasoftCTFImages\BelkaDay_SUSPECT_LAPTOP\tout\F\Windows\ServiceProfiles\LocalService\NTUSER.DAT'
+Dropping System.Byte[] because the log's header.PrimarySequenceNumber is less than the hive's header.SecondarySequenceNumber
+Single log file available: C:\Users\CFUser\OneDrive - Kroll\Training\BelkasoftCTFImages\BelkaDay_SUSPECT_LAPTOP\tout\F\Windows\ServiceProfiles\LocalService\NTUSER.DAT.LOG1
+Replaying log file: C:\Users\CFUser\OneDrive - Kroll\Training\BelkasoftCTFImages\BelkaDay_SUSPECT_LAPTOP\tout\F\Windows\ServiceProfiles\LocalService\NTUSER.DAT.LOG1
+At least one transaction log was applied. Sequence numbers have been updated to 0x0056. New Checksum: 0x281F339C
+	There was an error processing 'C:\Users\CFUser\OneDrive - Kroll\Training\BelkasoftCTFImages\BelkaDay_SUSPECT_LAPTOP\tout\F\Windows\ServiceProfiles\LocalService\NTUSER.DAT'. Error message: 'Software\Microsoft\Windows\Shell\BagMRU' not found in 'rofiles\LocalService\NTUSER.DAT'
+
+Processing 'C:\Users\CFUser\OneDrive - Kroll\Training\BelkasoftCTFImages\BelkaDay_SUSPECT_LAPTOP\tout\F\Windows\ServiceProfiles\NetworkService\NTUSER.DAT'
+Dropping System.Byte[] because the log's header.PrimarySequenceNumber is less than the hive's header.SecondarySequenceNumber
+Single log file available: C:\Users\CFUser\OneDrive - Kroll\Training\BelkasoftCTFImages\BelkaDay_SUSPECT_LAPTOP\tout\F\Windows\ServiceProfiles\NetworkService\NTUSER.DAT.LOG1
+Replaying log file: C:\Users\CFUser\OneDrive - Kroll\Training\BelkasoftCTFImages\BelkaDay_SUSPECT_LAPTOP\tout\F\Windows\ServiceProfiles\NetworkService\NTUSER.DAT.LOG1
+At least one transaction log was applied. Sequence numbers have been updated to 0x0059. New Checksum: 0xCAA1C38D
+	There was an error processing 'C:\Users\CFUser\OneDrive - Kroll\Training\BelkasoftCTFImages\BelkaDay_SUSPECT_LAPTOP\tout\F\Windows\ServiceProfiles\NetworkService\NTUSER.DAT'. Error message: 'Software\Microsoft\Windows\Shell\BagMRU' not found in 'files\NetworkService\NTUSER.DAT'
+
+Processing 'C:\Users\CFUser\OneDrive - Kroll\Training\BelkasoftCTFImages\BelkaDay_SUSPECT_LAPTOP\tout\F\Users\Administrator\AppData\Local\Microsoft\Windows\UsrClass.dat'
+There was an error exporting to CSV. Error: The specified path, file name, or both are too long. The fully qualified file name must be less than 260 characters, and the directory name must be less than 248 characters.
+
+Parse time: 0.02 seconds
+
+	Total ShellBags found: 0
+
+	Totals by bag type
+
+
+Finished processing 'C:\Users\CFUser\OneDrive - Kroll\Training\BelkasoftCTFImages\BelkaDay_SUSPECT_LAPTOP\tout\F\Users\Administrator\AppData\Local\Microsoft\Windows\UsrClass.dat'
+
+Exported to: 'C:\Users\CFUser\OneDrive - Kroll\Training\BelkasoftCTFImages\BelkaDay_SUSPECT_LAPTOP\mout\FileFolderAccess\C__Users_CFUser_OneDrive - Kroll_Training_BelkasoftCTFImages_BelkaDay_SUSPECT_LAPTOP_tout_F_Users_Administrator_AppData_Local_Microsoft_Windows_UsrClass.dat.csv'
+
+---------------------------------------------------------------------
+Processing 'C:\Users\CFUser\OneDrive - Kroll\Training\BelkasoftCTFImages\BelkaDay_SUSPECT_LAPTOP\tout\F\Users\anit.ghosh\AppData\Local\Microsoft\Windows\UsrClass.dat'
+Dropping System.Byte[] because the log's header.PrimarySequenceNumber is less than the hive's header.SecondarySequenceNumber
+Single log file available: C:\Users\CFUser\OneDrive - Kroll\Training\BelkasoftCTFImages\BelkaDay_SUSPECT_LAPTOP\tout\F\Users\anit.ghosh\AppData\Local\Microsoft\Windows\UsrClass.dat.LOG1
+Replaying log file: C:\Users\CFUser\OneDrive - Kroll\Training\BelkasoftCTFImages\BelkaDay_SUSPECT_LAPTOP\tout\F\Users\anit.ghosh\AppData\Local\Microsoft\Windows\UsrClass.dat.LOG1
+At least one transaction log was applied. Sequence numbers have been updated to 0x004A. New Checksum: 0x74854683
+Hive length (0x2c0000) does not equal bytes read (0x2b5000)!! Check the end of the hive for erroneous data
+There was an error exporting to CSV. Error: The specified path, file name, or both are too long. The fully qualified file name must be less than 260 characters, and the directory name must be less than 248 characters.
+
+Parse time: 0.19 seconds
+
+	Total ShellBags found: 21
+
+	Totals by bag type
+
+	Directory: 10
+	Root folder: GUID: 6
+	File: 1
+	Users Files Folder: 1
+	Variable: Users property view: 1
+	GUID: Control panel: 1
+	Control Panel Category: 1
+
+Finished processing 'C:\Users\CFUser\OneDrive - Kroll\Training\BelkasoftCTFImages\BelkaDay_SUSPECT_LAPTOP\tout\F\Users\anit.ghosh\AppData\Local\Microsoft\Windows\UsrClass.dat'
+
+Exported to: 'C:\Users\CFUser\OneDrive - Kroll\Training\BelkasoftCTFImages\BelkaDay_SUSPECT_LAPTOP\mout\FileFolderAccess\C__Users_CFUser_OneDrive - Kroll_Training_BelkasoftCTFImages_BelkaDay_SUSPECT_LAPTOP_tout_F_Users_anit.ghosh_AppData_Local_Microsoft_Windows_UsrClass.dat.csv'
+
+---------------------------------------------------------------------
+Processing 'C:\Users\CFUser\OneDrive - Kroll\Training\BelkasoftCTFImages\BelkaDay_SUSPECT_LAPTOP\tout\F\Users\User\AppData\Local\Microsoft\Windows\UsrClass.dat'
+
+Parse time: 0.04 seconds
+
+	Total ShellBags found: 8
+
+	Totals by bag type
+
+	GUID: Control panel: 2
+	Control Panel Category: 1
+	Root folder: GUID: 4
+	Variable: Users property view: 1
+
+Finished processing 'C:\Users\CFUser\OneDrive - Kroll\Training\BelkasoftCTFImages\BelkaDay_SUSPECT_LAPTOP\tout\F\Users\User\AppData\Local\Microsoft\Windows\UsrClass.dat'
+
+Exported to: 'C:\Users\CFUser\OneDrive - Kroll\Training\BelkasoftCTFImages\BelkaDay_SUSPECT_LAPTOP\mout\FileFolderAccess\C__Users_CFUser_OneDrive - Kroll_Training_BelkasoftCTFImages_BelkaDay_SUSPECT_LAPTOP_tout_F_Users_User_AppData_Local_Microsoft_Windows_UsrClass.dat.csv'
+
+---------------------------------------------------------------------
+
+Processing complete!
+Processed 9 file(s) in 0.40 seconds!
+Total ShellBags found: 29
+
+

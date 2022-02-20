@@ -1,0 +1,122 @@
+﻿Extension,BatchKeyPath,OpensWithExecutables,BatchValueName,OpensWithProgramIDs,UserChoice
+.3g2,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,WMP11.AssocFile.3G2,WMP11.AssocFile.3G2
+.3gp,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,WMP11.AssocFile.3GP,WMP11.AssocFile.3GP
+.3gp2,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,WMP11.AssocFile.3G2,WMP11.AssocFile.3G2
+.3gpp,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,WMP11.AssocFile.3GP,WMP11.AssocFile.3GP
+.3mf,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,,(UserChoice key not present)
+.aac,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,WMP11.AssocFile.ADTS,WMP11.AssocFile.ADTS
+.adt,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,WMP11.AssocFile.ADTS,WMP11.AssocFile.ADTS
+.adts,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,WMP11.AssocFile.ADTS,WMP11.AssocFile.ADTS
+.arw,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,,(UserChoice key not present)
+.avi,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,WMP11.AssocFile.AVI,WMP11.AssocFile.AVI
+.bak,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,,(UserChoice key not present)
+.bat,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,batfile,(UserChoice key not present)
+.bin,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,,(UserChoice key not present)
+.bmp,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,Paint.Picture,PBrush
+.cab,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,CABFolder,(UserChoice key not present)
+.cfg,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,,(UserChoice key not present)
+.chm,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,chm.file,(UserChoice key not present)
+.cr2,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,,(UserChoice key not present)
+.crw,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,,(UserChoice key not present)
+.cs,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,,(UserChoice key not present)
+.css,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,CSSfile,(UserChoice key not present)
+.csv,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,,(UserChoice key not present)
+.dat,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,,(UserChoice key not present)
+.db,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,dbfile,(UserChoice key not present)
+.dib,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,Paint.Picture,PBrush
+.dll,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,dllfile,(UserChoice key not present)
+.dng,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,,(UserChoice key not present)
+.doc,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,,(UserChoice key not present)
+.docx,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,docxfile,(UserChoice key not present)
+.erf,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,,(UserChoice key not present)
+.exe,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,exefile,(UserChoice key not present)
+.flac,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,WMP11.AssocFile.FLAC,WMP11.AssocFile.FLAC
+.gif,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,giffile,PBrush
+.htm,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,htmlfile,IE.AssocFile.HTM
+.html,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,htmlfile,IE.AssocFile.HTM
+.ico,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,icofile,(UserChoice key not present)
+.idx,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,,(UserChoice key not present)
+.inf,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,inffile,(UserChoice key not present)
+.ini,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,inifile,(UserChoice key not present)
+.ipa,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,,(UserChoice key not present)
+.iso,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,Windows.IsoFile,(UserChoice key not present)
+.itc2,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,,(UserChoice key not present)
+.itdb,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,,(UserChoice key not present)
+.itl,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,,(UserChoice key not present)
+.jfif,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,pjpegfile,PBrush
+.jpe,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,jpegfile,PBrush
+.jpeg,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,jpegfile,PBrush
+.jpg,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,jpegfile,PBrush
+.jps,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,,(UserChoice key not present)
+.js,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,JSFile,(UserChoice key not present)
+.json,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,,(UserChoice key not present)
+.jxr,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,wdpfile,(UserChoice key not present)
+.kdc,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,,(UserChoice key not present)
+.lnk,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,lnkfile,(UserChoice key not present)
+.log,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,txtfile,(UserChoice key not present)
+.m2t,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,WMP11.AssocFile.M2TS,WMP11.AssocFile.M2TS
+.m2ts,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,WMP11.AssocFile.M2TS,WMP11.AssocFile.M2TS
+.m3u,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,WMP11.AssocFile.m3u,WMP11.AssocFile.m3u
+.m4a,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,WMP11.AssocFile.M4A,WMP11.AssocFile.M4A
+.m4v,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,WMP11.AssocFile.MP4,WMP11.AssocFile.MP4
+.map,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,,(UserChoice key not present)
+.mdb,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,,(UserChoice key not present)
+.mkv,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,WMP11.AssocFile.MKV,WMP11.AssocFile.MKV
+.mod,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,WMP11.AssocFile.MPEG,WMP11.AssocFile.MPEG
+.mov,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,WMP11.AssocFile.MOV,WMP11.AssocFile.MOV
+.MP2,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,WMP11.AssocFile.MP3,WMP11.AssocFile.MP3
+.mp3,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,WMP11.AssocFile.MP3,WMP11.AssocFile.MP3
+.mp4,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,WMP11.AssocFile.MP4,WMP11.AssocFile.MP4
+.mp4v,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,WMP11.AssocFile.MP4,WMP11.AssocFile.MP4
+.mpa,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,WMP11.AssocFile.MPEG,WMP11.AssocFile.MPEG
+.MPE,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,WMP11.AssocFile.MPEG,WMP11.AssocFile.MPEG
+.mpeg,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,WMP11.AssocFile.MPEG,WMP11.AssocFile.MPEG
+.mpg,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,WMP11.AssocFile.MPEG,WMP11.AssocFile.MPEG
+.mpv2,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,WMP11.AssocFile.MPEG,WMP11.AssocFile.MPEG
+.mrw,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,,(UserChoice key not present)
+.mts,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,WMP11.AssocFile.M2TS,WMP11.AssocFile.M2TS
+.nef,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,,(UserChoice key not present)
+.nfo,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,MSInfoFile,(UserChoice key not present)
+.nrw,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,,(UserChoice key not present)
+.obj,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,,(UserChoice key not present)
+.odc,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,,(UserChoice key not present)
+.one,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,,(UserChoice key not present)
+.onetoc2,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,,(UserChoice key not present)
+.orf,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,,(UserChoice key not present)
+.pef,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,,(UserChoice key not present)
+.pls,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,,(UserChoice key not present)
+.png,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,pngfile,PBrush
+.ppt,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,,(UserChoice key not present)
+.pptx,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,,(UserChoice key not present)
+.psd,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,,(UserChoice key not present)
+.pst,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,,(UserChoice key not present)
+.rar,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,,(UserChoice key not present)
+.raw,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,,(UserChoice key not present)
+.reg,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,regfile,(UserChoice key not present)
+.rtf,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,rtffile,(UserChoice key not present)
+.rw2,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,,(UserChoice key not present)
+.rwl,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,,(UserChoice key not present)
+.sr2,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,,(UserChoice key not present)
+.srw,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,,(UserChoice key not present)
+.stl,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,,(UserChoice key not present)
+.swf,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,,(UserChoice key not present)
+.tif,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,TIFImage.Document,PhotoViewer.FileAssoc.Tiff
+.tiff,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,TIFImage.Document,PhotoViewer.FileAssoc.Tiff
+.tmp,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,,(UserChoice key not present)
+.TS,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,WMP11.AssocFile.TTS,WMP11.AssocFile.TTS
+.ttf,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,ttffile,(UserChoice key not present)
+.TTS,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,WMP11.AssocFile.TTS,WMP11.AssocFile.TTS
+.txt,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,txtfile,txtfile
+.url,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,InternetShortcut,IE.AssocFile.URL
+.vssettings,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,,(UserChoice key not present)
+.wav,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,WMP11.AssocFile.WAV,WMP11.AssocFile.WAV
+.wdp,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,wdpfile,(UserChoice key not present)
+.website,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,Microsoft.Website,IE.AssocFile.WEBSITE
+.wm,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,WMP11.AssocFile.ASF,WMP11.AssocFile.ASF
+.wma,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,WMP11.AssocFile.WMA,WMP11.AssocFile.WMA
+.wmv,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,WMP11.AssocFile.WMV,WMP11.AssocFile.WMV
+.WPL,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,WMP11.AssocFile.WPL,WMP11.AssocFile.WPL
+.xls,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,,(UserChoice key not present)
+.xlsx,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,,(UserChoice key not present)
+.xml,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,xmlfile,(UserChoice key not present)
+.zip,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FileExts,,Multiple,CompressedFolder,(UserChoice key not present)

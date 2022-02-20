@@ -1,0 +1,235 @@
+﻿CacheEntryPosition,BatchKeyPath,ProgramName,BatchValueName,ModifiedTime
+0,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Users\anit.ghosh\Desktop\sdelete.exe,AppCompatCache,2020-11-25 14:59:48.0000000
+1,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\TEMP\94617D4E-D813-4D30-8BF0-2C5F5465FD49\dismhost.exe,AppCompatCache,2021-02-02 01:44:47.1168808
+2,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\system32\MusNotifyIcon.exe,AppCompatCache,2021-02-02 01:44:41.1358323
+3,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\system32\srtasks.exe,AppCompatCache,2021-02-02 01:45:00.1167284
+4,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\system32\winsat.exe,AppCompatCache,2021-02-02 01:44:59.3286165
+5,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\System32\WinBioPlugIns\FaceFodUninstaller.exe,AppCompatCache,2021-02-02 01:44:51.0424091
+6,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\system32\tzsync.exe,AppCompatCache,2018-09-15 05:06:32.0917643
+7,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\system32\dstokenclean.exe,AppCompatCache,2018-09-15 05:06:34.4200786
+8,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\system32\dmclient.exe,AppCompatCache,2021-02-02 01:44:25.5550619
+9,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\system32\disksnapshot.exe,AppCompatCache,2021-02-02 01:44:36.3058812
+10,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\system32\speech_onecore\common\SpeechModelDownload.exe,AppCompatCache,2021-02-02 01:44:41.8928627
+11,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\system32\wbem\WmiApSrv.exe,AppCompatCache,2018-09-15 05:06:29.2477782
+12,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\system32\MRT.exe,AppCompatCache,2021-02-10 19:59:32.8938179
+13,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\SoftwareDistribution\Download\Install\Windows-KB890830-V5.86.exe,AppCompatCache,2021-02-10 19:55:23.9872925
+14,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\winsxs\x86_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.17763.1750_none_faa78b13e0d8d74c\TiWorker.exe,AppCompatCache,2018-09-15 04:08:41.6205805
+15,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\TEMP\A79DAB5E-C96D-487F-9855-0B61FD9D516D\dismhost.exe,AppCompatCache,2021-02-02 01:44:47.1168808
+16,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\SoftwareDistribution\Download\Install\AM_Delta_Patch_1.331.994.0.exe,AppCompatCache,2021-02-10 19:55:06.9850297
+17,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\system32\gpupdate.exe,AppCompatCache,2021-02-02 01:44:56.0217471
+18,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\System32\SystemSettingsBroker.exe,AppCompatCache,2021-02-02 01:44:25.2412204
+19,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\TEMP\E8C170EB-12C9-48B3-8A47-01A10077ECD4\dismhost.exe,AppCompatCache,2021-02-02 01:44:47.1168808
+20,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Users\anit.ghosh\AppData\Local\Google\Chrome\User Data\SwReporter\88.253.200\software_reporter_tool.exe,AppCompatCache,2021-01-21 21:40:42.0000000
+21,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Program Files\Java\jre1.8.0_181\bin\awt.dll,AppCompatCache,2020-08-07 18:26:25.9114382
+22,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Program Files\Java\jre1.8.0_181\bin\jp2launcher.exe,AppCompatCache,2020-08-07 18:26:26.0364379
+23,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Program Files\Java\jre1.8.0_181\bin\javaws.exe,AppCompatCache,2020-08-07 18:26:25.9426875
+24,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Program Files\Common Files\Java\Java Update\jucheck.exe,AppCompatCache,2018-07-07 10:54:14.0000000
+25,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Program Files\Java\jdk1.8.0_181\bin\jmc.exe,AppCompatCache,2020-08-07 18:25:51.1154583
+26,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Program Files\Git\git-cmd.exe,AppCompatCache,2021-02-09 18:58:14.0000000
+27,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Program Files\Git\usr\bin\cat.exe,AppCompatCache,2021-02-09 19:11:38.0000000
+28,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Program Files\Git\usr\bin\bash.exe,AppCompatCache,2021-02-09 19:11:38.0000000
+29,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Program Files\Git\mingw32\libexec\git-core\git-remote-http.exe,AppCompatCache,2021-02-09 18:58:14.0000000
+30,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Program Files\Git\mingw32\libexec\git-core\git.exe,AppCompatCache,2021-02-09 18:58:14.0000000
+31,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Program Files\Git\mingw32\bin\git.exe,AppCompatCache,2021-02-09 18:58:14.0000000
+32,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Program Files\Git\cmd\git.exe,AppCompatCache,2021-02-09 18:58:14.0000000
+33,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Program Files\Common Files\Java\Java Update\jusched.exe,AppCompatCache,2018-07-07 10:54:32.0000000
+34,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Program Files\Microsoft VS Code\Code.exe,AppCompatCache,2021-02-11 18:04:52.0000000
+35,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\system32\RelPost.exe,AppCompatCache,2018-09-15 05:06:54.3145894
+36,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\system32\defrag.exe,AppCompatCache,2021-02-02 01:44:52.3930310
+37,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\system32\WerFault.exe,AppCompatCache,2021-02-02 01:44:45.6399179
+38,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\System32\dsregcmd.exe,AppCompatCache,2021-02-02 01:45:00.1036938
+39,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\system32\whoami.exe,AppCompatCache,2018-09-15 05:07:20.7542767
+40,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\system32\PING.EXE,AppCompatCache,2018-09-15 05:07:12.5035920
+41,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\TEMP\9D06D70D-FE43-4A8D-A625-4CFED64D8652\dismhost.exe,AppCompatCache,2021-02-02 01:44:47.1168808
+42,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\system32\dashost.exe,AppCompatCache,2018-09-15 05:06:43.3761792
+43,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Program Files\Mozilla Thunderbird\thunderbird.exe,AppCompatCache,2021-02-03 19:21:01.0000000
+44,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Program Files\Mozilla Maintenance Service\maintenanceservice.exe,AppCompatCache,2021-02-03 19:21:00.0000000
+45,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Program Files\Mozilla Thunderbird\maintenanceservice_installer.exe,AppCompatCache,2021-02-03 19:21:00.0000000
+46,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\System32\conhost.exe,AppCompatCache,2021-02-02 01:44:46.5839500
+47,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Users\User\AppData\Local\Temp\nsm4E6D.tmp\ns64C7.tmp,AppCompatCache,2020-08-01 21:04:23.5380334
+48,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Users\User\AppData\Local\Temp\7zS44AE4707\setup.exe,AppCompatCache,2021-02-03 19:21:01.0000000
+49,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Users\User\AppData\Local\Microsoft\Windows\INetCache\IE\01XS6UBV\Thunderbird Setup 78.7.1.exe,AppCompatCache,2020-08-01 21:04:12.3539512
+50,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,SIGN.IE=02F61F60 Thunderbird Setup 78.7.1.exe,AppCompatCache,2020-08-01 21:04:12.3539512
+51,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\SoftwareDistribution\Download\Install\AM_Delta.exe,AppCompatCache,2020-08-01 20:57:55.7359237
+52,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\SoftwareDistribution\Download\Install\AM_Base_Patch1.exe,AppCompatCache,2020-08-01 20:58:15.4082420
+53,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Program Files\Google\Chrome\Application\88.0.4324.150\Installer\chrmstp.exe,AppCompatCache,2020-08-01 21:01:36.6309720
+54,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\system32\MpSigStub.exe,AppCompatCache,2021-02-13 19:57:54.6960381
+55,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\SoftwareDistribution\Download\Install\AM_Engine_Patch_1.1.17700.4.exe,AppCompatCache,2021-02-13 19:57:55.1647879
+56,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\SoftwareDistribution\Download\Install\MpSigStub.exe,AppCompatCache,2021-02-13 19:57:54.6960381
+57,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\ProgramData\Microsoft\Windows Defender\platform\4.18.2101.9-0\MpCmdRun.exe,AppCompatCache,2020-08-01 20:58:15.9230000
+58,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\System32\CompPkgSrv.exe,AppCompatCache,2021-02-02 01:44:23.3621791
+59,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Program Files\Google\Update\1.3.36.72\GoogleUpdateOnDemand.exe,AppCompatCache,2020-08-01 21:01:19.2671050
+60,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Program Files\Google\Chrome\Application\chrome.exe,AppCompatCache,2021-02-04 01:50:22.5312500
+61,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Program Files\Google\Update\1.3.36.72\GoogleCrashHandler.exe,AppCompatCache,2020-08-01 21:01:19.2671050
+62,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Program Files\Google\Update\Install\{FBFF20B9-4738-449E-906A-3DDD33ED941E}\CR_3C969.tmp\setup.exe,AppCompatCache,2020-08-01 21:01:36.6309720
+63,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Program Files\Google\Update\Install\{FBFF20B9-4738-449E-906A-3DDD33ED941E}\88.0.4324.150_chrome_installer.exe,AppCompatCache,2021-02-04 02:08:58.0000000
+64,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Program Files\Google\Update\GoogleUpdate.exe,AppCompatCache,2020-08-01 21:01:19.2671050
+65,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Program Files\Google\Temp\GUM948B.tmp\GoogleUpdate.exe,AppCompatCache,2020-08-01 21:01:19.2671050
+66,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Users\User\AppData\Local\Temp\GUM8420.tmp\GoogleUpdateSetup.exe,AppCompatCache,2020-08-01 21:01:14.2530454
+67,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Users\User\AppData\Local\Temp\GUM8420.tmp\GoogleUpdate.exe,AppCompatCache,2020-08-01 21:01:15.0655472
+68,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Users\User\AppData\Local\Microsoft\Windows\INetCache\IE\YKT63GVH\ChromeSetup.exe,AppCompatCache,2020-08-01 21:01:14.2530454
+69,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,SIGN.IE=013E660 ChromeSetup.exe,AppCompatCache,2020-08-01 21:01:14.2530454
+70,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\system32\AUDIODG.EXE,AppCompatCache,2021-02-02 01:44:23.4103082
+71,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\ProgramData\Microsoft\Windows Defender\platform\4.18.2101.9-0\NisSrv.exe,AppCompatCache,2020-08-01 20:58:15.9700000
+72,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\ProgramData\Microsoft\Windows Defender\platform\4.18.2101.9-0\MsMpEng.exe,AppCompatCache,2020-08-01 20:58:15.9550000
+73,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\system32\taskkill.exe,AppCompatCache,2018-09-15 05:07:23.0513419
+74,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\system32\wbem\mofcomp.exe,AppCompatCache,2018-09-15 05:06:29.2477782
+75,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\TEMP\06517A22-AFC7-416C-A0FA-F1846755095B\MpSigStub.exe,AppCompatCache,2020-08-01 20:58:15.9390000
+76,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\SoftwareDistribution\Download\Install\updateplatform.exe,AppCompatCache,2021-02-13 19:57:51.8054130
+77,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\system32\wuauclt.exe,AppCompatCache,2021-02-02 01:44:35.6320731
+78,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,\\?\C:\Windows\system32\wbem\WMIADAP.EXE,AppCompatCache,2018-09-15 05:06:29.2477782
+79,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\system32\SystemSettingsAdminFlows.exe,AppCompatCache,2021-02-02 01:44:41.6161202
+80,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\System32\Speech_OneCore\Common\SpeechRuntime.exe,AppCompatCache,2021-02-02 01:44:42.3901970
+81,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\system32\ApplicationFrameHost.exe,AppCompatCache,2021-02-02 01:44:42.3059696
+82,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\ImmersiveControlPanel\SystemSettings.exe,AppCompatCache,2018-09-15 05:07:34.0053761
+83,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe,AppCompatCache,2021-02-02 01:47:12.2214945
+84,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\Microsoft.NET\Framework\v4.0.30319\ngen.exe,AppCompatCache,2021-02-02 01:47:12.2139747
+85,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\TEMP\4437EC5B-B59E-4C69-9903-7A1A49C576CD\dismhost.exe,AppCompatCache,2021-02-02 01:44:47.1168808
+86,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe,AppCompatCache,2021-02-02 01:47:12.2621044
+87,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\SystemApps\InputApp_cw5n1h2txyewy\Application,AppCompatCache,2020-08-01 21:48:14.8689415
+88,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\System32\rdpclip.exe,AppCompatCache,2021-02-02 01:44:58.6959177
+89,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\system32\atbroker.exe,AppCompatCache,2018-09-15 05:06:48.7360015
+90,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\system32\TSTheme.exe,AppCompatCache,2021-02-02 01:44:58.8423118
+91,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\system32\RDSPnf.exe,AppCompatCache,2021-02-02 01:44:59.2143091
+92,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,0000000b	000a000045630001	000a000000000000	014c	Microsoft.Windows.OOBENetworkConnectionFlow	cw5n1h2txyewy	,AppCompatCache,1601-01-01 00:00:00.0000000
+93,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,0000000b	000a000045630001	000a000000000000	014c	Microsoft.Windows.OOBENetworkCaptivePortal	cw5n1h2txyewy	,AppCompatCache,1601-01-01 00:00:00.0000000
+94,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,0000000b	000a000045630001	000a000045630001	014c	1527c705-839a-4832-9118-54d4Bd6a0c89	cw5n1h2txyewy	neutral,AppCompatCache,1601-01-01 00:00:00.0000000
+95,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,0000000b	000a000045630001	000a000042ee0000	014c	c5e2524a-ea46-4f67-841f-6a9465d9d515	cw5n1h2txyewy	neutral,AppCompatCache,1601-01-01 00:00:00.0000000
+96,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,0000000b	000a000045630001	000a000045630001	014c	E2A4F912-2574-4A75-9BB0-0D023378592B	cw5n1h2txyewy	neutral,AppCompatCache,1601-01-01 00:00:00.0000000
+97,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,0000000b	000a000045630001	000a000045630001	014c	F46D4000-FD22-4DB4-AC8E-4E1DDDE828FE	cw5n1h2txyewy	neutral,AppCompatCache,1601-01-01 00:00:00.0000000
+98,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\System32\SecurityHealthSystray.exe,AppCompatCache,2018-09-15 05:06:44.5168978
+99,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,0000000b	03e8456300010000	03e8456300010000	014c	InputApp	cw5n1h2txyewy	neutral,AppCompatCache,1601-01-01 00:00:00.0000000
+100,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,0000000b	000a000045630001	000a000038390000	014c	Microsoft.AsyncTextService	8wekyb3d8bbwe	,AppCompatCache,1601-01-01 00:00:00.0000000
+101,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,0000000b	000a000045630001	000a000000000000	014c	Microsoft.CredDialogHost	cw5n1h2txyewy	,AppCompatCache,1601-01-01 00:00:00.0000000
+102,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,0000000b	000a000045630001	000a000038390000	014c	Microsoft.ECApp	8wekyb3d8bbwe	,AppCompatCache,1601-01-01 00:00:00.0000000
+103,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,0000000b	000a000045630001	000a000000000000	014c	Microsoft.LockApp	cw5n1h2txyewy	,AppCompatCache,1601-01-01 00:00:00.0000000
+104,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,0000000b	03e84563015c0000	000c000000000000	014c	Microsoft.MicrosoftEdgeDevToolsClient	8wekyb3d8bbwe	neutral,AppCompatCache,1601-01-01 00:00:00.0000000
+105,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,0000000b	000a000045630001	000b000000000000	014c	Microsoft.Win32WebViewHost	cw5n1h2txyewy	neutral,AppCompatCache,1601-01-01 00:00:00.0000000
+106,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,0000000b	03e8456300010000	000a000000000000	014c	Microsoft.Windows.Apprep.ChxApp	cw5n1h2txyewy	neutral,AppCompatCache,1601-01-01 00:00:00.0000000
+107,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,0000000b	03e8456300010000	000a000000000000	014c	Microsoft.Windows.AssignedAccessLockApp	cw5n1h2txyewy	neutral,AppCompatCache,1601-01-01 00:00:00.0000000
+108,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,0000000b	000a000045630001	000a000045630001	014c	Microsoft.Windows.CapturePicker	cw5n1h2txyewy	,AppCompatCache,1601-01-01 00:00:00.0000000
+109,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,0000000b	000a000045630001	000a0000452b0000	014c	Microsoft.Windows.NarratorQuickStart	8wekyb3d8bbwe	neutral,AppCompatCache,1601-01-01 00:00:00.0000000
+110,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,0000000b	03e8456300010000	000a000000000000	014c	Microsoft.Windows.ParentalControls	cw5n1h2txyewy	neutral,AppCompatCache,1601-01-01 00:00:00.0000000
+111,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,0000000b	03e8456300010000	000a000000000000	014c	Microsoft.Windows.PinningConfirmationDialog	cw5n1h2txyewy	,AppCompatCache,1601-01-01 00:00:00.0000000
+112,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,0000000b	000a000045630001	000a000045630001	014c	Microsoft.Windows.XGpuEjectDialog	cw5n1h2txyewy	neutral,AppCompatCache,1601-01-01 00:00:00.0000000
+113,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Program Files\Internet Explorer\iexplore.exe,AppCompatCache,2021-02-02 01:45:06.2040450
+114,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\system32\win32calc.exe,AppCompatCache,2018-09-15 06:27:12.6027684
+115,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\system32\RecoveryDrive.exe,AppCompatCache,2021-02-02 01:44:58.3449775
+116,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\system32\psr.exe,AppCompatCache,2021-02-02 01:44:44.9470599
+117,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\system32\odbcad32.exe,AppCompatCache,2018-09-15 05:07:18.3321995
+118,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\regedit.exe,AppCompatCache,2021-02-02 01:44:58.3339470
+119,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\system32\notepad.exe,AppCompatCache,2021-02-02 01:44:37.9392613
+120,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\system32\narrator.exe,AppCompatCache,2021-02-02 01:44:43.8150262
+121,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\system32\mspaint.exe,AppCompatCache,2021-02-02 01:44:37.3456687
+122,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\system32\SnippingTool.exe,AppCompatCache,2021-02-02 01:44:58.2396955
+123,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\system32\msinfo32.exe,AppCompatCache,2018-09-15 05:07:24.0201721
+124,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\system32\msconfig.exe,AppCompatCache,2018-09-15 05:07:19.2228964
+125,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\system32\MdSched.exe,AppCompatCache,2018-09-15 05:07:24.0045454
+126,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\system32\magnify.exe,AppCompatCache,2021-02-02 01:44:43.8481139
+127,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\system32\dfrgui.exe,AppCompatCache,2021-02-02 01:44:52.4000497
+128,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\system32\quickassist.exe,AppCompatCache,2021-02-02 01:45:06.5670169
+129,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\system32\cleanmgr.exe,AppCompatCache,2018-09-15 05:07:14.3318698
+130,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\system32\iscsicpl.exe,AppCompatCache,2018-09-15 05:07:16.3320384
+131,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\system32\charmap.exe,AppCompatCache,2018-09-15 05:07:19.4260387
+132,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Program Files\Windows NT\Accessories\wordpad.exe,AppCompatCache,2021-02-02 01:44:59.2754740
+133,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Program Files\Common Files\Microsoft Shared\Ink\mip.exe,AppCompatCache,2021-02-02 01:45:06.6682888
+134,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\system32\mstsc.exe,AppCompatCache,2021-02-02 01:44:58.8743971
+135,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Program Files\Windows Media Player\wmplayer.exe,AppCompatCache,2018-09-15 06:26:20.4770299
+136,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\system32\osk.exe,AppCompatCache,2018-09-15 05:06:50.6111539
+137,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\system32\control.exe,AppCompatCache,2018-09-15 05:06:27.9976704
+138,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\system32\WindowsPowerShell\v1.0\PowerShell_ISE.exe,AppCompatCache,2018-09-15 05:07:35.0992170
+139,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\Speech\Common\sapisvr.exe,AppCompatCache,2018-09-15 05:07:09.8158704
+140,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\system32\WFS.exe,AppCompatCache,2018-09-15 05:07:35.1304698
+141,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\system32\taskmgr.exe,AppCompatCache,2021-02-02 01:44:44.9891744
+142,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\system32\perfmon.exe,AppCompatCache,2018-09-15 05:07:19.2228964
+143,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,0000000b	000a000045630001	000a000042990000	014c	Windows.CBSPreview	cw5n1h2txyewy	neutral,AppCompatCache,1601-01-01 00:00:00.0000000
+144,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\System32\mobsync.exe,AppCompatCache,2018-09-15 05:07:20.6761454
+145,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,0000000b	0006000200010000	03e8456300010000	014c	Windows.PrintDialog	cw5n1h2txyewy	neutral,AppCompatCache,1601-01-01 00:00:00.0000000
+146,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\System32\SLUI.exe,AppCompatCache,2021-02-02 01:44:40.4800760
+147,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\system32\SppExtComObj.exe,AppCompatCache,2018-09-15 05:07:11.0972266
+148,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\System32\fsquirt.exe,AppCompatCache,2018-09-15 05:06:48.6578690
+149,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\system32\SettingSyncHost.exe,AppCompatCache,2021-02-02 01:44:40.3697799
+150,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe,AppCompatCache,2018-09-15 05:07:39.8808610
+151,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\System32\sihclient.exe,AppCompatCache,2021-02-02 01:44:59.2193224
+152,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\System32\FodHelper.exe,AppCompatCache,2018-09-15 05:07:18.4259571
+153,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\System32\WaaSMedicAgent.exe,AppCompatCache,2021-02-02 01:44:33.2737521
+154,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\system32\MusNotificationUx.exe,AppCompatCache,2021-02-02 01:44:41.1438536
+155,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\Application,AppCompatCache,2020-08-01 21:48:18.1033166
+156,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\Application,AppCompatCache,2020-08-01 21:48:19.4939514
+157,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\system32\MusNotification.exe,AppCompatCache,2021-02-02 01:44:41.1553856
+158,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\System32\wsqmcons.exe,AppCompatCache,2021-02-02 01:44:39.2176892
+159,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\system32\usoclient.exe,AppCompatCache,2021-02-02 01:44:41.0887072
+160,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\system32\sc.exe,AppCompatCache,2018-09-15 05:07:12.6442293
+161,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\System32\consent.exe,AppCompatCache,2021-02-02 01:44:50.5781631
+162,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,0000000b	000a0000000203e8	000a000045630001	014c	windows.immersivecontrolpanel	cw5n1h2txyewy	neutral,AppCompatCache,1601-01-01 00:00:00.0000000
+163,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\System32\unregmp2.exe,AppCompatCache,2018-09-15 06:26:20.4567456
+164,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\System32\ie4uinit.exe,AppCompatCache,2021-02-02 01:44:54.2740807
+165,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\system32\ctfmon.exe,AppCompatCache,2018-09-15 05:06:31.7323559
+166,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\system32\SecurityHealthService.exe,AppCompatCache,2021-02-10 19:58:43.1594433
+167,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\System32\oobe\UserOOBEBroker.exe,AppCompatCache,2021-02-02 01:44:37.8851176
+168,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\system32\lpremove.exe,AppCompatCache,2018-09-15 05:07:01.7527033
+169,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\System32\CloudExperienceHostBroker.exe,AppCompatCache,2021-02-02 01:44:43.3036459
+170,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\System32\RuntimeBroker.exe,AppCompatCache,2021-02-02 01:44:30.1243104
+171,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\System32\smartscreen.exe,AppCompatCache,2021-02-02 01:44:30.1092703
+172,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,0000000b	000a000045630001	000a000045630000	014c	Microsoft.Windows.CloudExperienceHost	cw5n1h2txyewy	neutral,AppCompatCache,1601-01-01 00:00:00.0000000
+173,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\SystemApps\Microsoft.Windows.CloudExperienceHost_cw5n1h2txyewy\Application,AppCompatCache,2020-08-01 21:48:17.6814416
+174,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\SystemApps\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\Application,AppCompatCache,2020-08-01 21:48:17.8689425
+175,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\system32\rundll32.exe,AppCompatCache,2021-02-02 01:44:40.7548116
+176,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\Explorer.EXE,AppCompatCache,2021-02-02 01:44:25.6372828
+177,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\system32\userinit.exe,AppCompatCache,2018-09-15 05:06:50.9549335
+178,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\system32\MDMAgent.exe,AppCompatCache,2021-02-02 01:44:24.4109942
+179,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\System32\sihost.exe,AppCompatCache,2021-02-02 01:44:33.6256969
+180,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\system32\LogonUI.exe,AppCompatCache,2018-09-15 05:06:29.5603033
+181,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\system32\SearchFilterHost.exe,AppCompatCache,2021-02-02 01:44:30.9570420
+182,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\system32\SearchProtocolHost.exe,AppCompatCache,2021-02-02 01:44:30.8983844
+183,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\TEMP\E2A66EA7-5BF5-4D4C-8FEF-9E6810D1CA42\MpSigStub.exe,AppCompatCache,2020-08-01 18:48:57.0980000
+184,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\system32\regsvr32.exe,AppCompatCache,2018-09-15 05:07:20.6448941
+185,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\Setup\scripts\mpam-fe.exe,AppCompatCache,2021-02-01 12:19:52.9838164
+186,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\system32\dxgiadaptercache.exe,AppCompatCache,2018-09-15 05:06:36.6077606
+187,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\System32\RemoteFXvGPUDisablement.exe,AppCompatCache,2021-02-02 01:45:02.6495190
+188,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\system32\wermgr.exe,AppCompatCache,2021-02-02 01:44:45.6689964
+189,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\system32\compattelrunner.exe,AppCompatCache,2021-02-02 01:44:43.9102809
+190,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\system32\cmd.exe,AppCompatCache,2021-02-02 01:44:36.3349583
+191,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\system32\devicecensus.exe,AppCompatCache,2021-02-02 01:44:46.1893926
+192,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\System32\taskhostw.exe,AppCompatCache,2021-02-02 01:44:26.7282067
+193,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\system32\SearchIndexer.exe,AppCompatCache,2021-02-02 01:44:31.0317416
+194,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\system32\utilman.exe,AppCompatCache,2021-02-02 01:44:43.4269762
+195,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\system32\oobe\FirstLogonAnim.exe,AppCompatCache,2018-09-15 05:07:06.6281051
+196,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\system32\mcbuilder.exe,AppCompatCache,2021-02-02 01:44:37.2143171
+197,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\system32\wbem\wmiprvse.exe,AppCompatCache,2018-09-15 05:06:52.5956940
+198,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\winsxs\x86_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.17763.1690_none_fab65c27e0cd20b7\TiWorker.exe,AppCompatCache,2018-09-15 04:08:41.6205805
+199,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\system32\DllHost.exe,AppCompatCache,2018-09-15 05:06:50.9549335
+200,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\system32\oobe\msoobe.exe,AppCompatCache,2021-02-02 01:44:37.9232186
+201,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\system32\oobe\oobeldr.exe,AppCompatCache,2021-02-02 01:44:40.9182494
+202,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\Microsoft.NET\Framework\v2.0.50727\aspnet_regiis.exe,AppCompatCache,2018-08-29 16:56:00.0000000
+203,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\WinSxS\x86_netfx35linq-linqwebconfig_31bf3856ad364e35_10.0.17763.1_none_ebb4040a87d45f1f\LinqWebConfig.exe,AppCompatCache,2018-08-29 16:56:00.0000000
+204,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\WinSxS\x86_netfx35cdf-csd_cdf_installer_31bf3856ad364e35_10.0.17763.1_none_ed0366a6cbc16d1b\WFServicesReg.exe,AppCompatCache,2018-08-29 16:56:00.0000000
+205,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\Microsoft.NET\Framework\v3.0\Windows Communication Foundation\SMConfigInstaller.exe,AppCompatCache,2021-02-02 01:42:03.2702994
+206,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\system32\provtool.exe,AppCompatCache,2021-02-02 01:44:25.3555270
+207,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,0000000b	03e8456300010000	000a000000000000	014c	Microsoft.XboxGameCallableUI	cw5n1h2txyewy	neutral,AppCompatCache,1601-01-01 00:00:00.0000000
+208,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,0000000b	000a000045630001	000a000045630001	014c	Microsoft.Windows.ShellExperienceHost	cw5n1h2txyewy	neutral,AppCompatCache,1601-01-01 00:00:00.0000000
+209,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,0000000b	000a000045630001	000a000045630001	014c	Microsoft.Windows.SecHealthUI	cw5n1h2txyewy	,AppCompatCache,1601-01-01 00:00:00.0000000
+210,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,0000000b	000a000045630001	000a000045630001	014c	Microsoft.Windows.PeopleExperienceHost	cw5n1h2txyewy	neutral,AppCompatCache,1601-01-01 00:00:00.0000000
+211,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,0000000b	0001000b00064563	000a000045630000	014c	Microsoft.Windows.Cortana	cw5n1h2txyewy	neutral,AppCompatCache,1601-01-01 00:00:00.0000000
+212,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,0000000b	000a000045630001	000a000000000000	014c	Microsoft.Windows.ContentDeliveryManager	cw5n1h2txyewy	neutral,AppCompatCache,1601-01-01 00:00:00.0000000
+213,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,0000000b	000a000045630001	000b000000000000	014c	Microsoft.Windows.CloudExperienceHost	cw5n1h2txyewy	neutral,AppCompatCache,1601-01-01 00:00:00.0000000
+214,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Program Files\Windows Defender\NisSrv.exe,AppCompatCache,2021-02-02 01:45:04.5801981
+215,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Program Files\Windows Defender\MpCmdRun.exe,AppCompatCache,2018-09-15 05:06:29.4977986
+216,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,0000000b	000a000045630001	000a00003fab0000	014c	Microsoft.BioEnrollment	cw5n1h2txyewy	,AppCompatCache,1601-01-01 00:00:00.0000000
+217,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,0000000b	000a000045630001	000a000045630001	014c	Microsoft.AccountsControl	cw5n1h2txyewy	,AppCompatCache,1601-01-01 00:00:00.0000000
+218,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,0000000b	03e8456300010000	000a0000295b0000	014c	Microsoft.AAD.BrokerPlugin	cw5n1h2txyewy	neutral,AppCompatCache,1601-01-01 00:00:00.0000000
+219,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\system32\DrvInst.exe,AppCompatCache,2021-02-02 01:44:37.8540321
+220,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Program Files\Windows Defender\MsMpEng.exe,AppCompatCache,2018-09-15 05:06:29.4977986
+221,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\System32\spoolsv.exe,AppCompatCache,2021-02-02 01:44:25.4257156
+222,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\system32\vssvc.exe,AppCompatCache,2021-02-10 19:58:43.4563180
+223,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\servicing\TrustedInstaller.exe,AppCompatCache,2021-02-02 01:44:47.0852958
+224,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\System32\Upfc.exe,AppCompatCache,2018-09-15 05:06:41.8135538
+225,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\system32\secinit.exe,AppCompatCache,2018-09-15 05:06:59.5493943
+226,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\system32\oobe\setup.exe,AppCompatCache,2021-02-02 01:44:40.2765299
+227,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\system32\oobe\windeploy.exe,AppCompatCache,2021-02-02 01:44:40.9152414
+228,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\system32\dwm.exe,AppCompatCache,2021-02-02 01:44:46.2244859
+229,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\system32\sppsvc.exe,AppCompatCache,2021-02-02 01:44:40.6956531
+230,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\system32\fontdrvhost.exe,AppCompatCache,2021-02-10 19:58:44.6281925
+231,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\system32\svchost.exe,AppCompatCache,2018-09-15 05:06:51.0799452
+232,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\system32\lsass.exe,AppCompatCache,2018-09-15 05:06:50.6736593
+233,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\system32\services.exe,AppCompatCache,2021-02-02 01:44:40.9493320

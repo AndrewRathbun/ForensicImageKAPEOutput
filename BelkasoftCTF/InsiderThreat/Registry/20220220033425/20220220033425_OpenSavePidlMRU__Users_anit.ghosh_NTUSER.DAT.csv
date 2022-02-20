@@ -1,0 +1,143 @@
+﻿Extension,BatchKeyPath,ValueName,BatchValueName,MruPosition,AbsolutePath,OpenedOn,Details
+*,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\ComDlg32\OpenSavePidlMRU\*,1,1,0,My Computer\Desktop\tmp\PHOTOS.7z,2021-02-14 02:35:38.6209837,"Type: Root folder: GUID, Value: My Computer
+
+
+Type: Root folder: GUID, Value: Desktop
+
+Extension blocks found: 1
+---------------------- Block 0 (Beef0026)----------------------
+Signature: 0xbeef0026
+Size: 38
+Version: 1
+Version Offset: 0x00
+
+
+Created: 2020-08-01 22:11:26.1503495
+Last modified: 2021-02-14 02:22:19.1370187
+Last accessed: 2021-02-14 02:22:19.1370187
+
+
+--------------------------------------------------
+
+Type: Directory, Value: tmp
+
+Extension blocks found: 1
+---------------------- Block 0 (Beef0004)----------------------
+Long name: tmp
+Created: 2021-02-14 02:11:56 +00:00
+Last access: 2021-02-14 02:21:44 +00:00
+MFT entry/sequence #: 60904/6 (0xEDE8/0x6)
+File system hint: NTFS
+
+--------------------------------------------------
+Short name: tmp
+Modified: 2021-02-14 02:21:44 +00:00
+
+
+Short name: PHOTOS.7z
+
+File size: 4,154,735
+Modified On: 2021-02-14 02:21:44.000  +00:00
+
+Type: File, Value: PHOTOS.7z
+
+Extension blocks found: 1
+---------------------- Block 0 (Beef0004)----------------------
+Long name: PHOTOS.7z
+Created: 2021-02-14 02:21:42 +00:00
+Last access: 2021-02-14 02:21:44 +00:00
+MFT entry/sequence #: 170242/4 (0x29902/0x4)
+File system hint: NTFS
+
+--------------------------------------------------
+
+"
+7z,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\ComDlg32\OpenSavePidlMRU\7z,0,0,0,My Computer\Desktop\tmp\PHOTOS.7z,2021-02-14 02:35:38.6209837,"Type: Root folder: GUID, Value: My Computer
+
+
+Type: Root folder: GUID, Value: Desktop
+
+Extension blocks found: 1
+---------------------- Block 0 (Beef0026)----------------------
+Signature: 0xbeef0026
+Size: 38
+Version: 1
+Version Offset: 0x00
+
+
+Created: 2020-08-01 22:11:26.1503495
+Last modified: 2021-02-14 02:22:19.1370187
+Last accessed: 2021-02-14 02:22:19.1370187
+
+
+--------------------------------------------------
+
+Type: Directory, Value: tmp
+
+Extension blocks found: 1
+---------------------- Block 0 (Beef0004)----------------------
+Long name: tmp
+Created: 2021-02-14 02:11:56 +00:00
+Last access: 2021-02-14 02:21:44 +00:00
+MFT entry/sequence #: 60904/6 (0xEDE8/0x6)
+File system hint: NTFS
+
+--------------------------------------------------
+Short name: tmp
+Modified: 2021-02-14 02:21:44 +00:00
+
+
+Short name: PHOTOS.7z
+
+File size: 4,154,735
+Modified On: 2021-02-14 02:21:44.000  +00:00
+
+Type: File, Value: PHOTOS.7z
+
+Extension blocks found: 1
+---------------------- Block 0 (Beef0004)----------------------
+Long name: PHOTOS.7z
+Created: 2021-02-14 02:21:42 +00:00
+Last access: 2021-02-14 02:21:44 +00:00
+MFT entry/sequence #: 170242/4 (0x29902/0x4)
+File system hint: NTFS
+
+--------------------------------------------------
+
+"
+*,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\ComDlg32\OpenSavePidlMRU\*,0,0,1,My Computer\Desktop\tmp,,"Type: Root folder: GUID, Value: My Computer
+
+
+Type: Root folder: GUID, Value: Desktop
+
+Extension blocks found: 1
+---------------------- Block 0 (Beef0026)----------------------
+Signature: 0xbeef0026
+Size: 38
+Version: 1
+Version Offset: 0x00
+
+
+Created: 2020-08-01 22:11:26.1503495
+Last modified: 2021-02-14 02:11:57.0240212
+Last accessed: 2021-02-14 02:11:57.0396399
+
+
+--------------------------------------------------
+
+Type: Directory, Value: tmp
+
+Extension blocks found: 1
+---------------------- Block 0 (Beef0004)----------------------
+Long name: tmp
+Created: 2021-02-14 02:11:56 +00:00
+Last access: 2021-02-14 02:15:40 +00:00
+MFT entry/sequence #: 60904/6 (0xEDE8/0x6)
+File system hint: NTFS
+
+--------------------------------------------------
+Short name: tmp
+Modified: 2021-02-14 02:15:40 +00:00
+
+
+"

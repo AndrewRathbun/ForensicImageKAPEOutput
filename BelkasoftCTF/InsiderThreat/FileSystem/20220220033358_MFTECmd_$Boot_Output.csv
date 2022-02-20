@@ -1,0 +1,2 @@
+﻿EntryPoint,Signature,BytesPerSector,SectorsPerCluster,ClusterSize,ReservedSectors,TotalSectors,MftClusterBlockNumber,MftMirrClusterBlockNumber,MftEntrySize,IndexEntrySize,VolumeSerialNumberRaw,VolumeSerialNumber,VolumeSerialNumber32,VolumeSerialNumber32Reverse,SectorSignature,SourceFile
+0xEB 0x52 0x90,"NTFS    ",512,8,4096,0,82757631,786432,2,1024,4096,0x34188F60188F1FCA,CA 1F 8F 18 60 8F 18 34,CA 1F 8F 18,18 8F 1F CA,55 AA,C:\Users\CFUser\OneDrive - Kroll\Training\BelkasoftCTFImages\BelkaDay_SUSPECT_LAPTOP\tout\F\$Boot
