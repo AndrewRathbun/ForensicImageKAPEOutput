@@ -1,0 +1,53 @@
+﻿Id,Platform,Name,AdditionalInformation,Expires
+fbbb6a1d-7229-d17a-b005-9c759281631a,data_boundary,microsoft.default.default,,2027-09-17 22:44:26
+fbbb6a1d-7229-d17a-b005-9c759281631a,host,,,2027-09-17 22:44:26
+b28094ab-c8ba-d814-2a70-fbfe33a93da4,data_boundary,microsoft.default.input,,2027-09-17 22:44:26
+b28094ab-c8ba-d814-2a70-fbfe33a93da4,host,,,2027-09-17 22:44:26
+b2632936-3d04-234c-7849-14c266f051be,Win32,microsoft.windows.explorer,,2020-10-18 22:44:55
+b2632936-3d04-234c-7849-14c266f051be,host,,,2020-10-18 22:44:55
+7094ba48-8b95-3ce2-5091-8cac1fee21d9,Win32,microsoft.windows.explorer,,2020-10-18 22:45:46
+7094ba48-8b95-3ce2-5091-8cac1fee21d9,packageid,microsoft.windows.explorer,,2020-10-18 22:45:46
+7094ba48-8b95-3ce2-5091-8cac1fee21d9,host,,,2020-10-18 22:45:46
+35d7a641-422b-444c-7581-19b5e1471374,Win32,microsoft.windows.explorer,,2020-10-18 22:45:27
+35d7a641-422b-444c-7581-19b5e1471374,packageid,microsoft.windows.explorer,,2020-10-18 22:45:27
+35d7a641-422b-444c-7581-19b5e1471374,host,,,2020-10-18 22:45:27
+9edf0a2e-68d6-e93e-2922-b0762bdfb348,Win32,microsoft.windows.explorer,,2020-10-18 22:45:35
+9edf0a2e-68d6-e93e-2922-b0762bdfb348,packageid,microsoft.windows.explorer,,2020-10-18 22:45:35
+9edf0a2e-68d6-e93e-2922-b0762bdfb348,host,,,2020-10-18 22:45:35
+3e990239-4acc-da82-db2b-a5c6ca112888,windows_universal,windows.immersivecontrolpanel_cw5n1h2txyewy,,2020-10-18 22:52:59
+3e990239-4acc-da82-db2b-a5c6ca112888,host,,,2020-10-18 22:52:59
+fe851f5b-9a06-70c1-c510-297e45ac669c,windows_universal,windows.immersivecontrolpanel_cw5n1h2txyewy,,2020-10-18 22:56:03
+fe851f5b-9a06-70c1-c510-297e45ac669c,packageid,windows.immersivecontrolpanel_cw5n1h2txyewy!microsoft.windows.immersivecontrolpanel,,2020-10-18 22:56:03
+fe851f5b-9a06-70c1-c510-297e45ac669c,host,,,2020-10-18 22:56:03
+b9370fdb-2819-421d-0833-465e0ada3bc5,Win32,{1ac14e77-02e7-4e5d-b744-2eb1ae5198b7}\cmd.exe,System32\cmd.exe,2020-10-18 22:53:11
+b9370fdb-2819-421d-0833-465e0ada3bc5,Win32,{d65231b0-b2f1-4857-a4ce-a8e7c6ea7d27}\cmd.exe,System32 x86\cmd.exe,2020-10-18 22:53:11
+b9370fdb-2819-421d-0833-465e0ada3bc5,host,,,2020-10-18 22:53:11
+21119b72-da5c-9869-1449-dc2ca22efed0,Win32,{1ac14e77-02e7-4e5d-b744-2eb1ae5198b7}\cmd.exe,System32\cmd.exe,2020-10-19 05:08:40
+21119b72-da5c-9869-1449-dc2ca22efed0,Win32,{d65231b0-b2f1-4857-a4ce-a8e7c6ea7d27}\cmd.exe,System32 x86\cmd.exe,2020-10-19 05:08:40
+21119b72-da5c-9869-1449-dc2ca22efed0,packageid,{1ac14e77-02e7-4e5d-b744-2eb1ae5198b7}\cmd.exe,System32\cmd.exe,2020-10-19 05:08:40
+21119b72-da5c-9869-1449-dc2ca22efed0,host,,,2020-10-19 05:08:40
+58b41ed1-261b-0284-12bb-b0b4f525c3f8,Win32,{1ac14e77-02e7-4e5d-b744-2eb1ae5198b7}\snippingtool.exe,System32\snippingtool.exe,2020-10-19 05:09:10
+58b41ed1-261b-0284-12bb-b0b4f525c3f8,Win32,{d65231b0-b2f1-4857-a4ce-a8e7c6ea7d27}\snippingtool.exe,System32 x86\snippingtool.exe,2020-10-19 05:09:10
+58b41ed1-261b-0284-12bb-b0b4f525c3f8,host,,,2020-10-19 05:09:10
+4e632ecf-7023-251e-8f44-738351ee7612,Win32,{1ac14e77-02e7-4e5d-b744-2eb1ae5198b7}\msinfo32.exe,System32\msinfo32.exe,2020-10-19 05:09:13
+4e632ecf-7023-251e-8f44-738351ee7612,Win32,{d65231b0-b2f1-4857-a4ce-a8e7c6ea7d27}\msinfo32.exe,System32 x86\msinfo32.exe,2020-10-19 05:09:13
+4e632ecf-7023-251e-8f44-738351ee7612,host,,,2020-10-19 05:09:13
+5ea3a758-b2a1-3b48-abe8-2e566bab806f,Win32,{1ac14e77-02e7-4e5d-b744-2eb1ae5198b7}\msinfo32.exe,System32\msinfo32.exe,2020-10-19 05:09:19
+5ea3a758-b2a1-3b48-abe8-2e566bab806f,Win32,{d65231b0-b2f1-4857-a4ce-a8e7c6ea7d27}\msinfo32.exe,System32 x86\msinfo32.exe,2020-10-19 05:09:19
+5ea3a758-b2a1-3b48-abe8-2e566bab806f,packageid,{1ac14e77-02e7-4e5d-b744-2eb1ae5198b7}\msinfo32.exe,System32\msinfo32.exe,2020-10-19 05:09:19
+5ea3a758-b2a1-3b48-abe8-2e566bab806f,host,,,2020-10-19 05:09:19
+446aa581-5d7c-caa4-edce-36e10befe59d,Win32,microsoft.windows.explorer,,2020-10-19 05:13:23
+446aa581-5d7c-caa4-edce-36e10befe59d,packageid,microsoft.windows.explorer,,2020-10-19 05:13:23
+446aa581-5d7c-caa4-edce-36e10befe59d,host,,,2020-10-19 05:13:23
+7dff8a4b-fca4-2e35-c04f-ada337ea18f7,ExecutablePath,e:\ftk imager\ftk imager.exe,,2020-10-19 05:09:58
+7dff8a4b-fca4-2e35-c04f-ada337ea18f7,host,,,2020-10-19 05:09:58
+00e9bfad-6aa8-db28-d5a8-496af119549f,ExecutablePath,e:\ftk imager\ftk imager.exe,,2020-10-19 05:18:11
+00e9bfad-6aa8-db28-d5a8-496af119549f,packageid,e:\ftk imager\ftk imager.exe,,2020-10-19 05:18:11
+00e9bfad-6aa8-db28-d5a8-496af119549f,host,,,2020-10-19 05:18:11
+fb05f7fd-1d6c-4ca1-24cb-990b7953c272,Win32,{1ac14e77-02e7-4e5d-b744-2eb1ae5198b7}\snippingtool.exe,System32\snippingtool.exe,2020-10-19 05:10:05
+fb05f7fd-1d6c-4ca1-24cb-990b7953c272,Win32,{d65231b0-b2f1-4857-a4ce-a8e7c6ea7d27}\snippingtool.exe,System32 x86\snippingtool.exe,2020-10-19 05:10:05
+fb05f7fd-1d6c-4ca1-24cb-990b7953c272,packageid,{1ac14e77-02e7-4e5d-b744-2eb1ae5198b7}\snippingtool.exe,System32\snippingtool.exe,2020-10-19 05:10:05
+fb05f7fd-1d6c-4ca1-24cb-990b7953c272,host,,,2020-10-19 05:10:05
+4c642541-5da5-79ad-b009-c85c1b0422d6,ExecutablePath,e:\ftk imager\ftk imager.exe,,2020-10-19 05:13:06
+4c642541-5da5-79ad-b009-c85c1b0422d6,packageid,e:\ftk imager\ftk imager.exe,,2020-10-19 05:13:06
+4c642541-5da5-79ad-b009-c85c1b0422d6,host,,,2020-10-19 05:13:06

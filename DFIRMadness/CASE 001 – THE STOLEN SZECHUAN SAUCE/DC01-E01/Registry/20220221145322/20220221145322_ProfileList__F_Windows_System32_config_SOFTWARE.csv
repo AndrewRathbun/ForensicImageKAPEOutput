@@ -1,0 +1,5 @@
+﻿Timestamp,BatchKeyPath,KeyName,BatchValueName,ProfileImagePath
+2020-09-17 17:56:13.7464007,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Microsoft\Windows NT\CurrentVersion\ProfileList\S-1-5-18,S-1-5-18,Multiple,%systemroot%\system32\config\systemprofile
+2020-09-17 17:56:13.7464007,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Microsoft\Windows NT\CurrentVersion\ProfileList\S-1-5-19,S-1-5-19,Multiple,C:\Windows\ServiceProfiles\LocalService
+2020-09-17 17:56:13.7464007,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Microsoft\Windows NT\CurrentVersion\ProfileList\S-1-5-20,S-1-5-20,Multiple,C:\Windows\ServiceProfiles\NetworkService
+2020-09-19 04:36:03.4847688,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Microsoft\Windows NT\CurrentVersion\ProfileList\S-1-5-21-2232410529-1445159330-2725690660-500,S-1-5-21-2232410529-1445159330-2725690660-500,Multiple,C:\Users\Administrator

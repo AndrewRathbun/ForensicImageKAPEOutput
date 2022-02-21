@@ -1,0 +1,35 @@
+BagPath,Slot,NodeSlot,MRUPosition,AbsolutePath,ShellType,Value,ChildBags,CreatedOn,ModifiedOn,AccessedOn,LastWriteTime,MFTEntry,MFTSequenceNumber,ExtensionBlockCount,FirstInteracted,LastInteracted,HasExplored,Miscellaneous
+BagMRU,0,0,1,Desktop\Home Folder,Root folder: GUID,Home Folder,0,,,,2020-09-19 03:51:14,,,0,2020-09-19 03:38:45,,False,
+BagMRU,1,0,0,Desktop\My Computer,Root folder: GUID,My Computer,7,,,,2020-09-19 03:51:14,,,0,,2020-09-19 03:51:14,False,
+BagMRU\1,0,2,2,Desktop\My Computer\Documents,Root folder: GUID,Documents,0,,,,2020-09-19 03:51:47,,,1,2020-09-19 03:38:45,,True,
+BagMRU\1,1,3,1,Desktop\My Computer\Pictures,Root folder: GUID,Pictures,2,,,,2020-09-19 03:51:47,,,1,,,True,
+BagMRU\1,2,6,3,Desktop\My Computer\Downloads,Root folder: GUID,Downloads,0,,,,2020-09-19 03:51:47,,,1,2020-09-19 03:38:55,,True,
+BagMRU\1,3,7,6,Desktop\My Computer\Desktop,Root folder: GUID,Desktop,0,,,,2020-09-19 03:51:47,,,1,2020-09-19 03:38:57,,True,
+BagMRU\1,4,8,0,Desktop\My Computer\Music,Root folder: GUID,Music,0,,,,2020-09-19 03:51:47,,,1,2020-09-19 03:38:58,2020-09-19 03:51:47,True,
+BagMRU\1,5,9,5,Desktop\My Computer\Videos,Root folder: GUID,Videos,0,,,,2020-09-19 03:51:47,,,1,2020-09-19 03:38:59,,True,
+BagMRU\1,6,12,4,Desktop\My Computer\C:,Drive letter,C:,2,,,,2020-09-19 03:51:47,,,0,,,True,
+BagMRU\1\1,0,4,0,Desktop\My Computer\Pictures\Saved Pictures,Directory,Saved Pictures,0,2020-09-19 03:36:48,2020-09-19 03:36:48,2020-09-19 03:36:48,2020-09-19 03:51:46,24439,2,1,2020-09-19 03:38:51,2020-09-19 03:51:46,False,NTFS file system
+BagMRU\1\1,1,5,1,Desktop\My Computer\Pictures\Camera Roll,Directory,Camera Roll,0,2020-09-19 03:36:48,2020-09-19 03:36:48,2020-09-19 03:36:48,2020-09-19 03:51:46,24343,2,1,2020-09-19 03:38:53,,False,NTFS file system
+BagMRU\1\6,0,15,0,Desktop\My Computer\C:\Users,Directory,Users,4,,,,2020-09-19 03:45:02,0,,1,,2020-09-19 03:45:02,False,
+BagMRU\1\6,1,13,1,Desktop\My Computer\C:\Windows,Directory,Windows,1,2019-12-07 09:03:46,2020-09-18 05:51:28,2020-09-19 03:13:22,2020-09-19 03:45:02,1532,1,1,,,False,NTFS file system
+BagMRU\1\6\0,0,0,3,Desktop\My Computer\C:\Users\Administrator,Directory,Administrator,1,,,,2020-09-19 03:49:41,0,,1,,,False,
+BagMRU\1\6\0,1,16,2,Desktop\My Computer\C:\Users\Admin,Directory,Admin,5,2020-09-18 05:49:10,2020-09-18 05:56:32,2020-09-19 03:15:58,2020-09-19 03:49:41,84001,1,1,,,False,NTFS file system
+BagMRU\1\6\0,2,22,1,Desktop\My Computer\C:\Users\mortysmith,Directory,mortysmith,6,2020-09-18 22:46:40,2020-09-18 23:00:22,2020-09-19 03:39:34,2020-09-19 03:49:41,88815,2,1,,,False,NTFS file system
+BagMRU\1\6\0,3,29,0,Desktop\My Computer\C:\Users\ricksanchez,Directory,ricksanchez,4,2020-09-18 22:44:12,2020-09-18 22:44:58,2020-09-19 03:45:04,2020-09-19 03:49:41,87848,2,1,,2020-09-19 03:49:41,False,NTFS file system
+BagMRU\1\6\0\0,0,10,0,Desktop\My Computer\C:\Users\Administrator\Downloads,Directory,Downloads,0,2020-09-19 03:36:26,2020-09-19 03:36:34,2020-09-19 03:38:56,2020-09-19 03:40:04,0,,1,2020-09-19 03:40:04,2020-09-19 03:40:04,False,
+BagMRU\1\6\0\1,0,17,4,Desktop\My Computer\C:\Users\Admin\Documents,Directory,Documents,0,2020-09-18 05:49:10,2020-09-18 05:49:50,2020-09-19 03:45:04,2020-09-19 03:45:19,84010,1,1,2020-09-19 03:45:07,,False,NTFS file system
+BagMRU\1\6\0\1,1,18,3,Desktop\My Computer\C:\Users\Admin\Downloads,Directory,Downloads,0,2020-09-18 05:49:10,2020-09-18 05:49:48,2020-09-19 03:45:04,2020-09-19 03:45:19,84009,1,1,2020-09-19 03:45:09,,False,NTFS file system
+BagMRU\1\6\0\1,2,19,2,Desktop\My Computer\C:\Users\Admin\Music,Directory,Music,0,2020-09-18 05:49:10,2020-09-18 05:49:48,2020-09-19 03:45:04,2020-09-19 03:45:19,84006,1,1,2020-09-19 03:45:13,,False,NTFS file system
+BagMRU\1\6\0\1,3,20,1,Desktop\My Computer\C:\Users\Admin\OneDrive,Directory,OneDrive,0,2020-09-18 05:56:32,2020-09-18 21:41:12,2020-09-19 03:16:26,2020-09-19 03:45:19,85570,2,1,2020-09-19 03:45:15,,False,NTFS file system
+BagMRU\1\6\0\1,4,21,0,Desktop\My Computer\C:\Users\Admin\Pictures,Directory,Pictures,0,2020-09-18 05:49:10,2020-09-18 05:51:46,2020-09-19 03:16:58,2020-09-19 03:45:19,84005,1,1,2020-09-19 03:45:19,2020-09-19 03:45:19,False,NTFS file system
+BagMRU\1\6\0\2,0,23,5,Desktop\My Computer\C:\Users\mortysmith\Documents,Directory,Documents,0,2020-09-18 22:46:40,2020-09-18 23:07:46,2020-09-19 03:45:04,2020-09-19 03:49:12,88824,2,1,2020-09-19 03:45:29,,False,NTFS file system
+BagMRU\1\6\0\2,1,24,4,Desktop\My Computer\C:\Users\mortysmith\Downloads,Directory,Downloads,0,2020-09-18 22:46:40,2020-09-18 22:46:46,2020-09-19 03:45:04,2020-09-19 03:49:12,88823,2,1,2020-09-19 03:47:32,,False,NTFS file system
+BagMRU\1\6\0\2,2,25,3,Desktop\My Computer\C:\Users\mortysmith\Desktop,Directory,Desktop,0,2020-09-18 22:46:40,2020-09-18 22:47:36,2020-09-19 03:45:04,2020-09-19 03:49:12,88825,2,1,2020-09-19 03:47:37,,False,NTFS file system
+BagMRU\1\6\0\2,3,26,2,Desktop\My Computer\C:\Users\mortysmith\Music,Directory,Music,0,2020-09-18 22:46:40,2020-09-18 22:46:46,2020-09-19 03:45:04,2020-09-19 03:49:12,88820,2,1,2020-09-19 03:49:06,,False,NTFS file system
+BagMRU\1\6\0\2,4,27,1,Desktop\My Computer\C:\Users\mortysmith\Videos,Directory,Videos,0,2020-09-18 22:46:40,2020-09-18 22:46:46,2020-09-19 03:45:04,2020-09-19 03:49:12,88817,2,1,2020-09-19 03:49:09,,False,NTFS file system
+BagMRU\1\6\0\2,5,28,0,Desktop\My Computer\C:\Users\mortysmith\Saved Games,Directory,Saved Games,0,2020-09-18 22:46:40,2020-09-18 22:46:46,2020-09-19 03:45:04,2020-09-19 03:49:12,88818,2,1,2020-09-19 03:49:12,2020-09-19 03:49:12,False,NTFS file system
+BagMRU\1\6\0\3,0,30,3,Desktop\My Computer\C:\Users\ricksanchez\Desktop,Directory,Desktop,0,2020-09-18 22:44:12,2020-09-18 22:44:36,2020-09-19 03:45:04,2020-09-19 03:51:14,87868,1,1,2020-09-19 03:49:46,,False,NTFS file system
+BagMRU\1\6\0\3,1,31,2,Desktop\My Computer\C:\Users\ricksanchez\Documents,Directory,Documents,0,2020-09-18 22:44:12,2020-09-18 22:44:18,2020-09-19 03:45:04,2020-09-19 03:51:14,87867,1,1,2020-09-19 03:49:49,,False,NTFS file system
+BagMRU\1\6\0\3,2,32,1,Desktop\My Computer\C:\Users\ricksanchez\Downloads,Directory,Downloads,0,2020-09-18 22:44:12,2020-09-18 22:44:18,2020-09-19 03:45:04,2020-09-19 03:51:14,87866,1,1,2020-09-19 03:49:53,,False,NTFS file system
+BagMRU\1\6\0\3,3,33,0,Desktop\My Computer\C:\Users\ricksanchez\Saved Games,Directory,Saved Games,0,2020-09-18 22:44:12,2020-09-18 22:44:18,2020-09-19 03:45:04,2020-09-19 03:51:14,87861,1,1,2020-09-19 03:51:14,2020-09-19 03:51:14,False,NTFS file system
+BagMRU\1\6\1,0,14,0,Desktop\My Computer\C:\Windows\System32,Directory,System32,0,2019-12-07 09:03:46,2020-09-19 01:32:38,2020-09-19 03:13:22,2020-09-19 03:40:23,3254,1,1,2020-09-19 03:40:23,2020-09-19 03:40:23,False,NTFS file system

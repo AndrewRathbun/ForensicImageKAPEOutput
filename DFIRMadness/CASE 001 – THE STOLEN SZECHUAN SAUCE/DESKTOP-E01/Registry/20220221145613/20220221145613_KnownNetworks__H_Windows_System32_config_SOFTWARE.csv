@@ -1,0 +1,3 @@
+﻿FirstNetwork,BatchKeyPath,NetworkName,BatchValueName,NameType,FirstConnectLOCAL,LastConnectedLOCAL,Managed,DNSSuffix,GatewayMacAddress,ProfileGUID
+C137.local,ROOT\Microsoft\Windows NT\CurrentVersion\NetworkList\Profiles\{443F0527-5A37-4052-9EA3-420152510134},C137.local,Multiple,Wired,2020-09-18 14:42:45.7550000,2020-09-18 20:13:21.2060000,True,<none>,00-0C-29-95-CD-21,{443F0527-5A37-4052-9EA3-420152510134}
+Network,ROOT\Microsoft\Windows NT\CurrentVersion\NetworkList\Profiles\{CA3257C5-2EAA-4FFF-87FE-AA719CD151CC},Network,Multiple,Wired,2020-09-17 21:58:02.4870000,2020-09-18 18:07:14.7870000,False,<none>,00-0C-29-95-CD-21,{CA3257C5-2EAA-4FFF-87FE-AA719CD151CC}

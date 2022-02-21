@@ -1,0 +1,81 @@
+SBECmd version 1.4.0.0
+
+Author: Eric Zimmerman (saericzimmerman@gmail.com)
+https://github.com/EricZimmerman
+
+Command line: -d D:\dfirmadness\DC01-E01\tout --csv D:\dfirmadness\DC01-E01\mout\FileFolderAccess -q
+
+Directory to process: D:\dfirmadness\DC01-E01\tout
+Deduplication: False
+All messages will be saved to 'D:\dfirmadness\DC01-E01\mout\FileFolderAccess\!SBECmd_Messages.txt'
+Time zone: UTC
+
+Processing 'D:\dfirmadness\DC01-E01\tout\F\Users\Administrator\NTUSER.DAT'
+Dropping System.Byte[] because the log's header.PrimarySequenceNumber is less than the hive's header.SecondarySequenceNumber
+Single log file available: D:\dfirmadness\DC01-E01\tout\F\Users\Administrator\ntuser.dat.LOG1
+Replaying log file: D:\dfirmadness\DC01-E01\tout\F\Users\Administrator\ntuser.dat.LOG1
+At least one transaction log was applied. Sequence numbers have been updated to 0x007E. New Checksum: 0xDF9139FB
+
+Parse time: 0.14 seconds
+
+	Total ShellBags found: 0
+
+	Totals by bag type
+
+
+Finished processing 'D:\dfirmadness\DC01-E01\tout\F\Users\Administrator\NTUSER.DAT'
+
+Exported to: 'D:\dfirmadness\DC01-E01\mout\FileFolderAccess\D__dfirmadness_DC01-E01_tout_F_Users_Administrator_NTUSER.DAT.csv'
+
+---------------------------------------------------------------------
+Processing 'D:\dfirmadness\DC01-E01\tout\F\Users\Default\NTUSER.DAT'
+	There was an error processing 'D:\dfirmadness\DC01-E01\tout\F\Users\Default\NTUSER.DAT'. Error message: 'Software\Microsoft\Windows\Shell\BagMRU' not found in 'C:\Users\Default\NTUSER.DAT'
+
+Processing 'D:\dfirmadness\DC01-E01\tout\F\Windows\ServiceProfiles\LocalService\NTUSER.DAT'
+Two transaction logs found. Determining primary log...
+Primary log: D:\dfirmadness\DC01-E01\tout\F\Windows\ServiceProfiles\LocalService\NTUSER.DAT.LOG2, secondary log: D:\dfirmadness\DC01-E01\tout\F\Windows\ServiceProfiles\LocalService\NTUSER.DAT.LOG1
+Replaying log file: D:\dfirmadness\DC01-E01\tout\F\Windows\ServiceProfiles\LocalService\NTUSER.DAT.LOG2
+Replaying log file: D:\dfirmadness\DC01-E01\tout\F\Windows\ServiceProfiles\LocalService\NTUSER.DAT.LOG1
+At least one transaction log was applied. Sequence numbers have been updated to 0x0031. New Checksum: 0x497FDFBA
+	There was an error processing 'D:\dfirmadness\DC01-E01\tout\F\Windows\ServiceProfiles\LocalService\NTUSER.DAT'. Error message: 'Software\Microsoft\Windows\Shell\BagMRU' not found in 'rofiles\LocalService\NTUSER.DAT'
+
+Processing 'D:\dfirmadness\DC01-E01\tout\F\Windows\ServiceProfiles\NetworkService\NTUSER.DAT'
+Two transaction logs found. Determining primary log...
+Primary log: D:\dfirmadness\DC01-E01\tout\F\Windows\ServiceProfiles\NetworkService\NTUSER.DAT.LOG1, secondary log: D:\dfirmadness\DC01-E01\tout\F\Windows\ServiceProfiles\NetworkService\NTUSER.DAT.LOG2
+Replaying log file: D:\dfirmadness\DC01-E01\tout\F\Windows\ServiceProfiles\NetworkService\NTUSER.DAT.LOG1
+Replaying log file: D:\dfirmadness\DC01-E01\tout\F\Windows\ServiceProfiles\NetworkService\NTUSER.DAT.LOG2
+At least one transaction log was applied. Sequence numbers have been updated to 0x002F. New Checksum: 0x7334885B
+	There was an error processing 'D:\dfirmadness\DC01-E01\tout\F\Windows\ServiceProfiles\NetworkService\NTUSER.DAT'. Error message: 'Software\Microsoft\Windows\Shell\BagMRU' not found in 'files\NetworkService\NTUSER.DAT'
+
+Processing 'D:\dfirmadness\DC01-E01\tout\F\Windows\System32\config\systemprofile\ntuser.dat'
+	There was an error processing 'D:\dfirmadness\DC01-E01\tout\F\Windows\System32\config\systemprofile\ntuser.dat'. Error message: 'Software\Microsoft\Windows\Shell\BagMRU' not found in 'config\systemprofile\NTUSER.DAT'
+
+Processing 'D:\dfirmadness\DC01-E01\tout\F\Users\Administrator\AppData\Local\Microsoft\Windows\UsrClass.dat'
+Dropping System.Byte[] because the log's header.PrimarySequenceNumber is less than the hive's header.SecondarySequenceNumber
+Single log file available: D:\dfirmadness\DC01-E01\tout\F\Users\Administrator\AppData\Local\Microsoft\Windows\UsrClass.dat.LOG1
+Replaying log file: D:\dfirmadness\DC01-E01\tout\F\Users\Administrator\AppData\Local\Microsoft\Windows\UsrClass.dat.LOG1
+At least one transaction log was applied. Sequence numbers have been updated to 0x0027. New Checksum: 0x3CC72619
+
+Parse time: 0.04 seconds
+
+	Total ShellBags found: 27
+
+	Totals by bag type
+
+	Directory: 17
+	Drive letter: 2
+	Root folder: GUID: 3
+	GUID: Control panel: 3
+	Control Panel Category: 2
+
+Finished processing 'D:\dfirmadness\DC01-E01\tout\F\Users\Administrator\AppData\Local\Microsoft\Windows\UsrClass.dat'
+
+Exported to: 'D:\dfirmadness\DC01-E01\mout\FileFolderAccess\D__dfirmadness_DC01-E01_tout_F_Users_Administrator_AppData_Local_Microsoft_Windows_UsrClass.dat.csv'
+
+---------------------------------------------------------------------
+
+Processing complete!
+Processed 6 file(s) in 0.19 seconds!
+Total ShellBags found: 27
+
+

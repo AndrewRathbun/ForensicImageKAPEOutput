@@ -1,0 +1,60 @@
+﻿Id,Platform,Name,AdditionalInformation,Expires
+fedcdb3a-518c-741c-1d36-c538009c1113,data_boundary,microsoft.default.default,,2027-09-17 05:50:00
+fedcdb3a-518c-741c-1d36-c538009c1113,host,,,2027-09-17 05:50:00
+2c44b826-b901-f46c-6e6a-4c6526484436,data_boundary,microsoft.default.input,,2027-09-17 05:51:24
+2c44b826-b901-f46c-6e6a-4c6526484436,host,,,2027-09-17 05:51:24
+2cb61d74-ed2c-8479-2a4d-5798bb5628f3,ExecutablePath,d:\setup64.exe,,2020-10-18 05:52:05
+2cb61d74-ed2c-8479-2a4d-5798bb5628f3,host,,,2020-10-18 05:52:05
+a217b381-e90e-828a-d25c-265049453f2d,ExecutablePath,d:\setup64.exe,,2020-10-18 05:52:11
+a217b381-e90e-828a-d25c-265049453f2d,packageid,d:\setup64.exe,,2020-10-18 05:52:11
+a217b381-e90e-828a-d25c-265049453f2d,host,,,2020-10-18 05:52:11
+17ac98ae-88f7-4677-4584-c839b3a72b1f,ExecutablePath,d:\setup64.exe,,2020-10-18 05:52:54
+17ac98ae-88f7-4677-4584-c839b3a72b1f,packageid,d:\setup64.exe,,2020-10-18 05:52:54
+17ac98ae-88f7-4677-4584-c839b3a72b1f,host,,,2020-10-18 05:52:54
+43308c05-e902-4041-15fa-f99cc5c753ff,ExecutablePath,d:\setup64.exe,,2020-10-18 05:54:34
+43308c05-e902-4041-15fa-f99cc5c753ff,packageid,d:\setup64.exe,,2020-10-18 05:54:34
+43308c05-e902-4041-15fa-f99cc5c753ff,host,,,2020-10-18 05:54:34
+66a1bc2f-aaef-3002-713a-d002499eb559,windows_universal,windows.immersivecontrolpanel_cw5n1h2txyewy,,2020-10-18 05:55:09
+66a1bc2f-aaef-3002-713a-d002499eb559,host,,,2020-10-18 05:55:09
+5e4ad5a5-0b9a-bcbb-da02-6e6504c6a4f4,windows_universal,windows.immersivecontrolpanel_cw5n1h2txyewy,,2020-10-18 05:56:13
+5e4ad5a5-0b9a-bcbb-da02-6e6504c6a4f4,packageid,windows.immersivecontrolpanel_cw5n1h2txyewy!microsoft.windows.immersivecontrolpanel,,2020-10-18 05:56:13
+5e4ad5a5-0b9a-bcbb-da02-6e6504c6a4f4,host,,,2020-10-18 05:56:13
+21c49636-64eb-31ab-507e-998dc7f868f5,windows_universal,windows.immersivecontrolpanel_cw5n1h2txyewy,,2020-10-18 04:58:11
+21c49636-64eb-31ab-507e-998dc7f868f5,packageid,windows.immersivecontrolpanel_cw5n1h2txyewy!microsoft.windows.immersivecontrolpanel,,2020-10-18 04:58:11
+21c49636-64eb-31ab-507e-998dc7f868f5,host,,,2020-10-18 04:58:11
+9cde4cdf-960e-ca94-67c1-b3f5f685d49f,Win32,microsoft.windows.controlpanel,,2020-10-18 05:56:48
+9cde4cdf-960e-ca94-67c1-b3f5f685d49f,host,,,2020-10-18 05:56:48
+2244b3cf-f3d5-daa4-ec57-9baf2b0d6cc3,Win32,microsoft.windows.controlpanel,,2020-10-18 05:58:00
+2244b3cf-f3d5-daa4-ec57-9baf2b0d6cc3,packageid,microsoft.windows.controlpanel,,2020-10-18 05:58:00
+2244b3cf-f3d5-daa4-ec57-9baf2b0d6cc3,host,,,2020-10-18 05:58:00
+40aa1cd0-a254-db3c-7158-f5700fd659e1,windows_universal,windows.immersivecontrolpanel_cw5n1h2txyewy,,2020-10-18 21:41:05
+40aa1cd0-a254-db3c-7158-f5700fd659e1,packageid,windows.immersivecontrolpanel_cw5n1h2txyewy!microsoft.windows.immersivecontrolpanel,,2020-10-18 21:41:05
+40aa1cd0-a254-db3c-7158-f5700fd659e1,host,,,2020-10-18 21:41:05
+dc096c29-dbfd-b5c6-a1e3-816bbcb3b6bc,windows_universal,windows.immersivecontrolpanel_cw5n1h2txyewy,,2020-10-18 21:42:27
+dc096c29-dbfd-b5c6-a1e3-816bbcb3b6bc,packageid,windows.immersivecontrolpanel_cw5n1h2txyewy!microsoft.windows.immersivecontrolpanel,,2020-10-18 21:42:27
+dc096c29-dbfd-b5c6-a1e3-816bbcb3b6bc,host,,,2020-10-18 21:42:27
+d1af2db5-66c7-a234-e38f-30dfc4a0e988,Win32,microsoft.windows.explorer,,2020-10-18 21:41:19
+d1af2db5-66c7-a234-e38f-30dfc4a0e988,host,,,2020-10-18 21:41:19
+9d141593-d703-632d-9a0b-b26b562d1aa4,Win32,microsoft.windows.explorer,,2020-10-18 21:41:22
+9d141593-d703-632d-9a0b-b26b562d1aa4,packageid,microsoft.windows.explorer,,2020-10-18 21:41:22
+9d141593-d703-632d-9a0b-b26b562d1aa4,host,,,2020-10-18 21:41:22
+c990a5df-0c1c-d04c-4659-5ae3b8860c09,Win32,microsoft.windows.controlpanel,,2020-10-18 21:41:30
+c990a5df-0c1c-d04c-4659-5ae3b8860c09,packageid,microsoft.windows.controlpanel,,2020-10-18 21:41:30
+c990a5df-0c1c-d04c-4659-5ae3b8860c09,host,,,2020-10-18 21:41:30
+5b3727d5-7ec7-6dce-bdcd-1873017bff35,Win32,{1ac14e77-02e7-4e5d-b744-2eb1ae5198b7}\cmd.exe,System32\cmd.exe,2020-10-19 01:07:56
+5b3727d5-7ec7-6dce-bdcd-1873017bff35,Win32,{d65231b0-b2f1-4857-a4ce-a8e7c6ea7d27}\cmd.exe,System32 x86\cmd.exe,2020-10-19 01:07:56
+5b3727d5-7ec7-6dce-bdcd-1873017bff35,host,,,2020-10-19 01:07:56
+7784b275-8754-e60b-5b84-b96c8ebff350,Win32,{1ac14e77-02e7-4e5d-b744-2eb1ae5198b7}\cmd.exe,System32\cmd.exe,2020-10-19 01:08:26
+7784b275-8754-e60b-5b84-b96c8ebff350,Win32,{d65231b0-b2f1-4857-a4ce-a8e7c6ea7d27}\cmd.exe,System32 x86\cmd.exe,2020-10-19 01:08:26
+7784b275-8754-e60b-5b84-b96c8ebff350,packageid,{1ac14e77-02e7-4e5d-b744-2eb1ae5198b7}\cmd.exe,System32\cmd.exe,2020-10-19 01:08:26
+7784b275-8754-e60b-5b84-b96c8ebff350,host,,,2020-10-19 01:08:26
+f984aba7-30c4-4042-08d3-90c7fe84e28e,ExecutablePath,{1ac14e77-02e7-4e5d-b744-2eb1ae5198b7}\wscript.exe,System32\wscript.exe,2020-10-19 01:08:26
+f984aba7-30c4-4042-08d3-90c7fe84e28e,ExecutablePath,{d65231b0-b2f1-4857-a4ce-a8e7c6ea7d27}\wscript.exe,System32 x86\wscript.exe,2020-10-19 01:08:26
+f984aba7-30c4-4042-08d3-90c7fe84e28e,host,,,2020-10-19 01:08:26
+bad6974f-e941-032b-f75e-c359617090a5,ExecutablePath,{1ac14e77-02e7-4e5d-b744-2eb1ae5198b7}\wscript.exe,System32\wscript.exe,2020-10-19 01:08:29
+bad6974f-e941-032b-f75e-c359617090a5,ExecutablePath,{d65231b0-b2f1-4857-a4ce-a8e7c6ea7d27}\wscript.exe,System32 x86\wscript.exe,2020-10-19 01:08:29
+bad6974f-e941-032b-f75e-c359617090a5,packageid,{1ac14e77-02e7-4e5d-b744-2eb1ae5198b7}\wscript.exe,System32\wscript.exe,2020-10-19 01:08:29
+bad6974f-e941-032b-f75e-c359617090a5,host,,,2020-10-19 01:08:29
+7459300d-b048-5dc3-1c18-f38729585790,windows_universal,windows.immersivecontrolpanel_cw5n1h2txyewy,,2020-10-19 03:16:33
+7459300d-b048-5dc3-1c18-f38729585790,packageid,windows.immersivecontrolpanel_cw5n1h2txyewy!microsoft.windows.immersivecontrolpanel,,2020-10-19 03:16:33
+7459300d-b048-5dc3-1c18-f38729585790,host,,,2020-10-19 03:16:33

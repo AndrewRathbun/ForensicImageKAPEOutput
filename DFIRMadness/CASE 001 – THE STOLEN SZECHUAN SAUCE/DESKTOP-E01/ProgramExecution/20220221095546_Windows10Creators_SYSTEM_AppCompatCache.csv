@@ -1,0 +1,267 @@
+ControlSet,CacheEntryPosition,Path,LastModifiedTimeUTC,Executed,Duplicate,SourceFile
+1,0,C:\Windows\System32\WScript.exe,2019-12-07 09:09:07,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,1,C:\ProgramData\Microsoft\Windows Defender\platform\4.18.2009.2-0\MpCmdRun.exe,2020-09-18 22:52:47,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,2,C:\Windows\System32\PickerHost.exe,2019-12-07 09:08:21,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,3,C:\Windows\system32\RAServer.exe,2019-12-07 09:10:32,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,4,C:\Windows\system32\AppHostRegistrationVerifier.exe,2019-12-07 09:08:21,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,5,C:\ProgramData\Microsoft\Windows Defender\platform\4.18.2009.2-0\NisSrv.exe,2020-09-18 22:52:47,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,6,C:\ProgramData\Microsoft\Windows Defender\platform\4.18.2009.2-0\MsMpEng.exe,2020-09-18 22:52:47,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,7,C:\Windows\TEMP\94A2D383-2409-448F-9E98-6B888EB7D248\MpSigStub.exe,2020-09-18 22:52:47,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,8,C:\Windows\SoftwareDistribution\Download\Install\updateplatform.exe,2020-09-18 22:52:46,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,9,C:\Windows\system32\speech_onecore\common\SpeechModelDownload.exe,2019-12-07 09:08:39,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,10,C:\Users\mortysmith\AppData\Local\Microsoft\OneDrive\20.143.0716.0003\FileSyncConfig.exe,2020-09-18 22:47:45,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,11,C:\Windows\system32\MusNotificationUx.exe,2020-05-11 05:39:20,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,12,C:\Windows\system32\usoclient.exe,2019-12-07 09:08:39,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,13,C:\Windows\System32\wsqmcons.exe,2020-05-11 05:39:25,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,14,C:\Windows\system32\MusNotification.exe,2020-05-11 05:39:20,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,15,C:\Users\mortysmith\AppData\Local\Microsoft\OneDrive\Update\OneDriveSetup.exe,2020-09-18 22:47:24,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,16,C:\Users\mortysmith\AppData\Local\Microsoft\OneDrive\OneDrive.exe,2020-09-18 22:47:45,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,17,C:\Users\mortysmith\AppData\Local\Microsoft\OneDrive\19.043.0304.0013\FileSyncConfig.exe,2020-09-18 22:47:19,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,18,C:\Users\ricksanchez\AppData\Local\Microsoft\OneDrive\20.143.0716.0003\FileSyncConfig.exe,2020-09-18 22:45:21,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,19,C:\Users\ricksanchez\AppData\Local\Microsoft\OneDrive\Update\OneDriveSetup.exe,2020-09-18 22:45:01,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,20,C:\Users\ricksanchez\AppData\Local\Microsoft\OneDrive\OneDrive.exe,2020-09-18 22:45:21,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,21,C:\Users\ricksanchez\AppData\Local\Microsoft\OneDrive\19.043.0304.0013\FileSyncConfig.exe,2020-09-18 22:44:55,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,22,C:\Windows\SoftwareDistribution\Download\Install\AM_Delta.exe,2020-09-18 22:44:09,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,23,C:\Windows\SoftwareDistribution\Download\Install\AM_Base.exe,2020-09-18 22:44:12,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,24,C:\Windows\system32\MpSigStub.exe,2020-09-18 22:44:07,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,25,C:\Windows\SoftwareDistribution\Download\Install\AM_Engine.exe,2020-09-18 22:44:08,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,26,C:\Windows\SoftwareDistribution\Download\Install\MpSigStub.exe,2020-09-18 22:44:07,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,27,C:\Windows\system32\wuauclt.exe,2020-05-11 05:39:20,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,28,C:\Windows\system32\sc.exe,2019-12-07 09:09:34,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,29,C:\Windows\System32\dsregcmd.exe,2019-12-07 09:09:54,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,30,C:\Program Files\WindowsApps\Microsoft.BingWeather_4.25.20211.0_x64__8wekyb3d8bbwe\Application,2019-12-07 09:53:17,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,31,00000009	0012076f04800000	000a00004a610000	8664	Microsoft.MicrosoftOfficeHub	8wekyb3d8bbwe	,,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,32,C:\Program Files\WindowsApps\Microsoft.MicrosoftOfficeHub_18.1903.1152.0_x64__8wekyb3d8bbwe\LocalBridge.exe,2019-12-07 09:54:15,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,33,C:\Program Files\WindowsApps\Microsoft.MicrosoftOfficeHub_18.1903.1152.0_x64__8wekyb3d8bbwe\Application,2019-12-07 09:56:19,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,34,C:\Program Files\WindowsApps\Microsoft.Wallet_2.4.18324.0_x64__8wekyb3d8bbwe\Application,2019-12-07 09:56:20,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,35,C:\Windows\system32\SystemSettingsAdminFlows.exe,2019-12-07 09:08:40,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,36,C:\Program Files\WindowsApps\Microsoft.XboxApp_48.49.31001.0_x64__8wekyb3d8bbwe\Application,2019-12-07 09:56:22,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,37,C:\Program Files\WindowsApps\Microsoft.XboxGameOverlay_1.46.11001.0_x64__8wekyb3d8bbwe\Application,2019-12-07 09:54:46,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,38,C:\Program Files\WindowsApps\Microsoft.SkypeApp_14.53.77.0_x64__kzf8qxf38zg5c\Application,2019-12-07 09:52:33,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,39,C:\Program Files\WindowsApps\Microsoft.WindowsAlarms_10.1906.2182.0_x64__8wekyb3d8bbwe\Application,2019-12-07 09:53:39,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,40,0000000b	000a00004a610001	000a000000000000	8664	Microsoft.CredDialogHost	cw5n1h2txyewy	,,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,41,0000000b	000a00004a610001	000a000038390000	8664	Microsoft.ECApp	8wekyb3d8bbwe	,,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,42,0000000b	03e84a6100010000	000a000000000000	8664	Microsoft.Windows.ParentalControls	cw5n1h2txyewy	neutral,,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,43,0000000b	000a00004a610001	000a000038390000	8664	Microsoft.AsyncTextService	8wekyb3d8bbwe	,,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,44,0000000b	000a00004a610001	000a00004a610001	8664	F46D4000-FD22-4DB4-AC8E-4E1DDDE828FE	cw5n1h2txyewy	neutral,,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,45,0000000b	000a00004a610001	000a00004a610001	8664	E2A4F912-2574-4A75-9BB0-0D023378592B	cw5n1h2txyewy	neutral,,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,46,0000000b	000a00004a610001	000a000042ee0000	8664	c5e2524a-ea46-4f67-841f-6a9465d9d515	cw5n1h2txyewy	neutral,,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,47,0000000b	000a00004a610001	000a000000000000	8664	Microsoft.LockApp	cw5n1h2txyewy	,,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,48,0000000b	03e84a6100010000	000c000000000000	8664	Microsoft.MicrosoftEdgeDevToolsClient	8wekyb3d8bbwe	neutral,,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,49,0000000b	000a00004a610001	000a00004a610001	8664	1527c705-839a-4832-9118-54d4Bd6a0c89	cw5n1h2txyewy	neutral,,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,50,0000000b	03e84a6100010000	000a000000000000	8664	Microsoft.Windows.AssignedAccessLockApp	cw5n1h2txyewy	neutral,,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,51,0000000b	03e84a6100010000	000a000000000000	8664	Microsoft.Windows.PinningConfirmationDialog	cw5n1h2txyewy	,,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,52,0000000b	000a00004a610001	000a0000452b0000	8664	Microsoft.Windows.NarratorQuickStart	8wekyb3d8bbwe	neutral,,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,53,0000000b	03e84a6100010000	000a000000000000	8664	Microsoft.Windows.Apprep.ChxApp	cw5n1h2txyewy	neutral,,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,54,0000000b	000a00004a610001	000b000000000000	8664	Microsoft.Win32WebViewHost	cw5n1h2txyewy	neutral,,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,55,0000000b	000a00004a610001	000a00004a610001	8664	Microsoft.Windows.XGpuEjectDialog	cw5n1h2txyewy	neutral,,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,56,C:\Windows\SystemApps\NcsiUwpApp_8wekyb3d8bbwe\Application,2020-09-18 05:42:09,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,57,0000000b	000a00004a610001	000a000042990000	8664	Windows.CBSPreview	cw5n1h2txyewy	neutral,,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,58,C:\Users\Admin\AppData\Local\Microsoft\OneDrive\20.143.0716.0003\FileSyncConfig.exe,2020-09-18 21:41:01,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,59,0000000b	000a00004a610001	000a00004a610001	8664	Microsoft.Windows.CapturePicker	cw5n1h2txyewy	,,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,60,C:\Users\Admin\AppData\Local\Microsoft\OneDrive\Update\OneDriveSetup.exe,2020-09-18 21:40:57,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,61,C:\Windows\System32\vm3dservice.exe,2020-03-30 22:49:52,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,62,C:\Windows\system32\dashost.exe,2019-12-07 09:08:37,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,63,C:\Windows\system32\GenValObj.exe,2019-12-07 09:08:58,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,64,C:\Users\Admin\AppData\Local\Microsoft\OneDrive\OneDrive.exe,2020-09-18 21:41:01,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,65,C:\Users\Admin\AppData\Local\Microsoft\OneDrive\19.043.0304.0013\FileSyncConfig.exe,2020-09-18 05:51:59,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,66,C:\Windows\System32\mousocoreworker.exe,2020-05-11 05:39:20,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,67,0000000b	000a0000000203e8	000a00004a610000	8664	windows.immersivecontrolpanel	cw5n1h2txyewy	neutral,,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,68,C:\Windows\ImmersiveControlPanel\SystemSettings.exe,2019-12-07 09:10:30,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,69,C:\Windows\system32\wbem\WmiApSrv.exe,2019-12-07 09:08:12,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,70,C:\Windows\System32\msdtc.exe,2019-12-07 09:09:37,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,71,C:\Program Files\VMware\VMware Tools\VMwareResolutionSet.exe,2020-03-30 22:45:52,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,72,C:\Program Files\Common Files\VMware\Drivers\vss\comreg.exe,2020-03-30 22:49:38,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,73,C:\Program Files\VMware\VMware Tools\vmtoolsd.exe,2020-03-30 22:46:06,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,74,C:\Windows\syswow64\WOWReg32.exe,2019-12-07 09:09:30,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,75,C:\Program Files\VMware\VMware Tools\VMware VGAuth\VGAuthService.exe,2020-03-30 22:28:44,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,76,C:\Windows\syswow64\MsiExec.exe,2019-12-07 09:10:02,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,77,C:\Windows\Temp\{E5A79DB3-DD6A-4B06-A4F7-D8258AF1C48C}\.be\VC_redist.x64.exe,2020-09-18 05:52:34,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,78,C:\Windows\Temp\{6241032A-5AEB-4A45-8B9D-9C360B4AF0B7}\.cr\vcredist_x64.exe,2020-09-18 05:52:33,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,79,C:\Users\Admin\AppData\Local\Temp\{D533345C-7F8D-4807-AE80-E06CE2045B0E}~setup\vcredist_x64.exe,2020-09-18 05:52:05,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,80,C:\Windows\system32\msiexec.exe,2019-12-07 09:09:44,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,81,C:\Windows\Temp\{82AD38B1-7540-41CE-BA7C-BB4FBEBCD40A}\.be\VC_redist.x86.exe,2020-09-18 05:52:12,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,82,C:\Windows\Temp\{FAF2A340-492A-4B38-83C8-AFCB1EA445D0}\.cr\vcredist_x86.exe,2020-09-18 05:52:09,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,83,C:\Users\Admin\AppData\Local\Temp\{D533345C-7F8D-4807-AE80-E06CE2045B0E}~setup\vcredist_x86.exe,2020-09-18 05:52:05,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,84,SIGN.MEDIA=19F1470 setup64.exe,2020-03-30 22:59:22,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,85,C:\Windows\system32\verclsid.exe,2019-12-07 09:09:09,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,86,C:\Windows\regedit.exe,2019-12-07 09:09:45,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,87,C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe,2019-12-07 09:10:47,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,88,C:\Program Files\Windows NT\Accessories\wordpad.exe,2019-12-06 21:18:00,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,89,C:\Windows\system32\WFS.exe,2019-12-06 21:26:00,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,90,C:\Windows\system32\SnippingTool.exe,2019-12-07 09:09:47,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,91,C:\Windows\system32\quickassist.exe,2019-12-06 21:23:00,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,92,C:\Windows\system32\osk.exe,2019-12-07 09:08:43,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,93,C:\Windows\system32\odbcad32.exe,2019-12-07 09:09:41,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,94,C:\Windows\system32\notepad.exe,2020-05-11 05:39:46,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,95,C:\Windows\system32\narrator.exe,2020-05-11 05:39:22,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,96,C:\Windows\system32\psr.exe,2019-12-06 21:27:00,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,97,C:\Windows\system32\msinfo32.exe,2019-12-07 09:09:54,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,98,C:\Windows\system32\msconfig.exe,2019-12-07 09:09:44,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,99,C:\Windows\system32\MdSched.exe,2019-12-07 09:09:54,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,100,C:\Windows\syswow64\odbcad32.exe,2019-12-07 09:10:02,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,101,C:\Windows\system32\magnify.exe,2020-05-11 05:39:22,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,102,C:\Windows\system32\iscsicpl.exe,2019-12-07 09:09:41,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,103,C:\Windows\system32\cmd.exe,2019-12-07 09:08:34,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,104,C:\Windows\SysWOW64\OneDriveSetup.exe,2019-12-07 09:51:52,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,105,C:\Windows\system32\SecurityHealthService.exe,2020-05-11 05:39:21,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,106,C:\Windows\System32\SecurityHealthSystray.exe,2019-12-07 09:08:41,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,107,C:\Windows\system32\cleanmgr.exe,2019-12-07 09:09:37,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,108,C:\Windows\system32\charmap.exe,2019-12-07 09:09:47,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,109,C:\Windows\system32\mstsc.exe,2019-12-07 09:09:51,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,110,C:\Program Files (x86)\Windows Media Player\wmplayer.exe,2019-12-06 19:48:00,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,111,C:\Windows\system32\RecoveryDrive.exe,2019-12-07 09:09:45,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,112,C:\Windows\system32\WindowsPowerShell\v1.0\PowerShell_ISE.exe,2019-12-06 17:05:00,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,113,C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe,2019-12-07 09:10:45,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,114,C:\Windows\system32\control.exe,2019-12-07 09:08:13,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,115,C:\Windows\Speech\Common\sapisvr.exe,2019-12-07 09:08:58,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,116,C:\Windows\system32\mspaint.exe,2019-12-06 21:18:00,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,117,C:\Program Files\Internet Explorer\iexplore.exe,2019-12-06 21:47:00,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,118,C:\Program Files\Common Files\Microsoft Shared\Ink\mip.exe,2019-12-06 21:18:00,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,119,C:\Windows\system32\taskmgr.exe,2020-05-11 05:39:22,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,120,C:\Windows\System32\SLUI.exe,2019-12-07 09:09:00,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,121,C:\Windows\system32\SppExtComObj.exe,2020-05-11 05:39:25,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,122,C:\Windows\system32\dfrgui.exe,2020-05-11 05:39:34,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,123,C:\Windows\System32\mobsync.exe,2019-12-07 09:09:47,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,124,C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\Application,2020-09-18 05:42:06,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,125,C:\Windows\System32\fsquirt.exe,2019-12-07 09:08:46,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,126,C:\Program Files\WindowsApps\Microsoft.WindowsStore_11910.1002.5.0_x64__8wekyb3d8bbwe\Application,2019-12-07 09:56:22,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,127,C:\Program Files\WindowsApps\Microsoft.Windows.Photos_2019.19071.12548.0_x64__8wekyb3d8bbwe\Application,2019-12-07 09:56:21,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,128,C:\Program Files\WindowsApps\microsoft.windowscommunicationsapps_16005.11629.20316.0_x64__8wekyb3d8bbwe\Application,2019-12-07 09:56:21,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,129,C:\Windows\system32\SettingSyncHost.exe,2019-12-07 09:09:09,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,130,C:\Windows\system32\Windows.WARP.JITService.exe,2019-12-07 09:08:27,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,131,C:\Windows\system32\browser_broker.exe,2019-12-07 09:08:46,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,132,C:\Windows\SystemApps\Microsoft.MicrosoftEdge_8wekyb3d8bbwe\Application,2020-09-18 05:41:53,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,133,C:\Windows\system32\ApplicationFrameHost.exe,2019-12-07 09:08:41,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,134,\\?\C:\Windows\system32\wbem\WMIADAP.EXE,2019-12-07 09:08:12,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,135,C:\Windows\SystemApps\Microsoft.AAD.BrokerPlugin_cw5n1h2txyewy\Application,2020-09-18 05:41:48,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,136,C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\Application,2020-09-18 05:42:04,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,137,C:\Windows\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\Application,2020-09-18 05:42:06,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,138,00000009	0001000763bb0000	000a000027410000	8664	Microsoft.NET.Native.Framework.1.7	8wekyb3d8bbwe	,,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,139,00000009	0001000763bb0000	000a000027410000	8664	Microsoft.NET.Native.Runtime.1.7	8wekyb3d8bbwe	,,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,140,00000009	000e00006bed0000	000a0000273a0000	8664	Microsoft.VCLibs.140.00.UWPDesktop	8wekyb3d8bbwe	,,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,141,00000009	000200026b0d0000	000a000027410000	8664	Microsoft.NET.Native.Framework.2.2	8wekyb3d8bbwe	,,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,142,00000009	000200026ac00000	000a000027410000	8664	Microsoft.NET.Native.Runtime.2.2	8wekyb3d8bbwe	,,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,143,0000000b	000a0000000203e8	000a00004a610001	8664	windows.immersivecontrolpanel	cw5n1h2txyewy	neutral,,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,144,C:\Windows\System32\consent.exe,2019-12-07 09:08:58,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,145,C:\Windows\System32\ie4uinit.exe,2019-12-07 09:09:39,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,146,C:\Windows\System32\unregmp2.exe,2019-12-06 21:28:00,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,147,C:\Windows\System32\smartscreen.exe,2020-05-11 05:39:10,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,148,C:\Windows\system32\ctfmon.exe,2019-12-07 09:09:00,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,149,C:\Windows\system32\vssvc.exe,2019-12-07 09:08:39,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,150,C:\Windows\System32\FodHelper.exe,2019-12-07 09:09:45,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,151,C:\Windows\System32\oobe\UserOOBEBroker.exe,2019-12-07 09:09:05,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,152,C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\Application,2020-09-18 05:42:08,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,153,C:\Windows\SystemApps\Microsoft.Windows.OOBENetworkConnectionFlow_cw5n1h2txyewy\Application,2020-09-18 05:42:01,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,154,C:\Windows\system32\lpremove.exe,2020-05-11 05:39:25,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,155,C:\Windows\system32\wlrmdr.exe,2019-12-07 09:08:19,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,156,C:\Windows\system32\AUDIODG.EXE,2020-05-11 05:39:07,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,157,C:\Windows\System32\RuntimeBroker.exe,2019-12-07 09:08:22,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,158,0000000b	000a00004a610001	000a00004a610000	8664	Microsoft.Windows.CloudExperienceHost	cw5n1h2txyewy	neutral,,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,159,C:\Windows\SystemApps\Microsoft.Windows.CloudExperienceHost_cw5n1h2txyewy\Application,2020-09-18 05:41:56,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,160,00000009	000e00006abb0000	000a0000273a0000	8664	Microsoft.VCLibs.140.00	8wekyb3d8bbwe	,,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,161,0000000b	000a00004a610001	000a00004a610001	8664	Microsoft.Windows.OOBENetworkCaptivePortal	cw5n1h2txyewy	,,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,162,0000000b	000a00004a610001	000a00004a610001	8664	Microsoft.Windows.OOBENetworkConnectionFlow	cw5n1h2txyewy	,,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,163,C:\Windows\SystemApps\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\Application,2020-09-18 05:41:58,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,164,C:\Windows\System32\rundll32.exe,2019-12-07 09:09:07,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,165,0000000b	000a00004a610001	000a00004a610001	8664	MicrosoftWindows.UndockedDevKit	cw5n1h2txyewy	neutral,,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,166,C:\Windows\System32\CloudExperienceHostBroker.exe,2019-12-07 09:08:41,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,167,C:\Windows\Explorer.EXE,2020-05-11 05:39:08,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,168,C:\Windows\system32\userinit.exe,2019-12-07 09:08:49,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,169,C:\Windows\system32\MDMAgent.exe,2019-12-07 09:08:09,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,170,C:\Windows\System32\sihost.exe,2019-12-07 09:08:28,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,171,C:\Windows\system32\SearchFilterHost.exe,2020-05-11 05:39:16,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,172,C:\Windows\system32\SearchProtocolHost.exe,2020-05-11 05:39:16,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,173,C:\Windows\system32\LogonUI.exe,2019-12-07 09:08:19,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,174,C:\Windows\system32\dxgiadaptercache.exe,2020-05-11 05:39:16,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,175,C:\Windows\system32\compattelrunner.exe,2019-12-07 09:08:45,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,176,C:\Windows\system32\devicecensus.exe,2019-12-07 09:08:48,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,177,C:\Windows\System32\taskhostw.exe,2019-12-07 09:09:00,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,178,C:\Windows\system32\mcbuilder.exe,2019-12-07 09:08:58,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,179,C:\Windows\system32\utilman.exe,2019-12-07 09:08:44,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,180,C:\Windows\winsxs\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.19041.262_none_e73f0197262d9fec\TiWorker.exe,2020-05-11 05:36:40,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,181,C:\Windows\system32\DllHost.exe,2019-12-07 09:08:46,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,182,C:\Windows\system32\oobe\FirstLogonAnim.exe,2019-12-07 09:09:05,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,183,C:\Windows\system32\oobe\msoobe.exe,2019-12-07 09:09:05,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,184,C:\Windows\system32\oobe\oobeldr.exe,2019-12-07 09:09:11,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,185,C:\Windows\system32\provtool.exe,2020-05-11 05:39:08,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,186,C:\Windows\System32\vds.exe,2019-12-07 09:08:19,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,187,C:\Windows\System32\vdsldr.exe,2019-12-07 09:08:19,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,188,C:\Windows\system32\ByteCodeGenerator.exe,2019-12-07 09:08:33,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,189,00000009	000a4a7f4a430000	000a000042ee0000	8664	Microsoft.ZuneVideo	8wekyb3d8bbwe	,,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,190,00000009	000a4a7f4a430000	000a000042ee0000	8664	Microsoft.ZuneMusic	8wekyb3d8bbwe	,,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,191,00000009	000c003217710000	000a000042ee0000	8664	Microsoft.XboxIdentityProvider	8wekyb3d8bbwe	,,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,192,00000009	0001002e2af90000	000a000042ee0000	8664	Microsoft.XboxGameOverlay	8wekyb3d8bbwe	,,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,193,00000009	0030003179190000	000a00003f810000	8664	Microsoft.XboxApp	8wekyb3d8bbwe	,,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,194,00000009	2e8603ea00050000	000a000045550000	8664	Microsoft.WindowsStore	8wekyb3d8bbwe	,,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,195,00000009	000a077207b40000	000a000045630000	8664	Microsoft.WindowsSoundRecorder	8wekyb3d8bbwe	,,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,196,00000009	0005077207b40000	000a000045630000	8664	Microsoft.WindowsMaps	8wekyb3d8bbwe	,,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,197,C:\Windows\system32\SearchIndexer.exe,2020-05-11 05:39:16,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,198,C:\Windows\system32\SgrmBroker.exe,2020-05-11 05:39:33,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,199,00000009	000107730c500000	000a000047ba0000	8664	Microsoft.WindowsFeedbackHub	8wekyb3d8bbwe	,,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,200,C:\Windows\system32\wermgr.exe,2020-05-11 05:39:23,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,201,00000009	3e852d6d4f5c0000	000a000045630000	8664	microsoft.windowscommunicationsapps	8wekyb3d8bbwe	,,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,202,00000009	07e2033a00620000	000a000045630000	8664	Microsoft.WindowsCamera	8wekyb3d8bbwe	,,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,203,00000009	000a077208860000	000a000045630000	8664	Microsoft.WindowsAlarms	8wekyb3d8bbwe	,,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,204,00000009	07e34a7f31040000	000a000045630000	8664	Microsoft.Windows.Photos	8wekyb3d8bbwe	,,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,205,00000009	00010000518b0000	000a000045630000	8664	Microsoft.WebMediaExtensions	8wekyb3d8bbwe	,,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,206,00000009	0002000447940000	000a000042ee0000	8664	Microsoft.Wallet	8wekyb3d8bbwe	,,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,207,00000009	2e2303e900120000	000a000045550000	8664	Microsoft.StorePurchaseApp	8wekyb3d8bbwe	,,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,208,00000009	000e0035004d0000	000a000042ee0000	8664	Microsoft.SkypeApp	kzf8qxf38zg5c	,,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,209,00000009	000a077309a70000	000a000045630000	8664	Microsoft.ScreenSketch	8wekyb3d8bbwe	,,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,210,00000009	000a076e02790000	000a000045630000	8664	Microsoft.People	8wekyb3d8bbwe	,,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,211,00000009	3e812efa4e900000	000a000047ba0000	8664	Microsoft.Office.OneNote	8wekyb3d8bbwe	,,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,212,C:\Windows\SysWOW64\regsvr32.exe,2019-12-07 09:10:04,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,213,C:\Windows\system32\regsvr32.exe,2019-12-07 09:09:46,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,214,00000009	0006077371630000	000a000042ee0000	8664	Microsoft.MSPaint	8wekyb3d8bbwe	,,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,215,00000009	07d04a8905150000	000a000045180000	8664	Microsoft.MixedReality.Portal	8wekyb3d8bbwe	,,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,216,00000009	0003000600490000	000a000047ba0000	8664	Microsoft.MicrosoftStickyNotes	8wekyb3d8bbwe	,,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,217,00000009	00040004200c0000	000a00003fab0000	8664	Microsoft.MicrosoftSolitaireCollection	8wekyb3d8bbwe	,,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,218,00000009	0012076f04800000	000b000000000000	8664	Microsoft.MicrosoftOfficeHub	8wekyb3d8bbwe	,,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,219,00000009	0006077407fa0000	000a000045630000	8664	Microsoft.Microsoft3DViewer	8wekyb3d8bbwe	,,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,220,00000009	00080002599e0000	000a000045630000	8664	Microsoft.Getstarted	8wekyb3d8bbwe	,,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,221,00000009	000a06aa34130000	000a00003fab0000	8664	Microsoft.GetHelp	8wekyb3d8bbwe	,,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,222,00000009	00010000762b0000	000a000047830000	8664	Microsoft.DesktopAppInstaller	8wekyb3d8bbwe	,,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,223,00000009	000400194ef30000	000a000042ee0000	8664	Microsoft.BingWeather	8wekyb3d8bbwe	,,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,224,00000009	000a071000030000	000a000028000000	8664	Microsoft.Advertising.Xaml	8wekyb3d8bbwe	,,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,225,00000009	0002071246540000	000a0000452a0000	8664	Microsoft.UI.Xaml.2.0	8wekyb3d8bbwe	,,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,226,00000009	000a000046b50000	000a000028000000	8664	Microsoft.Services.Store.Engagement	8wekyb3d8bbwe	,,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,227,00000000	000a000046b50000	000a000028000000	8664	Microsoft.Services.Store.Engagement	8wekyb3d8bbwe	,,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,228,00000009	0001077754d10000	000a000047ba0000	8664	Microsoft.549981C3F5F10	8wekyb3d8bbwe	,,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,229,0000000b	0006000200010000	03e84a6100010000	8664	Windows.PrintDialog	cw5n1h2txyewy	neutral,,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,230,0000000b	03e84a6100010000	03e84a6100010000	8664	NcsiUwpApp	8wekyb3d8bbwe	neutral,,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,231,00000009	0078089a00820000	000a00007fff0000	8664	MicrosoftWindows.Client.CBS	cw5n1h2txyewy	,,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,232,0000000b	03e84a6100010000	000a000000000000	8664	Microsoft.XboxGameCallableUI	cw5n1h2txyewy	neutral,,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,233,0000000b	000a00004a610001	000a00004a610001	8664	Microsoft.Windows.StartMenuExperienceHost	cw5n1h2txyewy	neutral,,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,234,0000000b	000a00004a610001	000a00004a610001	8664	Microsoft.Windows.ShellExperienceHost	cw5n1h2txyewy	neutral,,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,235,0000000b	000a00004a610001	000a000000000000	8664	Microsoft.Windows.SecureAssessmentBrowser	cw5n1h2txyewy	neutral,,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,236,0000000b	000a00004a610001	000a00004a610001	8664	Microsoft.Windows.SecHealthUI	cw5n1h2txyewy	,,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,237,0000000b	0001000e00004a61	000a00004a610000	8664	Microsoft.Windows.Search	cw5n1h2txyewy	neutral,,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,238,0000000b	000a00004a610001	000a00004a610001	8664	Microsoft.Windows.PeopleExperienceHost	cw5n1h2txyewy	neutral,,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,239,C:\Program Files\Windows Defender\NisSrv.exe,2019-12-07 09:08:16,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,240,C:\Program Files\Windows Defender\MpCmdRun.exe,2019-12-07 09:08:16,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,241,0000000b	000a00004a610001	000a000000000000	8664	Microsoft.Windows.ContentDeliveryManager	cw5n1h2txyewy	neutral,,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,242,0000000b	000a00004a610001	000b000000000000	8664	Microsoft.Windows.CloudExperienceHost	cw5n1h2txyewy	neutral,,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,243,0000000b	03e84a6100010000	03e84a6100010000	8664	Microsoft.Windows.CallingShellApp	cw5n1h2txyewy	neutral,,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,244,0000000b	002c4a6100010000	000a000047ba0000	8664	Microsoft.MicrosoftEdge	8wekyb3d8bbwe	,,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,245,0000000b	000a00004a610001	000a00003fab0000	8664	Microsoft.BioEnrollment	cw5n1h2txyewy	,,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,246,0000000b	000a00004a610001	000a00004a610001	8664	Microsoft.AccountsControl	cw5n1h2txyewy	,,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,247,0000000b	03e84a6100010000	000a0000295b0000	8664	Microsoft.AAD.BrokerPlugin	cw5n1h2txyewy	neutral,,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,248,C:\Windows\system32\taskkill.exe,2019-12-07 09:09:51,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,249,C:\Windows\system32\wbem\wmiprvse.exe,2019-12-07 09:08:19,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,250,C:\Windows\system32\wbem\mofcomp.exe,2019-12-07 09:08:12,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,251,C:\Windows\system32\DrvInst.exe,2019-12-07 09:09:05,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,252,C:\Windows\system32\wlms\wlms.exe,2019-12-07 09:51:53,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,253,C:\Program Files\Windows Defender\MsMpEng.exe,2019-12-07 09:08:16,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,254,C:\Windows\System32\spoolsv.exe,2019-12-07 09:08:12,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,255,C:\Windows\servicing\TrustedInstaller.exe,2020-05-11 05:39:27,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,256,C:\Windows\System32\Upfc.exe,2019-12-07 09:08:33,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,257,C:\Windows\system32\secinit.exe,2019-12-07 09:08:55,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,258,C:\Windows\system32\oobe\setup.exe,2019-12-07 09:09:11,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,259,C:\Windows\system32\oobe\windeploy.exe,2019-12-07 09:09:11,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,260,C:\Windows\system32\dwm.exe,2019-12-07 09:08:46,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,261,C:\Windows\system32\sppsvc.exe,2020-05-11 05:39:25,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,262,C:\Windows\system32\fontdrvhost.exe,2020-05-11 05:39:24,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,263,C:\Windows\system32\svchost.exe,2019-12-07 09:08:46,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,264,C:\Windows\system32\lsass.exe,2019-12-07 09:08:49,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM
+1,265,C:\Windows\system32\services.exe,2019-12-07 09:08:49,NA,False,D:\dfirmadness\DESKTOP-E01\tout\H\Windows\System32\config\SYSTEM

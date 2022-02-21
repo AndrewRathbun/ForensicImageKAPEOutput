@@ -1,0 +1,83 @@
+﻿Id,Platform,Name,AdditionalInformation,Expires
+ea6b0552-9705-31d1-c9fe-68d005ffc701,data_boundary,microsoft.default.input,,2027-09-18 03:36:32
+ea6b0552-9705-31d1-c9fe-68d005ffc701,host,,,2027-09-18 03:36:32
+d159e336-a0b6-9ff6-0459-5aeaf5cb020b,data_boundary,microsoft.default.default,,2027-09-18 03:36:33
+d159e336-a0b6-9ff6-0459-5aeaf5cb020b,host,,,2027-09-18 03:36:33
+18f61464-33da-a5a2-a1b7-c755f24fab1d,Win32,microsoft.windows.explorer,,2020-10-19 03:38:42
+18f61464-33da-a5a2-a1b7-c755f24fab1d,host,,,2020-10-19 03:38:42
+f54657ca-368a-2ce3-f1c0-0197af23bc82,Win32,microsoft.windows.explorer,,2020-10-19 03:51:53
+f54657ca-368a-2ce3-f1c0-0197af23bc82,packageid,microsoft.windows.explorer,,2020-10-19 03:51:53
+f54657ca-368a-2ce3-f1c0-0197af23bc82,host,,,2020-10-19 03:51:53
+fae10b1a-3438-5214-f6aa-072113d061c4,windows_universal,microsoft.microsoftedge_8wekyb3d8bbwe,,2020-10-19 03:39:10
+fae10b1a-3438-5214-f6aa-072113d061c4,host,edge.activity.windows.com,,2020-10-19 03:39:10
+7e894e2b-70c9-6980-9fec-0e630f491318,windows_universal,microsoft.microsoftedge_8wekyb3d8bbwe,,2020-10-19 03:39:14
+7e894e2b-70c9-6980-9fec-0e630f491318,host,edge.activity.windows.com,,2020-10-19 03:39:14
+7e894e2b-70c9-6980-9fec-0e630f491318,packageid,microsoft.microsoftedge_8wekyb3d8bbwe!microsoftedge,,2020-10-19 03:39:14
+a8c28028-d870-dc53-61ac-d6ffaaf958c7,windows_universal,microsoft.microsoftedge_8wekyb3d8bbwe,,2020-10-19 03:39:29
+a8c28028-d870-dc53-61ac-d6ffaaf958c7,host,edge.activity.windows.com,,2020-10-19 03:39:29
+210b83d2-d2b6-35a8-98ab-6969ca0d4c96,windows_universal,microsoft.microsoftedge_8wekyb3d8bbwe,,2020-10-19 03:44:52
+210b83d2-d2b6-35a8-98ab-6969ca0d4c96,host,edge.activity.windows.com,,2020-10-19 03:44:52
+210b83d2-d2b6-35a8-98ab-6969ca0d4c96,packageid,microsoft.microsoftedge_8wekyb3d8bbwe!microsoftedge,,2020-10-19 03:44:52
+e400b21d-9b34-42e2-76be-ccceb42acd97,windows_universal,microsoft.windows.sechealthui_cw5n1h2txyewy,,2020-10-19 03:39:38
+e400b21d-9b34-42e2-76be-ccceb42acd97,host,,,2020-10-19 03:39:38
+0d4ba27d-56a7-e2e0-1a0f-2e448eb308e4,windows_universal,microsoft.windows.sechealthui_cw5n1h2txyewy,,2020-10-19 03:39:54
+0d4ba27d-56a7-e2e0-1a0f-2e448eb308e4,packageid,microsoft.windows.sechealthui_cw5n1h2txyewy!sechealthui,,2020-10-19 03:39:54
+0d4ba27d-56a7-e2e0-1a0f-2e448eb308e4,host,,,2020-10-19 03:39:54
+4770308a-9d65-0a75-eaba-ce0fc90a20c1,Win32,microsoft.windows.explorer,,2020-09-26 03:40:09
+4770308a-9d65-0a75-eaba-ce0fc90a20c1,packageid,microsoft.windows.explorer,,2020-09-26 03:40:09
+4770308a-9d65-0a75-eaba-ce0fc90a20c1,host,,,2020-09-26 03:40:09
+816f5d03-b802-1cea-cad9-041633121e06,Win32,microsoft.windows.explorer,,2020-10-19 03:44:48
+816f5d03-b802-1cea-cad9-041633121e06,packageid,microsoft.windows.explorer,,2020-10-19 03:44:48
+816f5d03-b802-1cea-cad9-041633121e06,host,,,2020-10-19 03:44:48
+9d929896-168e-8cda-2fd3-c85aeec6ab1f,Win32,{1ac14e77-02e7-4e5d-b744-2eb1ae5198b7}\cmd.exe,System32\cmd.exe,2020-10-19 03:41:06
+9d929896-168e-8cda-2fd3-c85aeec6ab1f,Win32,{d65231b0-b2f1-4857-a4ce-a8e7c6ea7d27}\cmd.exe,System32 x86\cmd.exe,2020-10-19 03:41:06
+9d929896-168e-8cda-2fd3-c85aeec6ab1f,host,,,2020-10-19 03:41:06
+7c17b50d-0482-42e6-f222-1b9f03cefc87,Win32,{1ac14e77-02e7-4e5d-b744-2eb1ae5198b7}\cmd.exe,System32\cmd.exe,2020-09-26 03:41:21
+7c17b50d-0482-42e6-f222-1b9f03cefc87,Win32,{d65231b0-b2f1-4857-a4ce-a8e7c6ea7d27}\cmd.exe,System32 x86\cmd.exe,2020-09-26 03:41:21
+7c17b50d-0482-42e6-f222-1b9f03cefc87,packageid,{1ac14e77-02e7-4e5d-b744-2eb1ae5198b7}\cmd.exe,System32\cmd.exe,2020-09-26 03:41:21
+7c17b50d-0482-42e6-f222-1b9f03cefc87,host,,,2020-09-26 03:41:21
+2a87aeb6-8768-64b2-2508-a0903a3c2d21,Win32,{1ac14e77-02e7-4e5d-b744-2eb1ae5198b7}\cmd.exe,System32\cmd.exe,2020-09-26 03:42:38
+2a87aeb6-8768-64b2-2508-a0903a3c2d21,Win32,{d65231b0-b2f1-4857-a4ce-a8e7c6ea7d27}\cmd.exe,System32 x86\cmd.exe,2020-09-26 03:42:38
+2a87aeb6-8768-64b2-2508-a0903a3c2d21,packageid,{1ac14e77-02e7-4e5d-b744-2eb1ae5198b7}\cmd.exe,System32\cmd.exe,2020-09-26 03:42:38
+2a87aeb6-8768-64b2-2508-a0903a3c2d21,host,,,2020-09-26 03:42:38
+dcc8369a-c339-f375-269f-030ec50e8fe7,Win32,{1ac14e77-02e7-4e5d-b744-2eb1ae5198b7}\cmd.exe,System32\cmd.exe,2020-09-26 03:42:41
+dcc8369a-c339-f375-269f-030ec50e8fe7,Win32,{d65231b0-b2f1-4857-a4ce-a8e7c6ea7d27}\cmd.exe,System32 x86\cmd.exe,2020-09-26 03:42:41
+dcc8369a-c339-f375-269f-030ec50e8fe7,packageid,{1ac14e77-02e7-4e5d-b744-2eb1ae5198b7}\cmd.exe,System32\cmd.exe,2020-09-26 03:42:41
+dcc8369a-c339-f375-269f-030ec50e8fe7,host,,,2020-09-26 03:42:41
+5c3a7492-32e5-b709-c9ab-96d19777ec27,Win32,{1ac14e77-02e7-4e5d-b744-2eb1ae5198b7}\cmd.exe,System32\cmd.exe,2020-09-26 03:42:44
+5c3a7492-32e5-b709-c9ab-96d19777ec27,Win32,{d65231b0-b2f1-4857-a4ce-a8e7c6ea7d27}\cmd.exe,System32 x86\cmd.exe,2020-09-26 03:42:44
+5c3a7492-32e5-b709-c9ab-96d19777ec27,packageid,{1ac14e77-02e7-4e5d-b744-2eb1ae5198b7}\cmd.exe,System32\cmd.exe,2020-09-26 03:42:44
+5c3a7492-32e5-b709-c9ab-96d19777ec27,host,,,2020-09-26 03:42:44
+c996547e-1a7d-885b-0edd-5a423463b5bf,Win32,{1ac14e77-02e7-4e5d-b744-2eb1ae5198b7}\cmd.exe,System32\cmd.exe,2020-10-19 03:44:45
+c996547e-1a7d-885b-0edd-5a423463b5bf,Win32,{d65231b0-b2f1-4857-a4ce-a8e7c6ea7d27}\cmd.exe,System32 x86\cmd.exe,2020-10-19 03:44:45
+c996547e-1a7d-885b-0edd-5a423463b5bf,packageid,{1ac14e77-02e7-4e5d-b744-2eb1ae5198b7}\cmd.exe,System32\cmd.exe,2020-10-19 03:44:45
+c996547e-1a7d-885b-0edd-5a423463b5bf,host,,,2020-10-19 03:44:45
+0721bdab-9a1f-a1bb-6eaa-433c88cff32e,Win32,{1ac14e77-02e7-4e5d-b744-2eb1ae5198b7}\notepad.exe,System32\notepad.exe,2020-10-19 03:45:34
+0721bdab-9a1f-a1bb-6eaa-433c88cff32e,Win32,{d65231b0-b2f1-4857-a4ce-a8e7c6ea7d27}\notepad.exe,System32 x86\notepad.exe,2020-10-19 03:45:34
+0721bdab-9a1f-a1bb-6eaa-433c88cff32e,host,,,2020-10-19 03:45:34
+46bf0bfc-d804-dd16-525d-e3ea72108a53,Win32,{1ac14e77-02e7-4e5d-b744-2eb1ae5198b7}\notepad.exe,System32\notepad.exe,2020-10-19 03:45:38
+46bf0bfc-d804-dd16-525d-e3ea72108a53,Win32,{d65231b0-b2f1-4857-a4ce-a8e7c6ea7d27}\notepad.exe,System32 x86\notepad.exe,2020-10-19 03:45:38
+46bf0bfc-d804-dd16-525d-e3ea72108a53,packageid,{1ac14e77-02e7-4e5d-b744-2eb1ae5198b7}\notepad.exe,System32\notepad.exe,2020-10-19 03:45:38
+46bf0bfc-d804-dd16-525d-e3ea72108a53,host,,,2020-10-19 03:45:38
+87e5d86a-5fc0-03c5-75d6-06c5bb9d0916,Win32,{1ac14e77-02e7-4e5d-b744-2eb1ae5198b7}\notepad.exe,System32\notepad.exe,2020-10-19 03:45:40
+87e5d86a-5fc0-03c5-75d6-06c5bb9d0916,Win32,{d65231b0-b2f1-4857-a4ce-a8e7c6ea7d27}\notepad.exe,System32 x86\notepad.exe,2020-10-19 03:45:40
+87e5d86a-5fc0-03c5-75d6-06c5bb9d0916,host,,,2020-10-19 03:45:40
+8d463970-283b-841f-c67b-07f28caf7075,Win32,{1ac14e77-02e7-4e5d-b744-2eb1ae5198b7}\notepad.exe,System32\notepad.exe,2020-10-19 03:45:40
+8d463970-283b-841f-c67b-07f28caf7075,Win32,{d65231b0-b2f1-4857-a4ce-a8e7c6ea7d27}\notepad.exe,System32 x86\notepad.exe,2020-10-19 03:45:40
+8d463970-283b-841f-c67b-07f28caf7075,host,,,2020-10-19 03:45:40
+17768405-e4c9-9e71-75e8-54de17d1d5e1,Win32,{1ac14e77-02e7-4e5d-b744-2eb1ae5198b7}\notepad.exe,System32\notepad.exe,2020-10-19 03:45:51
+17768405-e4c9-9e71-75e8-54de17d1d5e1,Win32,{d65231b0-b2f1-4857-a4ce-a8e7c6ea7d27}\notepad.exe,System32 x86\notepad.exe,2020-10-19 03:45:51
+17768405-e4c9-9e71-75e8-54de17d1d5e1,packageid,{1ac14e77-02e7-4e5d-b744-2eb1ae5198b7}\notepad.exe,System32\notepad.exe,2020-10-19 03:45:51
+17768405-e4c9-9e71-75e8-54de17d1d5e1,host,,,2020-10-19 03:45:51
+4f1c826f-b489-7ee7-6cf8-de6d84125aa3,windows_universal,microsoft.windows.photos_8wekyb3d8bbwe,,2020-10-19 03:45:54
+4f1c826f-b489-7ee7-6cf8-de6d84125aa3,host,,,2020-10-19 03:45:54
+982b17c8-15f5-21c4-3be2-566cc83fcf69,windows_universal,microsoft.windows.photos_8wekyb3d8bbwe,,2020-10-19 03:46:02
+982b17c8-15f5-21c4-3be2-566cc83fcf69,packageid,microsoft.windows.photos_8wekyb3d8bbwe!app,,2020-10-19 03:46:02
+982b17c8-15f5-21c4-3be2-566cc83fcf69,host,,,2020-10-19 03:46:02
+31abcb56-1d76-9674-a1ea-9045a233ce15,Win32,{1ac14e77-02e7-4e5d-b744-2eb1ae5198b7}\notepad.exe,System32\notepad.exe,2020-10-19 03:47:39
+31abcb56-1d76-9674-a1ea-9045a233ce15,Win32,{d65231b0-b2f1-4857-a4ce-a8e7c6ea7d27}\notepad.exe,System32 x86\notepad.exe,2020-10-19 03:47:39
+31abcb56-1d76-9674-a1ea-9045a233ce15,host,,,2020-10-19 03:47:39
+2531cc81-d3b3-a559-9eef-1849c3aa0f83,Win32,{1ac14e77-02e7-4e5d-b744-2eb1ae5198b7}\notepad.exe,System32\notepad.exe,2020-10-19 03:47:48
+2531cc81-d3b3-a559-9eef-1849c3aa0f83,Win32,{d65231b0-b2f1-4857-a4ce-a8e7c6ea7d27}\notepad.exe,System32 x86\notepad.exe,2020-10-19 03:47:48
+2531cc81-d3b3-a559-9eef-1849c3aa0f83,packageid,{1ac14e77-02e7-4e5d-b744-2eb1ae5198b7}\notepad.exe,System32\notepad.exe,2020-10-19 03:47:48
+2531cc81-d3b3-a559-9eef-1849c3aa0f83,host,,,2020-10-19 03:47:48

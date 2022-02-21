@@ -1,0 +1,2 @@
+﻿EntryPoint,Signature,BytesPerSector,SectorsPerCluster,ClusterSize,ReservedSectors,TotalSectors,MftClusterBlockNumber,MftMirrClusterBlockNumber,MftEntrySize,IndexEntrySize,VolumeSerialNumberRaw,VolumeSerialNumber,VolumeSerialNumber32,VolumeSerialNumber32Reverse,SectorSignature,SourceFile
+0xEB 0x52 0x90,"NTFS    ",512,8,4096,0,22872063,786432,2,1024,4096,0x98E6491BE648FAD0,D0 FA 48 E6 1B 49 E6 98,D0 FA 48 E6,E6 48 FA D0,55 AA,D:\dfirmadness\DC01-E01\tout\F\$Boot

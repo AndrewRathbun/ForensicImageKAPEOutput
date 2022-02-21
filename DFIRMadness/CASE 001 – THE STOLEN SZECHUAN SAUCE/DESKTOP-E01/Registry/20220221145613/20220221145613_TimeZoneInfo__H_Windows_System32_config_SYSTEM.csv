@@ -1,0 +1,10 @@
+﻿ValueName,BatchKeyPath,ValueData,BatchValueName,ValueDataRaw
+Bias,ROOT\ControlSet001\Control\TimeZoneInformation,480,Bias,480
+DaylightBias,ROOT\ControlSet001\Control\TimeZoneInformation,-60,DaylightBias,4294967236
+DaylightName,ROOT\ControlSet001\Control\TimeZoneInformation,"@tzres.dll,-211",DaylightName,"@tzres.dll,-211"
+DaylightStart,ROOT\ControlSet001\Control\TimeZoneInformation,"Month 3, week of month 2, day of week 0, Hours:Minutes:Seconds:Milliseconds 2:0:0:0",DaylightStart,00-00-03-00-02-00-02-00-00-00-00-00-00-00-00-00
+StandardBias,ROOT\ControlSet001\Control\TimeZoneInformation,0,StandardBias,0
+StandardName,ROOT\ControlSet001\Control\TimeZoneInformation,"@tzres.dll,-212",StandardName,"@tzres.dll,-212"
+StandardStart,ROOT\ControlSet001\Control\TimeZoneInformation,"Month 11, week of month 1, day of week 0, Hours:Minutes:Seconds:Milliseconds 2:0:0:0",StandardStart,00-00-0B-00-01-00-02-00-00-00-00-00-00-00-00-00
+TimeZoneKeyName,ROOT\ControlSet001\Control\TimeZoneInformation,Pacific Standard Time,TimeZoneKeyName,Pacific Standard Time
+ActiveTimeBias,ROOT\ControlSet001\Control\TimeZoneInformation,420,ActiveTimeBias,420

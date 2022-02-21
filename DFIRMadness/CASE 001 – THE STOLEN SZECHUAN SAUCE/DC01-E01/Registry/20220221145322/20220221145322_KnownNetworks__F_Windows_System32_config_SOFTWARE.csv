@@ -1,0 +1,3 @@
+﻿FirstNetwork,BatchKeyPath,NetworkName,BatchValueName,NameType,FirstConnectLOCAL,LastConnectedLOCAL,Managed,DNSSuffix,GatewayMacAddress,ProfileGUID
+C137.local,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Microsoft\Windows NT\CurrentVersion\NetworkList\Profiles\{12999C93-4860-4518-8A7B-A07DB806E3EF},C137.local,Multiple,Wired,2020-09-17 17:43:29.3410000,2020-09-17 22:10:45.6980000,True,<none>,00-0C-29-95-CD-21,{12999C93-4860-4518-8A7B-A07DB806E3EF}
+Network,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Microsoft\Windows NT\CurrentVersion\NetworkList\Profiles\{690EEE02-4CB2-4E1A-B416-129D6D5CA74A},Network,Multiple,Wired,2020-09-17 10:07:03.5850000,2020-09-18 18:23:21.0630000,False,<none>,00-0C-29-95-CD-21,{690EEE02-4CB2-4E1A-B416-129D6D5CA74A}

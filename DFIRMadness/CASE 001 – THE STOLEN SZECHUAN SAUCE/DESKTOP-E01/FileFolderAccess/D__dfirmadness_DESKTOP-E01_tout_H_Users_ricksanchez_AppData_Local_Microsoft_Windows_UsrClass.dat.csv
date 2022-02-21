@@ -1,0 +1,7 @@
+BagPath,Slot,NodeSlot,MRUPosition,AbsolutePath,ShellType,Value,ChildBags,CreatedOn,ModifiedOn,AccessedOn,LastWriteTime,MFTEntry,MFTSequenceNumber,ExtensionBlockCount,FirstInteracted,LastInteracted,HasExplored,Miscellaneous
+BagMRU,0,0,2,Desktop\My Computer,Root folder: GUID,My Computer,1,,,,2020-09-19 05:13:13,,,0,,,False,
+BagMRU,1,0,1,Desktop\Home Folder,Root folder: GUID,Home Folder,0,,,,2020-09-19 05:13:13,,,0,2020-09-18 22:45:46,,False,
+BagMRU,2,0,0,Desktop\E:\,Users property view: Drive letter,E:\,2,,,,2020-09-19 05:13:13,,,0,,2020-09-19 05:13:13,False,
+BagMRU\0,0,1,0,Desktop\My Computer\Z:,Drive letter,Z:,0,,,,2020-09-18 22:45:27,,,0,2020-09-18 22:45:27,2020-09-18 22:45:27,True,
+BagMRU\2,0,4,1,Desktop\E:\\FTK Imager,Directory,FTK Imager,0,2020-09-13 03:02:46,2020-09-13 03:02:50,2020-09-13 17:12:00,2020-09-19 05:13:13,39,2,1,2020-09-19 05:09:48,,False,NTFS file system
+BagMRU\2,1,5,0,Desktop\E:\\DESKTOP-SDN1RPT,Directory,DESKTOP-SDN1RPT,0,2020-09-19 05:09:28,2020-09-19 05:09:28,2020-09-19 05:09:28,2020-09-19 05:13:13,262,4,1,2020-09-19 05:13:13,2020-09-19 05:13:13,False,NTFS file system

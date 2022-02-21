@@ -1,0 +1,39 @@
+﻿Extension,BatchKeyPath,ValueName,BatchValueName,MruPosition,AbsolutePath,OpenedOn,Details
+*,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\ComDlg32\OpenSavePidlMRU\*,0,0,0,My Computer\Downloads\coreupdater.exe,2020-09-19 03:24:12.0932532,"Type: Root folder: GUID, Value: My Computer
+
+
+Type: Root folder: GUID, Value: Downloads
+
+
+Short name: coreupdater.exe
+
+Type: File, Value: coreupdater.exe
+
+Extension blocks found: 1
+---------------------- Block 0 (Beef0004)----------------------
+Long name: coreupdater.exe
+Created: 
+Last access: 
+
+--------------------------------------------------
+
+"
+exe,CsiTool-CreateHive-{00000000-0000-0000-0000-000000000000}\Software\Microsoft\Windows\CurrentVersion\Explorer\ComDlg32\OpenSavePidlMRU\exe,0,0,0,My Computer\Downloads\coreupdater.exe,2020-09-19 03:24:12.0932532,"Type: Root folder: GUID, Value: My Computer
+
+
+Type: Root folder: GUID, Value: Downloads
+
+
+Short name: coreupdater.exe
+
+Type: File, Value: coreupdater.exe
+
+Extension blocks found: 1
+---------------------- Block 0 (Beef0004)----------------------
+Long name: coreupdater.exe
+Created: 
+Last access: 
+
+--------------------------------------------------
+
+"

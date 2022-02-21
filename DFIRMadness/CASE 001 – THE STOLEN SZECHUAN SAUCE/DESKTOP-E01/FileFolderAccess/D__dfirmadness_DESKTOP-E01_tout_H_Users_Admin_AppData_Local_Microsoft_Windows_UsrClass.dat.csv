@@ -1,0 +1,4 @@
+BagPath,Slot,NodeSlot,MRUPosition,AbsolutePath,ShellType,Value,ChildBags,CreatedOn,ModifiedOn,AccessedOn,LastWriteTime,MFTEntry,MFTSequenceNumber,ExtensionBlockCount,FirstInteracted,LastInteracted,HasExplored,Miscellaneous
+BagMRU,0,0,0,Desktop\Control Panel,Root folder: GUID,Control Panel,1,,,,2020-09-18 05:58:00,,,0,,2020-09-18 05:58:00,False,
+BagMRU\0,0,0,0,Desktop\Control Panel\Network and Internet,Control Panel Category,Network and Internet,1,,,,2020-09-18 05:58:00,,,0,,2020-09-18 05:58:00,False,
+BagMRU\0\0,0,1,0,Desktop\Control Panel\Network and Internet\Network Connections,GUID: Control panel,Network Connections,0,,,,2020-09-18 05:58:00,,,0,2020-09-18 05:58:00,2020-09-18 05:58:00,True,

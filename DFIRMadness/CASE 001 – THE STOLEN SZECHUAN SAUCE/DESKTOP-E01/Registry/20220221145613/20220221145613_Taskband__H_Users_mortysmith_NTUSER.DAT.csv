@@ -1,0 +1,10 @@
+﻿LnkName,BatchKeyPath,Executable,BatchValueName,PinType
+Applications,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Taskband,(unknown),Favorites,(unknown)
+Microsoft Edge,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Taskband,Microsoft.MicrosoftEdge_8wekyb3d8bbwe!MicrosoftEdge,Favorites,SystemPinned
+User Pinned,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Taskband,(unknown),Favorites,(unknown)
+TaskBar,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Taskband,(Directory),Favorites,(Directory)
+File Explorer.lnk,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Taskband,Microsoft.Windows.Explorer,Favorites,SystemPinned
+Applications,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Taskband,(unknown),Favorites,(unknown)
+Microsoft Store,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Taskband,Microsoft.WindowsStore_8wekyb3d8bbwe!App,Favorites,SystemPinned
+Applications,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Taskband,(unknown),Favorites,(unknown)
+Mail,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Taskband,microsoft.windowscommunicationsapps_8wekyb3d8bbwe!microsoft.windowslive.mail,Favorites,SystemPinned

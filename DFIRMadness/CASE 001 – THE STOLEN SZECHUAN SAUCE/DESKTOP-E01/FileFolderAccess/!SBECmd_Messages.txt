@@ -1,0 +1,174 @@
+SBECmd version 1.4.0.0
+
+Author: Eric Zimmerman (saericzimmerman@gmail.com)
+https://github.com/EricZimmerman
+
+Command line: -d D:\dfirmadness\DESKTOP-E01\tout --csv D:\dfirmadness\DESKTOP-E01\mout\FileFolderAccess -q
+
+Directory to process: D:\dfirmadness\DESKTOP-E01\tout
+Deduplication: False
+All messages will be saved to 'D:\dfirmadness\DESKTOP-E01\mout\FileFolderAccess\!SBECmd_Messages.txt'
+Time zone: UTC
+
+Processing 'D:\dfirmadness\DESKTOP-E01\tout\H\Users\Admin\NTUSER.DAT'
+
+Parse time: 0.17 seconds
+
+	Total ShellBags found: 0
+
+	Totals by bag type
+
+
+Finished processing 'D:\dfirmadness\DESKTOP-E01\tout\H\Users\Admin\NTUSER.DAT'
+
+Exported to: 'D:\dfirmadness\DESKTOP-E01\mout\FileFolderAccess\D__dfirmadness_DESKTOP-E01_tout_H_Users_Admin_NTUSER.DAT.csv'
+
+---------------------------------------------------------------------
+Processing 'D:\dfirmadness\DESKTOP-E01\tout\H\Users\Administrator\NTUSER.DAT'
+
+Parse time: 0.05 seconds
+
+	Total ShellBags found: 0
+
+	Totals by bag type
+
+
+Finished processing 'D:\dfirmadness\DESKTOP-E01\tout\H\Users\Administrator\NTUSER.DAT'
+
+Exported to: 'D:\dfirmadness\DESKTOP-E01\mout\FileFolderAccess\D__dfirmadness_DESKTOP-E01_tout_H_Users_Administrator_NTUSER.DAT.csv'
+
+---------------------------------------------------------------------
+Processing 'D:\dfirmadness\DESKTOP-E01\tout\H\Users\Default\NTUSER.DAT'
+	There was an error processing 'D:\dfirmadness\DESKTOP-E01\tout\H\Users\Default\NTUSER.DAT'. Error message: 'Software\Microsoft\Windows\Shell\BagMRU' not found in 'C:\Users\Default\NTUSER.DAT'
+
+Processing 'D:\dfirmadness\DESKTOP-E01\tout\H\Users\mortysmith\NTUSER.DAT'
+
+Parse time: 0.05 seconds
+
+	Total ShellBags found: 0
+
+	Totals by bag type
+
+
+Finished processing 'D:\dfirmadness\DESKTOP-E01\tout\H\Users\mortysmith\NTUSER.DAT'
+
+Exported to: 'D:\dfirmadness\DESKTOP-E01\mout\FileFolderAccess\D__dfirmadness_DESKTOP-E01_tout_H_Users_mortysmith_NTUSER.DAT.csv'
+
+---------------------------------------------------------------------
+Processing 'D:\dfirmadness\DESKTOP-E01\tout\H\Users\ricksanchez\NTUSER.DAT'
+Two transaction logs found. Determining primary log...
+Primary log: D:\dfirmadness\DESKTOP-E01\tout\H\Users\ricksanchez\ntuser.dat.LOG2, secondary log: D:\dfirmadness\DESKTOP-E01\tout\H\Users\ricksanchez\ntuser.dat.LOG1
+Replaying log file: D:\dfirmadness\DESKTOP-E01\tout\H\Users\ricksanchez\ntuser.dat.LOG2
+Replaying log file: D:\dfirmadness\DESKTOP-E01\tout\H\Users\ricksanchez\ntuser.dat.LOG1
+At least one transaction log was applied. Sequence numbers have been updated to 0x0050. New Checksum: 0x1A26FF97
+Hive length (0x100000) does not equal bytes read (0xe4000)!! Check the end of the hive for erroneous data
+
+Parse time: 0.07 seconds
+
+	Total ShellBags found: 0
+
+	Totals by bag type
+
+
+Finished processing 'D:\dfirmadness\DESKTOP-E01\tout\H\Users\ricksanchez\NTUSER.DAT'
+
+Exported to: 'D:\dfirmadness\DESKTOP-E01\mout\FileFolderAccess\D__dfirmadness_DESKTOP-E01_tout_H_Users_ricksanchez_NTUSER.DAT.csv'
+
+---------------------------------------------------------------------
+Processing 'D:\dfirmadness\DESKTOP-E01\tout\H\Windows\ServiceProfiles\LocalService\NTUSER.DAT'
+Two transaction logs found. Determining primary log...
+Primary log: D:\dfirmadness\DESKTOP-E01\tout\H\Windows\ServiceProfiles\LocalService\NTUSER.DAT.LOG2, secondary log: D:\dfirmadness\DESKTOP-E01\tout\H\Windows\ServiceProfiles\LocalService\NTUSER.DAT.LOG1
+Replaying log file: D:\dfirmadness\DESKTOP-E01\tout\H\Windows\ServiceProfiles\LocalService\NTUSER.DAT.LOG2
+Replaying log file: D:\dfirmadness\DESKTOP-E01\tout\H\Windows\ServiceProfiles\LocalService\NTUSER.DAT.LOG1
+At least one transaction log was applied. Sequence numbers have been updated to 0x0024. New Checksum: 0x5C43F59D
+	There was an error processing 'D:\dfirmadness\DESKTOP-E01\tout\H\Windows\ServiceProfiles\LocalService\NTUSER.DAT'. Error message: 'Software\Microsoft\Windows\Shell\BagMRU' not found in 'rofiles\LocalService\NTUSER.DAT'
+
+Processing 'D:\dfirmadness\DESKTOP-E01\tout\H\Windows\ServiceProfiles\NetworkService\NTUSER.DAT'
+Two transaction logs found. Determining primary log...
+Primary log: D:\dfirmadness\DESKTOP-E01\tout\H\Windows\ServiceProfiles\NetworkService\NTUSER.DAT.LOG1, secondary log: D:\dfirmadness\DESKTOP-E01\tout\H\Windows\ServiceProfiles\NetworkService\NTUSER.DAT.LOG2
+Replaying log file: D:\dfirmadness\DESKTOP-E01\tout\H\Windows\ServiceProfiles\NetworkService\NTUSER.DAT.LOG1
+At least one transaction log was applied. Sequence numbers have been updated to 0x0029. New Checksum: 0x5D0C19BA
+NK record at relative offset 0x163584 missing! Skipping
+An expected value was not found at offset 0x92CAFA35. Key: ROOT\SOFTWARE\Microsoft\IdentityCRL\Immersive\production\Property
+NK record at relative offset 0x163328 missing! Skipping
+	There was an error processing 'D:\dfirmadness\DESKTOP-E01\tout\H\Windows\ServiceProfiles\NetworkService\NTUSER.DAT'. Error message: 'Software\Microsoft\Windows\Shell\BagMRU' not found in 'files\NetworkService\NTUSER.DAT'
+
+Processing 'D:\dfirmadness\DESKTOP-E01\tout\H\Users\Admin\AppData\Local\Microsoft\Windows\UsrClass.dat'
+
+Parse time: 0.18 seconds
+
+	Total ShellBags found: 3
+
+	Totals by bag type
+
+	GUID: Control panel: 1
+	Control Panel Category: 1
+	Root folder: GUID: 1
+
+Finished processing 'D:\dfirmadness\DESKTOP-E01\tout\H\Users\Admin\AppData\Local\Microsoft\Windows\UsrClass.dat'
+
+Exported to: 'D:\dfirmadness\DESKTOP-E01\mout\FileFolderAccess\D__dfirmadness_DESKTOP-E01_tout_H_Users_Admin_AppData_Local_Microsoft_Windows_UsrClass.dat.csv'
+
+---------------------------------------------------------------------
+Processing 'D:\dfirmadness\DESKTOP-E01\tout\H\Users\Administrator\AppData\Local\Microsoft\Windows\UsrClass.dat'
+
+Parse time: 0.10 seconds
+
+	Total ShellBags found: 34
+
+	Totals by bag type
+
+	Root folder: GUID: 8
+	Directory: 25
+	Drive letter: 1
+
+Finished processing 'D:\dfirmadness\DESKTOP-E01\tout\H\Users\Administrator\AppData\Local\Microsoft\Windows\UsrClass.dat'
+
+Exported to: 'D:\dfirmadness\DESKTOP-E01\mout\FileFolderAccess\D__dfirmadness_DESKTOP-E01_tout_H_Users_Administrator_AppData_Local_Microsoft_Windows_UsrClass.dat.csv'
+
+---------------------------------------------------------------------
+Processing 'D:\dfirmadness\DESKTOP-E01\tout\H\Users\mortysmith\AppData\Local\Microsoft\Windows\UsrClass.dat'
+
+Parse time: 0.13 seconds
+
+	Total ShellBags found: 5
+
+	Totals by bag type
+
+	Root folder: GUID: 5
+
+Finished processing 'D:\dfirmadness\DESKTOP-E01\tout\H\Users\mortysmith\AppData\Local\Microsoft\Windows\UsrClass.dat'
+
+Exported to: 'D:\dfirmadness\DESKTOP-E01\mout\FileFolderAccess\D__dfirmadness_DESKTOP-E01_tout_H_Users_mortysmith_AppData_Local_Microsoft_Windows_UsrClass.dat.csv'
+
+---------------------------------------------------------------------
+Processing 'D:\dfirmadness\DESKTOP-E01\tout\H\Users\ricksanchez\AppData\Local\Microsoft\Windows\UsrClass.dat'
+Two transaction logs found. Determining primary log...
+Primary log: D:\dfirmadness\DESKTOP-E01\tout\H\Users\ricksanchez\AppData\Local\Microsoft\Windows\UsrClass.dat.LOG1, secondary log: D:\dfirmadness\DESKTOP-E01\tout\H\Users\ricksanchez\AppData\Local\Microsoft\Windows\UsrClass.dat.LOG2
+Replaying log file: D:\dfirmadness\DESKTOP-E01\tout\H\Users\ricksanchez\AppData\Local\Microsoft\Windows\UsrClass.dat.LOG1
+Replaying log file: D:\dfirmadness\DESKTOP-E01\tout\H\Users\ricksanchez\AppData\Local\Microsoft\Windows\UsrClass.dat.LOG2
+At least one transaction log was applied. Sequence numbers have been updated to 0x001C. New Checksum: 0x5E64BAFE
+Hive length (0x340000) does not equal bytes read (0x312000)!! Check the end of the hive for erroneous data
+
+Parse time: 0.15 seconds
+
+	Total ShellBags found: 6
+
+	Totals by bag type
+
+	Drive letter: 1
+	Root folder: GUID: 2
+	Directory: 2
+	Users property view: Drive letter: 1
+
+Finished processing 'D:\dfirmadness\DESKTOP-E01\tout\H\Users\ricksanchez\AppData\Local\Microsoft\Windows\UsrClass.dat'
+
+Exported to: 'D:\dfirmadness\DESKTOP-E01\mout\FileFolderAccess\D__dfirmadness_DESKTOP-E01_tout_H_Users_ricksanchez_AppData_Local_Microsoft_Windows_UsrClass.dat.csv'
+
+---------------------------------------------------------------------
+
+Processing complete!
+Processed 11 file(s) in 0.88 seconds!
+Total ShellBags found: 48
+
+

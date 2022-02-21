@@ -1,0 +1,77 @@
+﻿Extension,BatchKeyPath,ValueName,BatchValueName,MruPosition,AbsolutePath,OpenedOn,Details
+*,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\ComDlg32\OpenSavePidlMRU\*,1,1,0,My Computer\Documents\Portal_gun.png,2020-09-18 23:07:44.0378299,"Type: Root folder: GUID, Value: My Computer
+
+
+Type: Root folder: GUID, Value: Documents
+
+
+Short name: Portal_gun.png
+
+Type: File, Value: Portal_gun.png
+
+Extension blocks found: 1
+---------------------- Block 0 (Beef0004)----------------------
+Long name: Portal_gun.png
+Created: 
+Last access: 
+
+--------------------------------------------------
+
+"
+jpg,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\ComDlg32\OpenSavePidlMRU\jpg,0,0,0,My Computer\Pictures\Jessica.jpg,2020-09-18 23:01:11.3343843,"Type: Root folder: GUID, Value: My Computer
+
+
+Type: Root folder: GUID, Value: Pictures
+
+
+Short name: Jessica.jpg
+
+Type: File, Value: Jessica.jpg
+
+Extension blocks found: 1
+---------------------- Block 0 (Beef0004)----------------------
+Long name: Jessica.jpg
+Created: 
+Last access: 
+
+--------------------------------------------------
+
+"
+png,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\ComDlg32\OpenSavePidlMRU\png,0,0,0,My Computer\Documents\Portal_gun.png,2020-09-18 23:07:44.0378299,"Type: Root folder: GUID, Value: My Computer
+
+
+Type: Root folder: GUID, Value: Documents
+
+
+Short name: Portal_gun.png
+
+Type: File, Value: Portal_gun.png
+
+Extension blocks found: 1
+---------------------- Block 0 (Beef0004)----------------------
+Long name: Portal_gun.png
+Created: 
+Last access: 
+
+--------------------------------------------------
+
+"
+*,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\ComDlg32\OpenSavePidlMRU\*,0,0,1,My Computer\Pictures\Jessica.jpg,,"Type: Root folder: GUID, Value: My Computer
+
+
+Type: Root folder: GUID, Value: Pictures
+
+
+Short name: Jessica.jpg
+
+Type: File, Value: Jessica.jpg
+
+Extension blocks found: 1
+---------------------- Block 0 (Beef0004)----------------------
+Long name: Jessica.jpg
+Created: 
+Last access: 
+
+--------------------------------------------------
+
+"

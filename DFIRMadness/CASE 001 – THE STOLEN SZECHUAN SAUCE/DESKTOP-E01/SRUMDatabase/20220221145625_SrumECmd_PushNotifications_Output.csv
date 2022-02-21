@@ -1,0 +1,12 @@
+﻿Id,Timestamp,ExeInfo,ExeInfoDescription,ExeTimestamp,SidType,Sid,UserName,UserId,AppId,NetworkType,NotificationType,PayloadSize
+1,2020-09-18 21:42:00,Microsoft.Office.OneNote_16001.12026.20112.0_x64__8wekyb3d8bbwe,,,UnknownOrUserSid,S-1-5-21-41211245-796119838-3940169921-1001,Admin,112,308,0,1,1116
+2,2020-09-18 22:54:00,Microsoft.Office.OneNote_16001.12026.20112.0_x64__8wekyb3d8bbwe,,,UnknownOrUserSid,S-1-5-21-2232410529-1445159330-2725690660-1106,ricksanchez,320,308,0,1,1124
+3,2020-09-18 22:54:00,Microsoft.BingWeather_4.25.20211.0_x64__8wekyb3d8bbwe,,,UnknownOrUserSid,S-1-5-21-2232410529-1445159330-2725690660-1106,ricksanchez,320,375,0,1,4290
+4,2020-09-18 23:02:00,Microsoft.Office.OneNote_16001.12026.20112.0_x64__8wekyb3d8bbwe,,,UnknownOrUserSid,S-1-5-21-2232410529-1445159330-2725690660-1108,mortysmith,319,308,0,1,1092
+5,2020-09-18 23:02:00,Microsoft.BingWeather_4.25.20211.0_x64__8wekyb3d8bbwe,,,UnknownOrUserSid,S-1-5-21-2232410529-1445159330-2725690660-1108,mortysmith,319,375,0,1,4290
+6,2020-09-19 03:17:00,Microsoft.BingWeather_4.25.20211.0_x64__8wekyb3d8bbwe,,,UnknownOrUserSid,S-1-5-21-41211245-796119838-3940169921-1001,Admin,112,375,0,1,12882
+7,2020-09-19 03:17:00,Microsoft.Office.OneNote_16001.12026.20112.0_x64__8wekyb3d8bbwe,,,UnknownOrUserSid,S-1-5-21-41211245-796119838-3940169921-1001,Admin,112,308,0,1,2248
+8,2020-09-19 05:09:00,Microsoft.BingWeather_4.46.22322.0_x64__8wekyb3d8bbwe,,,UnknownOrUserSid,S-1-5-21-2232410529-1445159330-2725690660-1106,ricksanchez,320,475,0,1,8530
+9,2020-09-19 05:09:00,Microsoft.Office.OneNote_16001.13127.20190.0_x64__8wekyb3d8bbwe,,,UnknownOrUserSid,S-1-5-21-2232410529-1445159330-2725690660-1106,ricksanchez,320,476,0,1,1124
+10,2020-09-19 05:10:00,Microsoft.BingWeather_4.46.22322.0_x64__8wekyb3d8bbwe,,,UnknownOrUserSid,S-1-5-21-2232410529-1445159330-2725690660-1106,ricksanchez,320,475,0,1,4265
+11,2020-09-19 05:10:00,Microsoft.Office.OneNote_16001.13127.20190.0_x64__8wekyb3d8bbwe,,,UnknownOrUserSid,S-1-5-21-2232410529-1445159330-2725690660-1106,ricksanchez,320,476,0,1,1124

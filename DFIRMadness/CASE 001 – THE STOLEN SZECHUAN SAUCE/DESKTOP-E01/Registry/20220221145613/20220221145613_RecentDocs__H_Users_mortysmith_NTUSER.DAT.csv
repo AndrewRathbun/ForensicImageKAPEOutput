@@ -1,0 +1,19 @@
+﻿Extension,BatchKeyPath,ValueName,BatchValueName,TargetName,LnkName,MruPosition,OpenedOn,ExtensionLastOpened
+RecentDocs,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs,5,5,Portal_gun.png,Portal_gun.lnk,0,2020-09-18 23:07:44.1891541,2020-09-18 23:07:44.1891541
+RecentDocs,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs,4,4,Pictures,Pictures.lnk,1,,2020-09-18 23:01:11.6625573
+RecentDocs,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs,3,3,Jessica.jpg,Jessica.lnk,2,,2020-09-18 23:01:11.6314463
+RecentDocs,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs,2,2,My Social Security Number.txt,My Social Security Number.lnk,3,,2020-09-18 22:50:36.4251864
+RecentDocs,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs,1,1,Plans.txt,Plans.lnk,4,,
+RecentDocs,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs,0,0,Thoughts.txt,Thoughts.lnk,5,,
+Folder,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\Folder,0,0,Pictures,Pictures.lnk,0,2020-09-18 23:01:11.6625573,
+.txt,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.txt,2,2,My Social Security Number.txt,My Social Security Number.lnk,0,2020-09-18 22:50:36.4251864,
+.txt,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.txt,1,1,Plans.txt,Plans.lnk,1,,
+.txt,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.txt,0,0,Thoughts.txt,Thoughts.lnk,2,,
+.png,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.png,0,0,Portal_gun.png,Portal_gun.lnk,0,2020-09-18 23:07:44.1891541,
+.jpg,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.jpg,0,0,Jessica.jpg,Jessica.lnk,0,2020-09-18 23:01:11.6314463,
+.jpg,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.jpg,0,0,Jessica.jpg,Jessica.lnk,0,2020-09-18 23:01:11.6314463,
+.png,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.png,0,0,Portal_gun.png,Portal_gun.lnk,0,2020-09-18 23:07:44.1891541,
+.txt,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.txt,2,2,My Social Security Number.txt,My Social Security Number.lnk,0,2020-09-18 22:50:36.4251864,
+.txt,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.txt,1,1,Plans.txt,Plans.lnk,1,,
+.txt,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.txt,0,0,Thoughts.txt,Thoughts.lnk,2,,
+Folder,ROOT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\Folder,0,0,Pictures,Pictures.lnk,0,2020-09-18 23:01:11.6625573,

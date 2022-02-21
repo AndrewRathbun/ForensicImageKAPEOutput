@@ -1,0 +1,6 @@
+﻿DeviceName,BatchKeyPath,DeviceData,BatchValueName
+\DosDevices\C:,,"DMIO:ID:°÷&”hKL¸ŸjÅ",
+\??\Volume{eb76e763-f979-11ea-95e8-806e6f6e6963},,\??\SCSI#CdRom&Ven_NECVMWar&Prod_VMware_SATA_CD01#5&2edf08dd&0&010000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b},
+\DosDevices\D:,,\??\SCSI#CdRom&Ven_NECVMWar&Prod_VMware_SATA_CD01#5&2edf08dd&0&010000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b},
+\??\Volume{ce43e45a-fa16-11ea-95ef-000c2914c295},,_??_USBSTOR#Disk&Ven_SanDisk&Prod_Cruzer_Glide_3.0&Rev_1.00#4C530000261130109435&0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b},
+\DosDevices\E:,,_??_USBSTOR#Disk&Ven_SanDisk&Prod_Cruzer_Glide_3.0&Rev_1.00#4C530000261130109435&0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b},
