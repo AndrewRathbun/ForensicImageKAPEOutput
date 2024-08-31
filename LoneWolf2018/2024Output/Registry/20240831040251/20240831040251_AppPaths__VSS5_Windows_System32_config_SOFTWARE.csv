@@ -1,0 +1,36 @@
+﻿Timestamp,BatchKeyPath,FileName,BatchValueName,Path1,Path2
+2018-03-27 09:32:50.9198152,ROOT\Microsoft\Windows\CurrentVersion\App Paths\chrome.exe,chrome.exe,Multiple,C:\Program Files (x86)\Google\Chrome\Application\chrome.exe,C:\Program Files (x86)\Google\Chrome\Application
+2018-03-27 13:10:43.4072510,ROOT\Microsoft\Windows\CurrentVersion\App Paths\cmmgr32.exe,cmmgr32.exe,Multiple,,
+2017-09-29 13:48:39.8760933,ROOT\Microsoft\Windows\CurrentVersion\App Paths\dfshim.dll,dfshim.dll,Multiple,,
+2018-03-27 09:45:35.2170339,ROOT\Microsoft\Windows\CurrentVersion\App Paths\excel.exe,excel.exe,Multiple,C:\Program Files (x86)\Microsoft Office\Root\Office16\EXCEL.EXE,C:\Program Files (x86)\Microsoft Office\Root\Office16\
+2017-09-29 13:48:39.8760933,ROOT\Microsoft\Windows\CurrentVersion\App Paths\fsquirt.exe,fsquirt.exe,Multiple,,
+2018-03-27 13:10:43.4072510,ROOT\Microsoft\Windows\CurrentVersion\App Paths\IEDIAG.EXE,IEDIAG.EXE,Multiple,C:\Program Files\Internet Explorer\IEDIAGCMD.EXE,C:\Program Files\Internet Explorer;
+2018-03-27 13:10:43.4072510,ROOT\Microsoft\Windows\CurrentVersion\App Paths\IEDIAGCMD.EXE,IEDIAGCMD.EXE,Multiple,C:\Program Files\Internet Explorer\IEDIAGCMD.EXE,C:\Program Files\Internet Explorer;
+2018-03-27 13:10:43.4072510,ROOT\Microsoft\Windows\CurrentVersion\App Paths\IEXPLORE.EXE,IEXPLORE.EXE,Multiple,C:\Program Files\Internet Explorer\IEXPLORE.EXE,C:\Program Files\Internet Explorer;
+2018-03-27 09:45:35.2326594,ROOT\Microsoft\Windows\CurrentVersion\App Paths\infopath.exe,infopath.exe,Multiple,,
+2017-09-29 13:48:39.8760933,ROOT\Microsoft\Windows\CurrentVersion\App Paths\install.exe,install.exe,Multiple,,
+2017-09-29 13:47:10.7600136,ROOT\Microsoft\Windows\CurrentVersion\App Paths\licensemanagershellext.exe,licensemanagershellext.exe,Multiple,%SystemRoot%\System32\licensemanagershellext.exe,
+2018-03-27 09:45:35.2326594,ROOT\Microsoft\Windows\CurrentVersion\App Paths\Lync.exe,Lync.exe,Multiple,C:\Program Files (x86)\Microsoft Office\Root\Office16\Lync.exe,C:\Program Files (x86)\Microsoft Office\Root\Office16\
+2017-09-29 14:43:19.1110784,ROOT\Microsoft\Windows\CurrentVersion\App Paths\mip.exe,mip.exe,Multiple,%CommonProgramFiles%\Microsoft Shared\Ink\mip.exe,
+2017-09-29 14:41:52.4753975,ROOT\Microsoft\Windows\CurrentVersion\App Paths\mplayer2.exe,mplayer2.exe,Multiple,%ProgramFiles(x86)%\Windows Media Player\wmplayer.exe,%ProgramFiles(x86)%\Windows Media Player
+2018-03-27 09:45:35.2170339,ROOT\Microsoft\Windows\CurrentVersion\App Paths\MSACCESS.EXE,MSACCESS.EXE,Multiple,C:\Program Files (x86)\Microsoft Office\Root\Office16\MSACCESS.EXE,C:\Program Files (x86)\Microsoft Office\Root\Office16\
+2018-03-27 09:45:35.2170339,ROOT\Microsoft\Windows\CurrentVersion\App Paths\MsoHtmEd.exe,MsoHtmEd.exe,Multiple,,
+2018-03-27 09:45:35.2326594,ROOT\Microsoft\Windows\CurrentVersion\App Paths\msoxmled.exe,msoxmled.exe,Multiple,C:\Program Files (x86)\Microsoft Office\Root\VFS\ProgramFilesCommonX64\Microsoft Shared\OFFICE16\MSOXMLED.EXE,
+2018-03-27 09:45:35.2170339,ROOT\Microsoft\Windows\CurrentVersion\App Paths\MSPUB.EXE,MSPUB.EXE,Multiple,C:\Program Files (x86)\Microsoft Office\Root\Office16\MSPUB.EXE,C:\Program Files (x86)\Microsoft Office\Root\Office16\
+2018-03-27 09:45:35.2326594,ROOT\Microsoft\Windows\CurrentVersion\App Paths\OneNote.exe,OneNote.exe,Multiple,C:\Program Files (x86)\Microsoft Office\Root\Office16\ONENOTE.EXE,C:\Program Files (x86)\Microsoft Office\Root\Office16\
+2018-03-27 09:45:35.2326594,ROOT\Microsoft\Windows\CurrentVersion\App Paths\OUTLOOK.EXE,OUTLOOK.EXE,Multiple,C:\Program Files (x86)\Microsoft Office\Root\Office16\OUTLOOK.EXE,C:\Program Files (x86)\Microsoft Office\Root\Office16\
+2017-09-29 13:48:39.8760933,ROOT\Microsoft\Windows\CurrentVersion\App Paths\pbrush.exe,pbrush.exe,Multiple,%SystemRoot%\System32\mspaint.exe,%SystemRoot%\System32
+2018-03-27 09:45:35.2170339,ROOT\Microsoft\Windows\CurrentVersion\App Paths\powerpnt.exe,powerpnt.exe,Multiple,C:\Program Files (x86)\Microsoft Office\Root\Office16\POWERPNT.EXE,C:\Program Files (x86)\Microsoft Office\Root\Office16\
+2017-09-29 13:48:39.8760933,ROOT\Microsoft\Windows\CurrentVersion\App Paths\PowerShell.exe,PowerShell.exe,Multiple,%SystemRoot%\system32\WindowsPowerShell\v1.0\PowerShell.exe,
+2017-09-29 13:48:39.8760933,ROOT\Microsoft\Windows\CurrentVersion\App Paths\setup.exe,setup.exe,Multiple,,
+2018-03-27 09:45:35.2170339,ROOT\Microsoft\Windows\CurrentVersion\App Paths\SKYPESERVER.EXE,SKYPESERVER.EXE,Multiple,C:\Program Files (x86)\Microsoft Office\Root\Office16\SkypeSrv\SKYPESERVER.EXE,C:\Program Files (x86)\Microsoft Office\Root\Office16\SkypeSrv\
+2017-09-29 14:43:19.1110784,ROOT\Microsoft\Windows\CurrentVersion\App Paths\SnippingTool.exe,SnippingTool.exe,Multiple,%SystemRoot%\system32\SnippingTool.exe,
+2017-09-29 13:48:39.8760933,ROOT\Microsoft\Windows\CurrentVersion\App Paths\table30.exe,table30.exe,Multiple,,
+2017-09-29 14:43:19.1110784,ROOT\Microsoft\Windows\CurrentVersion\App Paths\TabTip.exe,TabTip.exe,Multiple,%CommonProgramFiles%\microsoft shared\ink\TabTip.exe,
+2018-03-27 09:47:19.2705356,ROOT\Microsoft\Windows\CurrentVersion\App Paths\vstoee.dll,vstoee.dll,Multiple,,
+2017-09-29 13:48:39.8760933,ROOT\Microsoft\Windows\CurrentVersion\App Paths\wab.exe,wab.exe,Multiple,%ProgramFiles%\Windows Mail\wab.exe,%ProgramFiles%\Windows Mail
+2017-09-29 13:48:39.8760933,ROOT\Microsoft\Windows\CurrentVersion\App Paths\wabmig.exe,wabmig.exe,Multiple,%ProgramFiles%\Windows Mail\wabmig.exe,
+2018-03-27 09:45:35.2326594,ROOT\Microsoft\Windows\CurrentVersion\App Paths\Winword.exe,Winword.exe,Multiple,C:\Program Files (x86)\Microsoft Office\Root\Office16\WINWORD.EXE,C:\Program Files (x86)\Microsoft Office\Root\Office16\
+2017-09-29 14:41:52.4753975,ROOT\Microsoft\Windows\CurrentVersion\App Paths\wmplayer.exe,wmplayer.exe,Multiple,%ProgramFiles(x86)%\Windows Media Player\wmplayer.exe,%ProgramFiles(x86)%\Windows Media Player
+2017-09-29 13:48:39.8760933,ROOT\Microsoft\Windows\CurrentVersion\App Paths\WORDPAD.EXE,WORDPAD.EXE,Multiple,"""%ProgramFiles%\Windows NT\Accessories\WORDPAD.EXE""",
+2017-09-29 13:48:39.8760933,ROOT\Microsoft\Windows\CurrentVersion\App Paths\WRITE.EXE,WRITE.EXE,Multiple,"""%ProgramFiles%\Windows NT\Accessories\WORDPAD.EXE""",

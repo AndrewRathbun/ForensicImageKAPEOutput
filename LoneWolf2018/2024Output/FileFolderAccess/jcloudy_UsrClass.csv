@@ -1,0 +1,39 @@
+﻿BagPath,Slot,NodeSlot,MRUPosition,AbsolutePath,ShellType,Value,ChildBags,CreatedOn,ModifiedOn,AccessedOn,LastWriteTime,MFTEntry,MFTSequenceNumber,ExtensionBlockCount,FirstInteracted,LastInteracted,HasExplored,Miscellaneous
+BagMRU,0,0,2,Desktop\Quick Access,Root folder: GUID,Quick Access,0,,,,2018-04-06 12:42:02,,,0,2018-03-27 09:22:42,,False,
+BagMRU,1,0,8,Desktop\D:\,Users property view: Drive letter,D:\,1,,,,2018-04-06 12:42:02,,,0,,,False,
+BagMRU,2,0,10,Desktop\CLSID_SearchFolder,Users property view,CLSID_SearchFolder,0,,,,2018-04-06 12:42:02,,,1,2018-03-27 09:26:24,,False,
+BagMRU,3,0,9,Desktop\CLSID_SearchFolder,Users property view,CLSID_SearchFolder,0,,,,2018-04-06 12:42:02,,,2,2018-03-27 09:26:25,,False,
+BagMRU,4,0,0,Desktop\This PC,Root folder: GUID,This PC,4,,,,2018-04-06 12:42:02,,,0,,2018-04-06 12:42:02,False,
+BagMRU,5,0,3,Desktop\ControlPanelHome,Root folder: GUID,ControlPanelHome,2,,,,2018-04-06 12:42:02,,,0,,,False,
+BagMRU,6,0,6,Desktop\OneDrive,Root folder: GUID,OneDrive,0,,,,2018-04-06 12:42:02,,,1,2018-03-27 09:51:01,,False,
+BagMRU,7,0,5,Desktop\Shared Documents Folder (Users Files),Root folder: GUID,Shared Documents Folder (Users Files),3,,,,2018-04-06 12:42:02,,,1,,,False,
+BagMRU,8,0,4,Desktop\Box Sync,Root folder: GUID,Box Sync,0,,,,2018-04-06 12:42:02,,,1,2018-04-02 01:36:35,,False,
+BagMRU,9,0,7,Desktop\dropbox-NamespaceExtensionRole.Personal,Root folder: GUID,dropbox-NamespaceExtensionRole.Personal,0,,,,2018-04-06 12:42:02,,,1,2018-04-02 01:36:42,,False,
+BagMRU,10,0,1,Desktop\F:\,Users property view: Drive letter,F:\,2,,,,2018-04-06 12:42:02,,,0,,,False,
+BagMRU\1,0,3,0,Desktop\D:\\AKMonitor,Directory,AKMonitor,1,2018-03-22 02:50:44,2018-03-22 02:50:44,2018-03-22 02:50:42,2018-03-27 09:22:46,3244256,,1,,2018-03-27 09:22:46,True,exFAT file system
+BagMRU\1\0,0,4,0,Desktop\D:\\AKMonitor\logs,Directory,logs,1,2018-03-27 09:12:36,2018-03-27 09:12:36,2018-03-27 09:12:34,2018-03-27 09:22:48,3376576,,1,,2018-03-27 09:22:48,True,exFAT file system
+BagMRU\1\0\0,0,16,0,Desktop\D:\\AKMonitor\logs\pic,Directory,pic,0,2018-03-27 23:34:48,2018-03-27 23:34:48,2018-03-27 23:34:46,2018-03-31 20:29:38,7570272,,1,2018-03-31 20:29:38,2018-03-31 20:29:38,True,exFAT file system
+BagMRU\10,0,29,0,Desktop\F:\\Programs,Directory,Programs,1,2017-10-06 20:27:04,2017-10-06 20:27:04,2017-10-06 20:27:02,2018-04-06 12:41:06,17435904,,1,,2018-04-06 12:41:06,True,exFAT file system
+BagMRU\10,1,30,1,Desktop\F:\\CFRS 780 Lone Wolf Scenario,Directory,CFRS 780 Lone Wolf Scenario,1,2018-04-06 07:41:30,2018-04-06 07:41:30,2018-04-06 07:41:28,2018-04-06 12:41:06,17444480,,1,,,True,exFAT file system
+BagMRU\10\0,0,33,0,Desktop\F:\\Programs\Imager_Lite_3.1.1,Directory,Imager_Lite_3.1.1,0,2018-03-02 16:50:48,2018-03-02 16:50:48,2018-03-02 16:50:46,2018-04-06 12:41:08,736496640,,1,2018-04-06 12:41:08,2018-04-06 12:41:08,False,exFAT file system
+BagMRU\10\1,0,31,0,Desktop\F:\\CFRS 780 Lone Wolf Scenario\FTK_Imager_4_2_0,Directory,FTK_Imager_4_2_0,1,2018-04-06 07:59:48,2018-04-06 07:59:48,2018-04-06 07:59:46,2018-04-06 12:40:28,2343436288,,1,,2018-04-06 12:40:28,True,exFAT file system
+BagMRU\10\1\0,0,32,0,Desktop\F:\\CFRS 780 Lone Wolf Scenario\FTK_Imager_4_2_0\FTK Imager,Directory,FTK Imager,0,2018-04-06 07:59:48,2018-04-06 07:59:48,2018-04-06 07:59:46,2018-04-06 12:40:29,2343567360,,1,2018-04-06 12:40:29,2018-04-06 12:40:29,True,exFAT file system
+BagMRU\4,0,11,3,Desktop\This PC\Desktop,Root folder: GUID,Desktop,1,,,,2018-04-06 12:42:02,,,1,,,True,
+BagMRU\4,1,12,0,Desktop\This PC\Downloads,Root folder: GUID,Downloads,0,,,,2018-04-06 12:42:02,,,1,2018-03-28 00:42:22,2018-04-06 12:42:02,True,
+BagMRU\4,2,13,2,Desktop\This PC\Documents,Root folder: GUID,Documents,0,,,,2018-04-06 12:42:02,,,1,2018-03-28 00:42:24,,True,
+BagMRU\4,3,0,1,Desktop\This PC\C:,Drive letter,C:,1,,,,2018-04-06 12:42:02,,,0,,,False,
+BagMRU\4\0,0,25,0,"Desktop\This PC\Desktop\Cubs' Anthony Rizzo Praises Parkland Kids, Says 'It's too Easy to Get a Gun'_files",Directory,"Cubs' Anthony Rizzo Praises Parkland Kids, Says 'It's too Easy to Get a Gun'_files",0,2018-03-30 04:32:32,2018-03-30 04:32:34,2018-03-30 04:32:34,2018-04-05 02:13:26,143978,3,1,2018-04-05 02:13:26,2018-04-05 02:13:26,False,NTFS file system
+BagMRU\4\3,0,0,0,Desktop\This PC\C:\Users,Directory,Users,1,2017-09-29 08:45:12,2018-03-27 09:36:34,2018-03-27 09:36:34,2018-03-30 02:29:55,1417,1,1,,2018-03-30 02:29:55,False,NTFS file system
+BagMRU\4\3\0,0,21,0,Desktop\This PC\C:\Users\jcloudy,Directory,jcloudy,4,2018-03-27 09:19:00,2018-03-28 00:53:58,2018-03-28 00:53:58,2018-03-30 02:29:55,92991,1,1,,2018-03-30 02:29:55,True,NTFS file system
+BagMRU\4\3\0\0,0,15,0,Desktop\This PC\C:\Users\jcloudy\Desktop,Directory,Desktop,0,2018-03-27 09:19:00,2018-03-30 02:24:24,2018-03-30 02:24:24,2018-04-05 02:39:06,93001,1,1,2018-03-30 02:29:55,2018-04-05 02:39:06,False,NTFS file system
+BagMRU\4\3\0\0,1,22,3,Desktop\This PC\C:\Users\jcloudy\OneDrive,Directory,OneDrive,0,2018-03-27 09:21:46,2018-04-04 05:59:46,2018-04-04 05:59:46,2018-04-05 02:39:06,95629,1,1,2018-04-05 02:11:56,,False,NTFS file system
+BagMRU\4\3\0\0,2,23,2,Desktop\This PC\C:\Users\jcloudy\Dropbox,Directory,Dropbox,0,2018-03-28 00:06:28,2018-04-04 05:32:32,2018-04-04 05:32:32,2018-04-05 02:39:06,139472,3,1,2018-04-05 02:12:00,,False,NTFS file system
+BagMRU\4\3\0\0,3,24,1,Desktop\This PC\C:\Users\jcloudy\Box Sync,Directory,Box Sync,0,2018-03-28 00:53:58,2018-04-05 02:11:16,2018-04-05 02:11:16,2018-04-05 02:39:06,140782,2,1,2018-04-05 02:12:11,,False,NTFS file system
+BagMRU\5,0,0,1,Desktop\ControlPanelHome\System and Security,Control Panel Category,System and Security,1,,,,2018-04-06 08:31:56,,,0,,,False,
+BagMRU\5,1,0,0,Desktop\ControlPanelHome\Hardware and Sound,Control Panel Category,Hardware and Sound,1,,,,2018-04-06 08:31:56,,,0,,2018-04-06 08:31:56,False,
+BagMRU\5\0,0,8,0,Desktop\ControlPanelHome\System and Security\System,GUID: Control panel,System,0,,,,2018-03-27 09:33:44,,,0,2018-03-27 09:33:44,2018-03-27 09:33:44,True,
+BagMRU\5\1,0,26,0,Desktop\ControlPanelHome\Hardware and Sound\Power Options,GUID: Control panel,Power Options,1,,,,2018-04-06 08:31:56,,,0,,2018-04-06 08:31:56,True,
+BagMRU\5\1\0,0,27,0,Desktop\ControlPanelHome\Hardware and Sound\Power Options\System Settings,Variable: Users property view,System Settings,0,,,,2018-04-06 08:32:19,,,0,2018-04-06 08:32:19,2018-04-06 08:32:19,False,
+BagMRU\7,0,10,2,Desktop\Shared Documents Folder (Users Files)\Dropbox,Users Files Folder,Dropbox,0,2018-03-28 00:06:28,2018-03-28 00:06:28,2018-03-28 00:06:28,2018-04-05 02:05:13,139472,3,1,2018-03-28 00:06:27,,False,NTFS file system
+BagMRU\7,1,14,1,Desktop\Shared Documents Folder (Users Files)\Google Drive,Users Files Folder,Google Drive,0,2018-03-28 00:43:24,2018-03-28 00:43:24,2018-03-28 00:43:24,2018-04-05 02:05:13,139848,32,1,2018-03-28 00:43:25,,False,NTFS file system
+BagMRU\7,2,19,0,Desktop\Shared Documents Folder (Users Files)\Box Sync,Users Files Folder,Box Sync,0,2018-03-28 00:53:58,2018-03-28 00:53:58,2018-03-28 00:53:58,2018-04-05 02:05:13,140782,2,1,2018-04-04 05:32:00,2018-04-05 02:05:13,False,NTFS file system

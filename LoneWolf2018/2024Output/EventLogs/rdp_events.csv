@@ -1,0 +1,10 @@
+timestamp,detections,path,Event ID,Channel,Computer,Information
+2018-03-27T09:19:58.240456+00:00,RDS - Session logoff succeeded,C:\temp\2024LoneWolf\tout\D\Windows\System32\winevt\logs\Microsoft-Windows-TerminalServices-LocalSessionManager%4Operational.evtx,23,Microsoft-Windows-TerminalServices-LocalSessionManager/Operational,WIN-1M3263ACE5D,"SessionID: 1
+User: DESKTOP-PM6C56D\defaultuser0
+"
+2018-03-27T09:55:16.427003+00:00,RDS - Session logoff succeeded,C:\temp\2024LoneWolf\tout\D\Windows\System32\winevt\logs\Microsoft-Windows-TerminalServices-LocalSessionManager%4Operational.evtx,23,Microsoft-Windows-TerminalServices-LocalSessionManager/Operational,WIN-1M3263ACE5D,"SessionID: 2
+User: DESKTOP-PM6C56D\jcloudy
+"
+2018-03-27T21:45:21.621946+00:00,RDS - Session logoff succeeded,C:\temp\2024LoneWolf\tout\D\Windows\System32\winevt\logs\Microsoft-Windows-TerminalServices-LocalSessionManager%4Operational.evtx,23,Microsoft-Windows-TerminalServices-LocalSessionManager/Operational,DESKTOP-PM6C56D,"SessionID: 1
+User: DESKTOP-PM6C56D\jcloudy
+"

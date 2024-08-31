@@ -1,0 +1,19 @@
+﻿GroupName,BatchKeyPath,Comment,BatchValueName,Users
+Administrators,ROOT\SAM\Domains\Builtin\Aliases,Administrators have complete and unrestricted access to the computer/domain,Multiple,"S-1-5-21-2734969515-1644526556-1039763013-500, S-1-5-21-2734969515-1644526556-1039763013-1001"
+Users,ROOT\SAM\Domains\Builtin\Aliases,Users are prevented from making accidental or intentional system-wide changes and can run most applications,Multiple,"S-1-5-4, S-1-5-11"
+Guests,ROOT\SAM\Domains\Builtin\Aliases,"Guests have the same access as members of the Users group by default, except for the Guest account which is further restricted",Multiple,S-1-5-21-2734969515-1644526556-1039763013-501
+Power Users,ROOT\SAM\Domains\Builtin\Aliases,Power Users are included for backwards compatibility and possess limited administrative powers,Multiple,
+Backup Operators,ROOT\SAM\Domains\Builtin\Aliases,Backup Operators can override security restrictions for the sole purpose of backing up or restoring files,Multiple,
+Replicator,ROOT\SAM\Domains\Builtin\Aliases,Supports file replication in a domain,Multiple,
+Remote Desktop Users,ROOT\SAM\Domains\Builtin\Aliases,Members in this group are granted the right to logon remotely,Multiple,
+Network Configuration Operators,ROOT\SAM\Domains\Builtin\Aliases,Members in this group can have some administrative privileges to manage configuration of networking features,Multiple,
+Performance Monitor Users,ROOT\SAM\Domains\Builtin\Aliases,Members of this group can access performance counter data locally and remotely,Multiple,
+Performance Log Users,ROOT\SAM\Domains\Builtin\Aliases,"Members of this group may schedule logging of performance counters, enable trace providers, and collect event traces both locally and via remote access to this computer",Multiple,
+Distributed COM Users,ROOT\SAM\Domains\Builtin\Aliases,"Members are allowed to launch, activate and use Distributed COM objects on this machine.",Multiple,
+IIS_IUSRS,ROOT\SAM\Domains\Builtin\Aliases,Built-in group used by Internet Information Services.,Multiple,S-1-5-17
+Cryptographic Operators,ROOT\SAM\Domains\Builtin\Aliases,Members are authorized to perform cryptographic operations.,Multiple,
+Event Log Readers,ROOT\SAM\Domains\Builtin\Aliases,Members of this group can read event logs from local machine,Multiple,
+Hyper-V Administrators,ROOT\SAM\Domains\Builtin\Aliases,Members of this group have complete and unrestricted access to all features of Hyper-V.,Multiple,
+Access Control Assistance Operators,ROOT\SAM\Domains\Builtin\Aliases,Members of this group can remotely query authorization attributes and permissions for resources on this computer.,Multiple,
+Remote Management Users,ROOT\SAM\Domains\Builtin\Aliases,Members of this group can access WMI resources over management protocols (such as WS-Management via the Windows Remote Management service). This applies only to WMI namespaces that grant access to the user.,Multiple,
+System Managed Accounts Group,ROOT\SAM\Domains\Builtin\Aliases,Members of this group are managed by the system.,Multiple,S-1-5-21-2734969515-1644526556-1039763013-503

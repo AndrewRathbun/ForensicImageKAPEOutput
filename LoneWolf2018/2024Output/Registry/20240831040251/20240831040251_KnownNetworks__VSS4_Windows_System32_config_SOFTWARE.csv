@@ -1,0 +1,2 @@
+﻿FirstNetwork,BatchKeyPath,NetworkName,BatchValueName,NameType,FirstConnectLOCAL,LastConnectedLOCAL,Managed,DNSSuffix,GatewayMacAddress,ProfileGUID
+Net 2.4,ROOT\Microsoft\Windows NT\CurrentVersion\NetworkList\Profiles\{0A4E7D69-1C3A-4532-9090-329AF9967A78},Net 2.4,Multiple,Wireless,2018-03-27 05:15:58.7110000,2018-03-27 05:15:58.7110000,False,<none>,5C-8F-E0-2A-1C-68,{0A4E7D69-1C3A-4532-9090-329AF9967A78}

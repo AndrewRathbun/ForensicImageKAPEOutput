@@ -1,0 +1,16 @@
+﻿Timestamp,BatchKeyPath,DriverDesc,BatchValueName,DriverDate,DriverVersion,ProviderName,DeviceInstanceid
+2018-03-27 12:11:46.5238175,ROOT\ControlSet001\Control\Class\{4d36e972-e325-11ce-bfc1-08002be10318}\0000,Microsoft Kernel Debug Network Adapter,Multiple,6-21-2006,10.0.16299.15,Microsoft,ROOT\KDNIC\0000
+2018-03-27 12:11:55.7963369,ROOT\ControlSet001\Control\Class\{4d36e972-e325-11ce-bfc1-08002be10318}\0001,Intel(R) 82579LM Gigabit Network Connection,Multiple,4-5-2016,12.15.22.6,Microsoft,PCI\VEN_8086&DEV_1502&SUBSYS_05341028&REV_04\3&11583659&0&C8
+2018-03-27 12:11:56.9758305,ROOT\ControlSet001\Control\Class\{4d36e972-e325-11ce-bfc1-08002be10318}\0002,Broadcom 802.11n Network Adapter,Multiple,6-2-2013,6.30.223.256,Microsoft,PCI\VEN_14E4&DEV_4727&SUBSYS_00151028&REV_01\4&752ea02&0&00E1
+2018-03-27 12:11:58.5697319,ROOT\ControlSet001\Control\Class\{4d36e972-e325-11ce-bfc1-08002be10318}\0003,Microsoft Wi-Fi Direct Virtual Adapter,Multiple,6-21-2006,10.0.16299.15,Microsoft,{5d624f94-8850-40c3-a3fa-a4fd2080baf3}\vwifimp_wfd\5&2b14fa57&0&11
+2018-03-27 12:15:05.5438574,ROOT\ControlSet001\Control\Class\{4d36e972-e325-11ce-bfc1-08002be10318}\0004,WAN Miniport (SSTP),Multiple,6-21-2006,10.0.16299.15,Microsoft,SWD\MSRRAS\MS_SSTPMINIPORT
+2018-03-27 12:15:05.5443578,ROOT\ControlSet001\Control\Class\{4d36e972-e325-11ce-bfc1-08002be10318}\0005,WAN Miniport (IKEv2),Multiple,6-21-2006,10.0.16299.15,Microsoft,SWD\MSRRAS\MS_AGILEVPNMINIPORT
+2018-03-27 12:15:05.5448585,ROOT\ControlSet001\Control\Class\{4d36e972-e325-11ce-bfc1-08002be10318}\0006,WAN Miniport (L2TP),Multiple,6-21-2006,10.0.16299.15,Microsoft,SWD\MSRRAS\MS_L2TPMINIPORT
+2018-03-27 12:15:05.5458603,ROOT\ControlSet001\Control\Class\{4d36e972-e325-11ce-bfc1-08002be10318}\0007,WAN Miniport (PPTP),Multiple,6-21-2006,10.0.16299.15,Microsoft,SWD\MSRRAS\MS_PPTPMINIPORT
+2018-03-27 12:15:05.5463610,ROOT\ControlSet001\Control\Class\{4d36e972-e325-11ce-bfc1-08002be10318}\0008,WAN Miniport (PPPOE),Multiple,6-21-2006,10.0.16299.15,Microsoft,SWD\MSRRAS\MS_PPPOEMINIPORT
+2018-03-27 12:15:05.4176515,ROOT\ControlSet001\Control\Class\{4d36e972-e325-11ce-bfc1-08002be10318}\0009,WAN Miniport (IP),Multiple,6-21-2006,10.0.16299.15,Microsoft,SWD\MSRRAS\MS_NDISWANIP
+2018-03-27 12:15:05.4862628,ROOT\ControlSet001\Control\Class\{4d36e972-e325-11ce-bfc1-08002be10318}\0010,WAN Miniport (IPv6),Multiple,6-21-2006,10.0.16299.15,Microsoft,SWD\MSRRAS\MS_NDISWANIPV6
+2018-03-27 12:15:05.5298349,ROOT\ControlSet001\Control\Class\{4d36e972-e325-11ce-bfc1-08002be10318}\0011,WAN Miniport (Network Monitor),Multiple,6-21-2006,10.0.16299.15,Microsoft,SWD\MSRRAS\MS_NDISWANBH
+2018-04-02 00:52:52.1869182,ROOT\ControlSet001\Control\Class\{4d36e972-e325-11ce-bfc1-08002be10318}\0012,Microsoft Teredo Tunneling Adapter,Multiple,6-21-2006,10.0.16299.15,Microsoft,SWD\IP_TUNNEL_VBUS\Teredo_Tunnel_Device
+2018-03-27 09:22:49.3924032,ROOT\ControlSet001\Control\Class\{4d36e972-e325-11ce-bfc1-08002be10318}\0013,Bluetooth Device (RFCOMM Protocol TDI),Multiple,6-21-2006,10.0.16299.15,Microsoft,BTH\MS_RFCOMM\7&d1cbea8&0&0
+2018-03-27 09:22:50.2674342,ROOT\ControlSet001\Control\Class\{4d36e972-e325-11ce-bfc1-08002be10318}\0014,Bluetooth Device (Personal Area Network),Multiple,6-21-2006,10.0.16299.15,Microsoft,BTH\MS_BTHPAN\7&d1cbea8&0&3

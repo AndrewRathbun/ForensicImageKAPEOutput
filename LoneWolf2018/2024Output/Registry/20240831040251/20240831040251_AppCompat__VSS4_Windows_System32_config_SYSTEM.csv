@@ -1,0 +1,71 @@
+﻿CacheEntryPosition,BatchKeyPath,ProgramName,BatchValueName,ModifiedTime
+0,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\system32\provtool.exe,AppCompatCache,2017-12-14 01:39:08.7475130
+1,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\System32\vds.exe,AppCompatCache,2017-09-29 13:42:04.8135912
+2,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\System32\vdsldr.exe,AppCompatCache,2017-09-29 13:42:04.8135912
+3,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\SysWOW64\ByteCodeGenerator.exe,AppCompatCache,2017-09-29 13:42:11.6422654
+4,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\system32\ByteCodeGenerator.exe,AppCompatCache,2017-09-29 13:41:30.3108116
+5,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,00000009	000a42a75dd50000	000a00003ad80000	8664	Microsoft.ZuneVideo	8wekyb3d8bbwe	,AppCompatCache,
+6,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,00000009	000a42a75dd50000	000a00003ad80000	8664	Microsoft.ZuneMusic	8wekyb3d8bbwe	,AppCompatCache,
+7,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,00000009	000c001e13890000	000a000037ec0000	8664	Microsoft.XboxIdentityProvider	8wekyb3d8bbwe	,AppCompatCache,
+8,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,00000009	0001001461aa0000	000a00003f520000	8664	Microsoft.XboxGameOverlay	8wekyb3d8bbwe	,AppCompatCache,
+9,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,00000009	001f00203e820000	000a00003f810000	8664	Microsoft.XboxApp	8wekyb3d8bbwe	,AppCompatCache,
+10,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,00000009	2dba03ea00090000	000a00003ad70000	8664	Microsoft.WindowsStore	8wekyb3d8bbwe	,AppCompatCache,
+11,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,00000009	000a06aa06190000	000a00003ad70000	8664	Microsoft.WindowsSoundRecorder	8wekyb3d8bbwe	,AppCompatCache,
+12,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,00000009	000506aa08d50000	000a00003ad80000	8664	Microsoft.WindowsMaps	8wekyb3d8bbwe	,AppCompatCache,
+13,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,00000009	000106a908490000	000a00003ad70000	8664	Microsoft.WindowsFeedbackHub	8wekyb3d8bbwe	,AppCompatCache,
+14,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,00000009	00112031a13b0000	000a00003aa90000	8664	microsoft.windowscommunicationsapps	8wekyb3d8bbwe	,AppCompatCache,
+15,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,00000009	07e102d700140000	000a000038390000	8664	Microsoft.WindowsCamera	8wekyb3d8bbwe	,AppCompatCache,
+16,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,00000009	000a06aa09660000	000a00003ad70000	8664	Microsoft.WindowsCalculator	8wekyb3d8bbwe	,AppCompatCache,
+17,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,00000009	000a06aa09610000	000a00003ad70000	8664	Microsoft.WindowsAlarms	8wekyb3d8bbwe	,AppCompatCache,
+18,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,00000009	07e190cf401a0000	000a00003ad70000	8664	Microsoft.Windows.Photos	8wekyb3d8bbwe	,AppCompatCache,
+19,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,00000009	000100003fc80000	000a00003a770000	8664	Microsoft.Wallet	8wekyb3d8bbwe	,AppCompatCache,
+20,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,00000009	000b001202540000	000a000038390000	8664	Microsoft.SkypeApp	kzf8qxf38zg5c	,AppCompatCache,
+21,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,00000009	0001000009760000	000a00003ad70000	8664	Microsoft.Print3D	8wekyb3d8bbwe	,AppCompatCache,
+22,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,00000009	000a0002092f0000	000a00003f710000	8664	Microsoft.People	8wekyb3d8bbwe	,AppCompatCache,
+23,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,00000009	000306ac08b00000	000a00003f440000	8664	Microsoft.OneConnect	8wekyb3d8bbwe	,AppCompatCache,
+24,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,00000009	001120aee10b0000	000a00003aa90000	8664	Microsoft.Office.OneNote	8wekyb3d8bbwe	,AppCompatCache,
+25,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,00000009	000206ad0fbb0000	000a00003ad70000	8664	Microsoft.MSPaint	8wekyb3d8bbwe	,AppCompatCache,
+26,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,00000009	0001000800020000	000a00003a920000	8664	Microsoft.MicrosoftStickyNotes	8wekyb3d8bbwe	,AppCompatCache,
+27,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,00000009	000300111fe20000	000a000028000000	8664	Microsoft.MicrosoftSolitaireCollection	8wekyb3d8bbwe	,AppCompatCache,
+28,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,00000009	001120de17250000	000a000037b10000	8664	Microsoft.MicrosoftOfficeHub	8wekyb3d8bbwe	,AppCompatCache,
+29,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,00000009	000106ab65a30000	000a00003ad70000	8664	Microsoft.Microsoft3DViewer	8wekyb3d8bbwe	,AppCompatCache,
+30,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,00000009	000300203a990000	000a00003ad70000	8664	Microsoft.Messaging	8wekyb3d8bbwe	,AppCompatCache,
+31,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,00000009	0005000b06690000	000a000038390000	8664	Microsoft.Getstarted	8wekyb3d8bbwe	,AppCompatCache,
+32,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,00000009	000100002f810000	000a00003ad70000	8664	Microsoft.DesktopAppInstaller	8wekyb3d8bbwe	,AppCompatCache,
+33,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,00000009	0004001509bc0000	000a00003ad70000	8664	Microsoft.BingWeather	8wekyb3d8bbwe	,AppCompatCache,
+34,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,00000000	000a06a900040000	000a000028000000	8664	Microsoft.Advertising.Xaml	8wekyb3d8bbwe	,AppCompatCache,
+35,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,00000009	000a06a900040000	000a000028000000	8664	Microsoft.Advertising.Xaml	8wekyb3d8bbwe	,AppCompatCache,
+36,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,00000009	000a0000064a0000	000a000028000000	8664	Microsoft.Services.Store.Engagement	8wekyb3d8bbwe	,AppCompatCache,
+37,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,00000000	000a0000064a0000	000a000028000000	8664	Microsoft.Services.Store.Engagement	8wekyb3d8bbwe	,AppCompatCache,
+38,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,0000000b	03e83fab000f0000	000a000000000000	8664	Microsoft.XboxGameCallableUI	cw5n1h2txyewy	neutral,AppCompatCache,
+39,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,0000000b	000a00003fab000f	000a00003fab000f	8664	Microsoft.Windows.ShellExperienceHost	cw5n1h2txyewy	neutral,AppCompatCache,
+40,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,0000000b	000a00003fab000f	000a000000000000	8664	Microsoft.Windows.SecureAssessmentBrowser	cw5n1h2txyewy	neutral,AppCompatCache,
+41,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,0000000b	000a00003fab000f	000a00003f480000	8664	Microsoft.Windows.SecHealthUI	cw5n1h2txyewy	,AppCompatCache,
+42,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,0000000b	000a00003fab000f	000a00003fab000f	8664	Microsoft.Windows.PeopleExperienceHost	cw5n1h2txyewy	neutral,AppCompatCache,
+43,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,0000000b	0001000900063fab	000a00003fab0062	8664	Microsoft.Windows.Cortana	cw5n1h2txyewy	neutral,AppCompatCache,
+44,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,0000000b	000a00003fab000f	000a000000000000	8664	Microsoft.Windows.ContentDeliveryManager	cw5n1h2txyewy	neutral,AppCompatCache,
+45,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,0000000b	000a00003fab000f	000b000000000000	8664	Microsoft.Windows.CloudExperienceHost	cw5n1h2txyewy	neutral,AppCompatCache,
+46,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,0000000b	000a00003fab000f	000a000000000000	8664	Microsoft.PPIProjection	cw5n1h2txyewy	neutral,AppCompatCache,
+47,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,0000000b	00293fab000f0000	000c000000000000	8664	Microsoft.MicrosoftEdge	8wekyb3d8bbwe	,AppCompatCache,
+48,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,0000000b	000a00003fab000f	000a000038390000	8664	Microsoft.ECApp	8wekyb3d8bbwe	,AppCompatCache,
+49,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,0000000b	000a00003fab000f	000a000000000000	8664	Microsoft.BioEnrollment	cw5n1h2txyewy	,AppCompatCache,
+50,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,0000000b	000a00003fab000f	000a00003fab000f	8664	Microsoft.AccountsControl	cw5n1h2txyewy	,AppCompatCache,
+51,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,0000000b	03e83fab000f0000	000a0000295b0000	8664	Microsoft.AAD.BrokerPlugin	cw5n1h2txyewy	neutral,AppCompatCache,
+52,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Program Files\Windows Defender\NisSrv.exe,AppCompatCache,2017-09-29 13:41:19.1692894
+53,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Program Files\Windows Defender\MpCmdRun.exe,AppCompatCache,2017-09-29 13:41:19.1224102
+54,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\system32\AUDIODG.EXE,AppCompatCache,2017-12-14 01:39:06.2162236
+55,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\System32\WUDFHost.exe,AppCompatCache,2017-09-29 13:41:51.7500389
+56,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\system32\DrvInst.exe,AppCompatCache,2017-09-29 13:41:56.6098040
+57,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Program Files\Windows Defender\MsMpEng.exe,AppCompatCache,2017-09-29 13:41:19.1224102
+58,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\system32\SecurityHealthService.exe,AppCompatCache,2017-12-14 01:39:08.7631381
+59,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\System32\spoolsv.exe,AppCompatCache,2017-09-29 13:42:06.0324400
+60,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\servicing\TrustedInstaller.exe,AppCompatCache,2017-09-29 08:45:12.9770022
+61,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\system32\secinit.exe,AppCompatCache,2017-09-29 13:41:49.4998618
+62,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\system32\oobe\setup.exe,AppCompatCache,2017-09-29 13:41:58.6412191
+63,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\system32\oobe\windeploy.exe,AppCompatCache,2017-09-29 13:41:58.8912390
+64,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\system32\dwm.exe,AppCompatCache,2017-09-29 13:41:41.6242269
+65,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\system32\sppsvc.exe,AppCompatCache,2017-12-14 01:39:08.3725063
+66,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\system32\fontdrvhost.exe,AppCompatCache,2017-12-14 01:39:08.6693880
+67,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,c:\windows\system32\svchost.exe,AppCompatCache,2017-09-29 13:41:43.3743639
+68,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\system32\lsass.exe,AppCompatCache,2017-09-29 13:41:43.0774670
+69,ROOT\ControlSet001\Control\Session Manager\AppCompatCache,C:\Windows\system32\services.exe,AppCompatCache,2017-12-14 01:39:08.3100098

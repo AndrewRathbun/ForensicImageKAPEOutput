@@ -1,0 +1,2 @@
+timestamp,detections,path,Event ID,Channel,Computer,Information
+2018-04-04T05:45:49.897260+00:00,PowerShell - Script Block Auditing,C:\temp\2024LoneWolf\tout\D\Windows\System32\winevt\logs\Microsoft-Windows-PowerShell%4Operational.evtx,4104,Microsoft-Windows-PowerShell/Operational,DESKTOP-PM6C56D,C:\Windows\TEMP\SDIAG_25f8b718-b3d1-455c-88dd-58ab6c983fb7\CL_Utility.ps1

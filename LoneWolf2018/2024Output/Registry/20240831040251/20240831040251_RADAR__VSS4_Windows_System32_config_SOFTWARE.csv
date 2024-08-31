@@ -1,0 +1,10 @@
+﻿KeyName,BatchKeyPath,Filename,BatchValueName,LastDectectionTime
+ReflectionApplications,ROOT\Microsoft\RADAR\HeapLeakDetection\ReflectionApplications\csrss.exe,csrss.exe,Multiple,
+ReflectionApplications,ROOT\Microsoft\RADAR\HeapLeakDetection\ReflectionApplications\dwm.exe,dwm.exe,Multiple,
+ReflectionApplications,ROOT\Microsoft\RADAR\HeapLeakDetection\ReflectionApplications\explorer.exe,explorer.exe,Multiple,
+ReflectionApplications,ROOT\Microsoft\RADAR\HeapLeakDetection\ReflectionApplications\gadgethost.exe,gadgethost.exe,Multiple,
+ReflectionApplications,ROOT\Microsoft\RADAR\HeapLeakDetection\ReflectionApplications\mobsync.exe,mobsync.exe,Multiple,
+ReflectionApplications,ROOT\Microsoft\RADAR\HeapLeakDetection\ReflectionApplications\msascui.exe,msascui.exe,Multiple,
+ReflectionApplications,ROOT\Microsoft\RADAR\HeapLeakDetection\ReflectionApplications\sidebar.exe,sidebar.exe,Multiple,
+ReflectionApplications,ROOT\Microsoft\RADAR\HeapLeakDetection\ReflectionApplications\splwow64.exe,splwow64.exe,Multiple,
+ReflectionApplications,ROOT\Microsoft\RADAR\HeapLeakDetection\ReflectionApplications\winlogon.exe,winlogon.exe,Multiple,

@@ -1,0 +1,14 @@
+﻿ProtocolList,BatchKeyPath,Alias,BatchValueName,Description,Type,PermanentAddress,CurrentAddress
+RDMANDK Tcpip MsLldp Tcpip6 rspndr RasPppoe Ndisuio lltdio,ROOT\ControlSet001\Control\NetworkSetup2\Interfaces\{08BA0CD8-E98C-475C-BADF-65130C043BD6},Ethernet,Multiple,Intel(R) 82579LM Gigabit Network Connection,6,EC-F4-BB-48-7F-ED,EC-F4-BB-48-7F-ED
+NdisWan,ROOT\ControlSet001\Control\NetworkSetup2\Interfaces\{20359102-F09A-4F21-AEC8-55E2110A9D7C},Local Area Connection* 4,Multiple,WAN Miniport (L2TP),131,,
+RDMANDK Tcpip MsLldp Tcpip6 rspndr RasPppoe Ndisuio lltdio,ROOT\ControlSet001\Control\NetworkSetup2\Interfaces\{40ECFCB0-BD18-4AFF-9D0A-0AA71CB762A9},Local Area Connection* 1,Multiple,Microsoft Wi-Fi Direct Virtual Adapter,71,EE-0E-C4-20-7F-0E,EE-0E-C4-20-7F-0E
+RDMANDK Tcpip MsLldp Tcpip6 rspndr RasPppoe Ndisuio lltdio,ROOT\ControlSet001\Control\NetworkSetup2\Interfaces\{4B0AE068-B350-4BD4-85AB-77E00E581863},Wi-Fi,Multiple,Broadcom 802.11n Network Adapter,71,EC-0E-C4-20-7F-0E,EC-0E-C4-20-7F-0E
+wanarpv6,ROOT\ControlSet001\Control\NetworkSetup2\Interfaces\{678DAA0C-A0D5-4FDE-8AAE-0EBF5AD1D95E},Local Area Connection* 8,Multiple,WAN Miniport (IPv6),6,,
+NdisWan,ROOT\ControlSet001\Control\NetworkSetup2\Interfaces\{6C41F5FB-8B52-4845-9379-21732ADBDF3A},Local Area Connection* 6,Multiple,WAN Miniport (PPPOE),23,,
+wanarp,ROOT\ControlSet001\Control\NetworkSetup2\Interfaces\{8DE08C4B-6A21-4501-96E6-29BC06C61134},Local Area Connection* 7,Multiple,WAN Miniport (IP),6,,
+TCPIP6TUNNEL Tcpip6,ROOT\ControlSet001\Control\NetworkSetup2\Interfaces\{AD80A60B-96F2-4B2D-ACE6-B7A81729FF0E},Teredo Tunneling Pseudo-Interface,Multiple,Teredo Tunneling Pseudo-Interface,131,00-00-00-00-00-00-00-E0-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00,00-00-00-00-00-00-00-E0-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00
+NdisWan,ROOT\ControlSet001\Control\NetworkSetup2\Interfaces\{AF874C51-0C44-441D-BC71-79696679DAE3},Local Area Connection* 2,Multiple,WAN Miniport (SSTP),131,,
+NdisWan,ROOT\ControlSet001\Control\NetworkSetup2\Interfaces\{B19F4895-6A5F-44D4-A6F6-C1B782C13F78},Local Area Connection* 3,Multiple,WAN Miniport (IKEv2),131,,
+,ROOT\ControlSet001\Control\NetworkSetup2\Interfaces\{D34540A6-C808-4E86-A0A7-49C8B40E76F2},Local Area Connection* 9,Multiple,WAN Miniport (Network Monitor),6,,
+NdisWan,ROOT\ControlSet001\Control\NetworkSetup2\Interfaces\{EF21A9CA-6F6B-4DCA-9ACD-A3E1EA774A02},Local Area Connection* 5,Multiple,WAN Miniport (PPTP),131,,
+RDMANDK Tcpip MsLldp Tcpip6 rspndr RasPppoe Ndisuio lltdio,ROOT\ControlSet001\Control\NetworkSetup2\Interfaces\{FDB7208D-495C-4214-BE89-A57DDD46F1CE},Ethernet (Kernel Debugger),Multiple,Microsoft Kernel Debug Network Adapter,6,,

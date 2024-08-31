@@ -1,0 +1,14 @@
+timestamp,detections,path,Event ID,Record ID,Computer,User,User SID,Member SID
+2018-03-27T09:18:58.257194+00:00,User Added to Global Group,C:\temp\2024LoneWolf\tout\D\Windows\System32\winevt\logs\Security.evtx,4728,437,WIN-1M3263ACE5D,None,,S-1-5-21-2734969515-1644526556-1039763013-1001
+2018-03-27T09:18:58.257533+00:00,New User Created,C:\temp\2024LoneWolf\tout\D\Windows\System32\winevt\logs\Security.evtx,4720,438,WIN-1M3263ACE5D,jcloudy,S-1-5-21-2734969515-1644526556-1039763013-1001,
+2018-03-27T09:18:58.258052+00:00,User Added to Local Group,C:\temp\2024LoneWolf\tout\D\Windows\System32\winevt\logs\Security.evtx,4732,439,WIN-1M3263ACE5D,Users,,S-1-5-21-2734969515-1644526556-1039763013-1001
+2018-03-27T09:18:58.283092+00:00,User Added to Local Group,C:\temp\2024LoneWolf\tout\D\Windows\System32\winevt\logs\Security.evtx,4732,449,WIN-1M3263ACE5D,Administrators,,S-1-5-21-2734969515-1644526556-1039763013-1001
+2018-03-27T12:11:45.837340+00:00,User Added to Local Group,C:\temp\2024LoneWolf\tout\D\Windows\System32\winevt\logs\Security.evtx,4732,30,WIN-1M3263ACE5D,IIS_IUSRS,,S-1-5-17
+2018-03-27T12:11:45.839072+00:00,User Added to Global Group,C:\temp\2024LoneWolf\tout\D\Windows\System32\winevt\logs\Security.evtx,4728,39,WIN-1M3263ACE5D,None,,S-1-5-21-2734969515-1644526556-1039763013-504
+2018-03-27T12:11:45.839669+00:00,New User Created,C:\temp\2024LoneWolf\tout\D\Windows\System32\winevt\logs\Security.evtx,4720,40,WIN-1M3263ACE5D,WDAGUtilityAccount,S-1-5-21-2734969515-1644526556-1039763013-504,
+2018-03-27T12:11:53.092043+00:00,User Added to Local Group,C:\temp\2024LoneWolf\tout\D\Windows\System32\winevt\logs\Security.evtx,4732,83,WIN-1M3263ACE5D,Users,,S-1-5-4
+2018-03-27T12:11:53.092204+00:00,User Added to Local Group,C:\temp\2024LoneWolf\tout\D\Windows\System32\winevt\logs\Security.evtx,4732,84,WIN-1M3263ACE5D,Users,,S-1-5-11
+2018-03-27T12:13:21.754440+00:00,User Added to Global Group,C:\temp\2024LoneWolf\tout\D\Windows\System32\winevt\logs\Security.evtx,4728,223,WIN-1M3263ACE5D,None,,S-1-5-21-2734969515-1644526556-1039763013-1000
+2018-03-27T12:13:21.755303+00:00,New User Created,C:\temp\2024LoneWolf\tout\D\Windows\System32\winevt\logs\Security.evtx,4720,224,WIN-1M3263ACE5D,defaultuser0,S-1-5-21-2734969515-1644526556-1039763013-1000,
+2018-03-27T12:13:21.756421+00:00,User Added to Local Group,C:\temp\2024LoneWolf\tout\D\Windows\System32\winevt\logs\Security.evtx,4732,225,WIN-1M3263ACE5D,Users,,S-1-5-21-2734969515-1644526556-1039763013-1000
+2018-03-27T12:13:21.874005+00:00,User Added to Local Group,C:\temp\2024LoneWolf\tout\D\Windows\System32\winevt\logs\Security.evtx,4732,240,WIN-1M3263ACE5D,Administrators,,S-1-5-21-2734969515-1644526556-1039763013-1000

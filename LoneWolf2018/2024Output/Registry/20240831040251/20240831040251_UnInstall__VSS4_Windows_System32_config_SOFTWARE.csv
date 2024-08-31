@@ -1,0 +1,37 @@
+﻿Timestamp,BatchKeyPath,KeyName,BatchValueName,DisplayName,DisplayVersion,Publisher,InstallDate,InstallSource,InstallLocation,UninstallString
+2017-09-29 13:48:40.4386352,ROOT\Microsoft\Windows\CurrentVersion\Uninstall\AddressBook,AddressBook,Multiple,,,,,,,
+2017-09-29 13:48:40.4386352,ROOT\Microsoft\Windows\CurrentVersion\Uninstall\Connection Manager,Connection Manager,Multiple,,,,,,,
+2017-09-29 13:48:40.4386352,ROOT\Microsoft\Windows\CurrentVersion\Uninstall\DirectDrawEx,DirectDrawEx,Multiple,,,,,,,
+2017-09-29 14:41:52.4664008,ROOT\Microsoft\Windows\CurrentVersion\Uninstall\DXM_Runtime,DXM_Runtime,Multiple,,,,,,,
+2017-09-29 13:48:40.4386352,ROOT\Microsoft\Windows\CurrentVersion\Uninstall\Fontcore,Fontcore,Multiple,,,,,,,
+2017-09-29 13:48:40.4386352,ROOT\Microsoft\Windows\CurrentVersion\Uninstall\IE40,IE40,Multiple,,,,,,,
+2017-09-29 13:48:40.4386352,ROOT\Microsoft\Windows\CurrentVersion\Uninstall\IE4Data,IE4Data,Multiple,,,,,,,
+2017-09-29 13:48:40.4386352,ROOT\Microsoft\Windows\CurrentVersion\Uninstall\IE5BAKEX,IE5BAKEX,Multiple,,,,,,,
+2017-09-29 13:48:40.4386352,ROOT\Microsoft\Windows\CurrentVersion\Uninstall\IEData,IEData,Multiple,,,,,,,
+2017-09-29 13:48:40.4386352,ROOT\Microsoft\Windows\CurrentVersion\Uninstall\MobileOptionPack,MobileOptionPack,Multiple,,,,,,,
+2017-09-29 14:41:52.4664008,ROOT\Microsoft\Windows\CurrentVersion\Uninstall\MPlayer2,MPlayer2,Multiple,,,,,,,
+2017-09-29 13:48:40.4386352,ROOT\Microsoft\Windows\CurrentVersion\Uninstall\SchedulingAgent,SchedulingAgent,Multiple,,,,,,,
+2018-03-27 09:21:06.3805731,ROOT\Microsoft\Windows\CurrentVersion\Uninstall\VulkanRT1.0.26.0,VulkanRT1.0.26.0,Multiple,Vulkan Run Time Libraries 1.0.26.0,1.0.26.0,"LunarG, Inc.",,,,C:\Program Files (x86)\VulkanRT\1.0.26.0\UninstallVulkanRT.exe
+2017-09-29 13:48:40.4386352,ROOT\Microsoft\Windows\CurrentVersion\Uninstall\WIC,WIC,Multiple,,,,,,,
+2018-03-27 09:17:25.1269485,ROOT\Microsoft\Windows\CurrentVersion\Uninstall\{9F72EF8B-AEC9-4CA5-B483-143980AFD6FD},{9F72EF8B-AEC9-4CA5-B483-143980AFD6FD},Multiple,Dell Touchpad,10.1207.101.103,"ALPS ELECTRIC CO., LTD.",,,C:\Program Files\DellTPad,"""C:\Program Files\DellTPad\Uninstap.exe"" ADDREMOVE"
+2018-03-27 09:21:38.6740919,ROOT\Microsoft\Windows\CurrentVersion\Uninstall\{B2FE1952-0186-46C3-BAEC-A80AA35AC5B8}_Display.3DVision,{B2FE1952-0186-46C3-BAEC-A80AA35AC5B8}_Display.3DVision,Multiple,NVIDIA 3D Vision Driver 376.54,376.54,NVIDIA Corporation,20180327,C:\Program Files\NVIDIA Corporation\Installer2\Display.3DVision.{B000D554-73C9-4982-B0CE-7FEEC8F7C5B2},C:\Program Files (x86)\NVIDIA Corporation\3D Vision,"""C:\Windows\SysWOW64\RunDll32.EXE"" ""C:\Program Files\NVIDIA Corporation\Installer2\InstallerCore\NVI2.DLL"",UninstallPackage Display.3DVision"
+2018-03-27 09:21:05.5880618,ROOT\Microsoft\Windows\CurrentVersion\Uninstall\{B2FE1952-0186-46C3-BAEC-A80AA35AC5B8}_Display.ControlPanel,{B2FE1952-0186-46C3-BAEC-A80AA35AC5B8}_Display.ControlPanel,Multiple,NVIDIA Control Panel 376.54,376.54,NVIDIA Corporation,20180327,C:\Program Files\NVIDIA Corporation\Installer2\Display.ControlPanel.{4B65D6E1-13EC-4853-857D-531054927F83},C:\Program Files\NVIDIA Corporation\Control Panel Client,
+2018-03-27 09:21:06.5883289,ROOT\Microsoft\Windows\CurrentVersion\Uninstall\{B2FE1952-0186-46C3-BAEC-A80AA35AC5B8}_Display.Driver,{B2FE1952-0186-46C3-BAEC-A80AA35AC5B8}_Display.Driver,Multiple,NVIDIA Graphics Driver 376.54,376.54,NVIDIA Corporation,20180327,C:\Program Files\NVIDIA Corporation\Installer2\Display.Driver.{F1A55424-D217-43B2-9E6F-93F765181C8D},C:\Program Files\NVIDIA Corporation\Installer2\Display.Driver.{F1A55424-D217-43B2-9E6F-93F765181C8D},"""C:\Windows\SysWOW64\RunDll32.EXE"" ""C:\Program Files\NVIDIA Corporation\Installer2\InstallerCore\NVI2.DLL"",UninstallPackage Display.Driver"
+2018-03-27 09:21:39.3459896,ROOT\Microsoft\Windows\CurrentVersion\Uninstall\{B2FE1952-0186-46C3-BAEC-A80AA35AC5B8}_Display.NView,{B2FE1952-0186-46C3-BAEC-A80AA35AC5B8}_Display.NView,Multiple,NVIDIA nView 148.03,148.03,NVIDIA Corporation,20180327,C:\Program Files\NVIDIA Corporation\Installer2\Display.NView.{9CBEDA7A-3394-422C-8659-DD4B39267A02},C:\Program Files\NVIDIA Corporation\nview,"""C:\Windows\SysWOW64\RunDll32.EXE"" ""C:\Program Files\NVIDIA Corporation\Installer2\InstallerCore\NVI2.DLL"",UninstallPackage Display.NView"
+2018-03-27 09:21:06.6731426,ROOT\Microsoft\Windows\CurrentVersion\Uninstall\{B2FE1952-0186-46C3-BAEC-A80AA35AC5B8}_installer,{B2FE1952-0186-46C3-BAEC-A80AA35AC5B8}_installer,Multiple,NVIDIA Install Application,2.1002.236.2037,NVIDIA Corporation,20180327,,C:\Program Files\NVIDIA Corporation\Installer2\InstallerCore,
+2018-03-27 09:20:59.5097236,ROOT\Microsoft\Windows\CurrentVersion\Uninstall\{B2FE1952-0186-46C3-BAEC-A80AA35AC5B8}_NVDisplayContainer,{B2FE1952-0186-46C3-BAEC-A80AA35AC5B8}_NVDisplayContainer,Multiple,NVIDIA Display Container,1.0,NVIDIA Corporation,20180327,C:\Program Files\NVIDIA Corporation\Installer2\NVDisplayContainer.{38406642-2A7B-4C55-8DFF-7786D461C640},C:\Program Files\NVIDIA Corporation\Display.NvContainer,
+2018-03-27 09:20:59.5878506,ROOT\Microsoft\Windows\CurrentVersion\Uninstall\{B2FE1952-0186-46C3-BAEC-A80AA35AC5B8}_NVDisplayContainerLS,{B2FE1952-0186-46C3-BAEC-A80AA35AC5B8}_NVDisplayContainerLS,Multiple,NVIDIA Display Container LS,1.0,NVIDIA Corporation,20180327,C:\Program Files\NVIDIA Corporation\Installer2\NVDisplayContainerLS.{81BACCF5-054C-4518-97B7-9484EAFF5BE0},C:\Program Files\NVIDIA Corporation\Installer2\NVDisplayContainerLS.{81BACCF5-054C-4518-97B7-9484EAFF5BE0},
+2017-09-29 13:48:39.8135886,ROOT\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\AddressBook,AddressBook,Multiple,,,,,,,
+2017-09-29 13:48:39.8135886,ROOT\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\Connection Manager,Connection Manager,Multiple,,,,,,,
+2017-09-29 13:48:39.8135886,ROOT\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\DirectDrawEx,DirectDrawEx,Multiple,,,,,,,
+2017-09-29 14:41:52.4044018,ROOT\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\DXM_Runtime,DXM_Runtime,Multiple,,,,,,,
+2017-09-29 13:48:39.8135886,ROOT\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\Fontcore,Fontcore,Multiple,,,,,,,
+2017-09-29 13:48:39.8135886,ROOT\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\IE40,IE40,Multiple,,,,,,,
+2017-09-29 13:48:39.8135886,ROOT\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\IE4Data,IE4Data,Multiple,,,,,,,
+2017-09-29 13:48:39.8135886,ROOT\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\IE5BAKEX,IE5BAKEX,Multiple,,,,,,,
+2017-09-29 13:48:39.8135886,ROOT\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\IEData,IEData,Multiple,,,,,,,
+2017-09-29 13:48:39.8135886,ROOT\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\MobileOptionPack,MobileOptionPack,Multiple,,,,,,,
+2017-09-29 14:41:52.4044018,ROOT\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\MPlayer2,MPlayer2,Multiple,,,,,,,
+2018-03-27 09:21:38.6272156,ROOT\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\NVIDIAStereo,NVIDIAStereo,Multiple,NVIDIA Stereoscopic 3D Driver,7.17.13.7500,NVIDIA Corporation,,,C:\Program Files (x86)\NVIDIA Corporation\3D Vision,"""C:\Program Files (x86)\NVIDIA Corporation\3D Vision\nvStInst.exe"" /uninstall /ask"
+2017-09-29 13:48:39.8135886,ROOT\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\SchedulingAgent,SchedulingAgent,Multiple,,,,,,,
+2017-09-29 13:48:39.8135886,ROOT\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\WIC,WIC,Multiple,,,,,,,
